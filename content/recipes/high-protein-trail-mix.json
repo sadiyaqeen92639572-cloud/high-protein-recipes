@@ -1,0 +1,58 @@
+{
+  "slug": "high-protein-trail-mix",
+  "title": "High Protein Snacks On the Go (Trail Mix Packs)",
+  "hubPath": "snacks",
+  "hubLabel": "Snacks",
+  "metaDescription": "High protein trail mix packs with 14g of protein per pouch — roasted chickpeas, nuts and seeds portioned for grab-and-go. No prep day-of.",
+  "targetKeywords": ["high protein snacks on the go", "protein snacks", "high protein snack ideas"],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-12",
+  "prepTime": "PT10M",
+  "cookTime": "PT0M",
+  "totalTime": "PT10M",
+  "recipeYield": "6 packs",
+  "recipeCategory": "Snack",
+  "recipeCuisine": "American",
+  "keywords": "high protein snacks on the go, trail mix, portable protein snack",
+  "nutrition": {
+    "calories": "190",
+    "proteinContent": "14g",
+    "carbohydrateContent": "16g",
+    "fatContent": "9g"
+  },
+  "ingredients": [
+    "2 cups roasted chickpeas",
+    "1 cup almonds",
+    "1/2 cup pumpkin seeds",
+    "1/2 cup dried cranberries",
+    "1/2 cup dark chocolate chips",
+    "Small jars or resealable bags, for portioning"
+  ],
+  "steps": [
+    { "name": "Combine everything", "text": "Mix roasted chickpeas, almonds, pumpkin seeds, dried cranberries, and dark chocolate chips in a large bowl." },
+    { "name": "Portion into packs", "text": "Divide evenly between 6 small jars or resealable bags — about 2/3 cup per pack." },
+    { "name": "Store and grab", "text": "Keep packs in the pantry or fridge. Grab one on the way out the door — no prep needed day-of." }
+  ],
+  "tips": [
+    { "question": "Why roasted chickpeas instead of plain?", "answer": "Roasted chickpeas add crunch and about 6g of protein per half cup — plain canned chickpeas are soft and don't work in a dry trail mix." },
+    { "question": "How long do these packs stay fresh?", "answer": "Up to 2 weeks at room temperature in a sealed container, since everything in the mix is already dry or roasted." },
+    { "question": "Can I swap in different nuts or dried fruit?", "answer": "Yes — walnuts, cashews, or dried apricots all work as substitutes without changing the ratios." },
+    { "question": "Is this mix nut-free adaptable?", "answer": "Swap the almonds for extra pumpkin seeds or roasted chickpeas to keep it nut-free while keeping the protein content similar." }
+  ],
+  "storyIntro": [
+    "Most \"on-the-go\" snacks are really just a bar you grab at the store — this is the version you portion out yourself on a Sunday, so the whole week is already handled by Monday morning.",
+    "Roasted chickpeas do most of the protein work here, backed up by almonds and pumpkin seeds, with dried cranberries and dark chocolate keeping it from tasting like a health food."
+  ],
+  "storyNote": "Portion it into packs the same day you make it, not after it's been sitting loose in a bag — pre-portioned packs are the entire point, since the whole appeal is grabbing one without measuring anything on a rushed morning.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Small mason jars filled with high protein trail mix - roasted chickpeas, almonds, pumpkin seeds, cranberries and chocolate chips",
+    "textureAlt": "Scoop of high protein trail mix with roasted chickpeas, almonds, pumpkin seeds and chocolate chips",
+    "pinAlt": "Hand grabbing a small jar of protein trail mix with roasted chickpeas and nuts"
+  }
+}
