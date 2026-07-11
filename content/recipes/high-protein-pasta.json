@@ -1,0 +1,61 @@
+{
+  "slug": "high-protein-pasta",
+  "title": "High Protein Pasta with Cottage Cheese Alfredo",
+  "hubPath": "dinner",
+  "hubLabel": "Dinner",
+  "metaDescription": "High protein pasta with a creamy cottage cheese alfredo sauce — 32g of protein per serving, no heavy cream needed. Ready in 20 minutes.",
+  "targetKeywords": ["high protein pasta", "cottage cheese recipes", "high protein dinner"],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-12",
+  "prepTime": "PT5M",
+  "cookTime": "PT15M",
+  "totalTime": "PT20M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "Italian-American",
+  "keywords": "high protein pasta, cottage cheese alfredo, protein pasta sauce",
+  "nutrition": {
+    "calories": "420",
+    "proteinContent": "32g",
+    "carbohydrateContent": "48g",
+    "fatContent": "9g"
+  },
+  "ingredients": [
+    "12 oz pasta (rigatoni or penne)",
+    "1 cup cottage cheese",
+    "1/2 cup milk",
+    "2 cloves garlic",
+    "1/2 cup grated parmesan",
+    "1 tbsp olive oil",
+    "Black pepper, to taste",
+    "Fresh parsley, chopped, for serving"
+  ],
+  "steps": [
+    { "name": "Cook the pasta", "text": "Cook pasta in salted water according to package directions. Reserve 1/2 cup pasta water before draining." },
+    { "name": "Blend the sauce", "text": "While the pasta cooks, blend cottage cheese, milk, garlic, and parmesan until completely smooth, about 1 minute." },
+    { "name": "Warm the sauce", "text": "Heat olive oil in a large skillet over medium heat. Pour in the blended sauce and warm gently for 2-3 minutes, stirring — don't let it boil hard." },
+    { "name": "Combine and serve", "text": "Toss the drained pasta into the sauce, adding splashes of reserved pasta water until glossy and coating the noodles. Top with black pepper and parsley." }
+  ],
+  "tips": [
+    { "question": "Why blend the cottage cheese instead of stirring it in?", "answer": "Blending is what turns cottage cheese into a smooth alfredo-style sauce instead of a lumpy, curdy one — this is the single step that makes or breaks the recipe." },
+    { "question": "Can I use a different pasta shape?", "answer": "Yes — any shape works, though ridged shapes like rigatoni or fusilli hold the sauce better than smooth ones." },
+    { "question": "Why add pasta water instead of more milk?", "answer": "Pasta water contains starch that helps the sauce cling to the noodles and turns glossy rather than watery — plain milk doesn't do the same thing." },
+    { "question": "Can I add protein to this, like chicken?", "answer": "Yes — sliced grilled chicken breast or shrimp both work well stirred in at the end, bumping the total protein per serving even higher." }
+  ],
+  "storyIntro": [
+    "Alfredo sauce is usually built on heavy cream and butter, which means real protein has to come from something else entirely. This version flips that — cottage cheese blended smooth becomes the sauce itself, no cream required.",
+    "It comes together in the time it takes the pasta to boil, lands at 32g of protein per serving, and tastes close enough to the real thing that nobody needs to know what's actually in it."
+  ],
+  "storyNote": "The blend has to be completely smooth before it hits the pan — any remaining curds will show up as lumps in the finished sauce, not disappear once heated.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Bowl of pasta coated in creamy white cottage cheese alfredo sauce with black pepper and parsley",
+    "textureAlt": "Fork lifting pasta coated in thick creamy white sauce showing glossy texture",
+    "pinAlt": "Fork twirling creamy cottage cheese alfredo pasta with steam rising"
+  }
+}

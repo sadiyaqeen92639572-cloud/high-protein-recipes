@@ -1,0 +1,57 @@
+{
+  "slug": "greek-yogurt-parfait",
+  "title": "Greek Yogurt Recipe: High Protein Parfait",
+  "hubPath": "breakfast",
+  "hubLabel": "Breakfast",
+  "metaDescription": "Greek yogurt parfait with 26g of protein per serving — layered with granola and fresh berries. Ready in 5 minutes, no cooking required.",
+  "targetKeywords": ["greek yogurt recipes", "high protein breakfast", "high protein recipes"],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-12",
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "recipeYield": "1 serving",
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "American",
+  "keywords": "greek yogurt parfait, high protein breakfast, greek yogurt recipe",
+  "nutrition": {
+    "calories": "280",
+    "proteinContent": "26g",
+    "carbohydrateContent": "32g",
+    "fatContent": "6g"
+  },
+  "ingredients": [
+    "1 cup plain Greek yogurt",
+    "1/2 cup granola",
+    "1/2 cup mixed berries (blueberries, raspberries)",
+    "1 tbsp honey",
+    "1/4 tsp vanilla extract (optional, stirred into yogurt)"
+  ],
+  "steps": [
+    { "name": "Mix the yogurt", "text": "Stir vanilla extract into the Greek yogurt, if using." },
+    { "name": "Layer", "text": "In a glass, layer a third of the yogurt, a third of the granola, and a third of the berries. Repeat twice more." },
+    { "name": "Finish", "text": "Drizzle honey over the top layer and serve immediately so the granola stays crisp." }
+  ],
+  "tips": [
+    { "question": "Why does my parfait get soggy?", "answer": "Granola softens fast once it touches yogurt — assemble right before eating rather than prepping it hours ahead if you want the crunch to hold." },
+    { "question": "Can I meal-prep this for the week?", "answer": "Store the yogurt, granola, and berries separately in the fridge and layer them fresh each morning — combined, it only holds up well for about 30 minutes." },
+    { "question": "What Greek yogurt has the most protein?", "answer": "Plain, unsweetened Greek yogurt has roughly double the protein of flavored varieties, since flavored versions trade some yogurt for added sugar and thickeners." },
+    { "question": "Can I use regular yogurt instead of Greek yogurt?", "answer": "You can, but regular yogurt has about half the protein and a thinner texture — the parfait won't hold its layers as cleanly." }
+  ],
+  "storyIntro": [
+    "A parfait is really just an argument for eating breakfast in layers instead of a bowl — Greek yogurt, granola, and berries stacked so every bite gets a bit of all three instead of one flavor dominating.",
+    "Plain Greek yogurt is doing the heavy lifting here at 26g of protein per serving, with granola and honey adding just enough sweetness that it still feels like a treat."
+  ],
+  "storyNote": "Assemble it right before eating, not the night before — granola loses its crunch fast once it's sitting in yogurt, and that crunch is half the point of a parfait.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Two glasses of layered Greek yogurt parfait with granola, honey and fresh berries",
+    "textureAlt": "Cross-section of a layered Greek yogurt parfait in a glass showing granola and berry layers",
+    "pinAlt": "Spoon lifting a bite of layered Greek yogurt parfait with berries and granola"
+  }
+}
