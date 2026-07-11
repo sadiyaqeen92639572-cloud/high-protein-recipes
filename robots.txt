@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://high-protein-recipes.pages.dev/sitemap.xml

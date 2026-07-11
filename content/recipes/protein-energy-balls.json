@@ -1,0 +1,52 @@
+{
+  "slug": "protein-energy-balls",
+  "title": "No-Bake Protein Energy Balls",
+  "hubPath": "snacks",
+  "metaDescription": "No-bake protein energy balls with 8g of protein each — just oats, peanut butter, and honey rolled into a grab-and-go snack. Ready in 15 minutes, no oven required.",
+  "targetKeywords": ["protein snacks", "high protein snack ideas", "high protein snacks on the go"],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-11",
+  "prepTime": "PT15M",
+  "cookTime": "PT0M",
+  "totalTime": "PT45M",
+  "recipeYield": "12 balls",
+  "recipeCategory": "Snack",
+  "hubLabel": "Snacks",
+  "recipeCuisine": "American",
+  "keywords": "protein energy balls, no bake protein bites, high protein snack",
+  "nutrition": {
+    "calories": "110",
+    "proteinContent": "8g",
+    "carbohydrateContent": "10g",
+    "fatContent": "6g"
+  },
+  "ingredients": [
+    "1 cup rolled oats",
+    "1/2 cup peanut butter",
+    "1/3 cup honey",
+    "1/4 cup vanilla protein powder",
+    "2 tbsp chia seeds",
+    "1/4 cup mini chocolate chips",
+    "Pinch of salt"
+  ],
+  "steps": [
+    { "name": "Mix everything", "text": "Combine oats, peanut butter, honey, protein powder, chia seeds, chocolate chips, and salt in a bowl. Stir until fully combined and slightly sticky." },
+    { "name": "Chill the dough", "text": "Refrigerate the mixture for 15-20 minutes — this makes it much easier to roll without sticking to your hands." },
+    { "name": "Roll into balls", "text": "Scoop about 1 tablespoon of mixture and roll into a ball. Repeat with remaining dough, about 12 balls total." },
+    { "name": "Chill to set", "text": "Refrigerate the rolled balls for at least 30 minutes before eating so they firm up." }
+  ],
+  "tips": [
+    { "question": "Can I make these without protein powder?", "answer": "Yes — omit it and add 2 extra tablespoons of oats to keep the texture from getting too wet. Protein content will drop to about 4g per ball." },
+    { "question": "How long do protein energy balls keep?", "answer": "Up to 1 week in the fridge in an airtight container, or up to 3 months in the freezer." },
+    { "question": "Why is my mixture too sticky to roll?", "answer": "Chilling the dough before rolling is the fix — skipping that step is the most common reason people struggle. If it's still too sticky after chilling, work in an extra tablespoon of oats." },
+    { "question": "Can I use almond butter instead of peanut butter?", "answer": "Yes, any nut or seed butter works — just make sure it's a drippy, well-stirred consistency, not a dry or separated jar." }
+  ],
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.png",
+    "pin": "pin.png",
+    "texture": "texture.png"
+  }
+}

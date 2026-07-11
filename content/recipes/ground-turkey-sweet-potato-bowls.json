@@ -1,0 +1,53 @@
+{
+  "slug": "ground-turkey-sweet-potato-bowls",
+  "title": "Ground Turkey and Sweet Potato Bowls",
+  "hubPath": "meal-prep",
+  "hubLabel": "Meal Prep",
+  "metaDescription": "Ground turkey and sweet potato meal prep bowls with 34g of protein per container — one pan, five servings, ready in 35 minutes.",
+  "targetKeywords": ["high protein meal prep", "high protein meal prep recipes", "high protein chicken recipes"],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-11",
+  "prepTime": "PT10M",
+  "cookTime": "PT25M",
+  "totalTime": "PT35M",
+  "recipeYield": "5 containers",
+  "recipeCategory": "Meal Prep",
+  "recipeCuisine": "American",
+  "keywords": "ground turkey meal prep, turkey sweet potato bowls, high protein meal prep",
+  "nutrition": {
+    "calories": "380",
+    "proteinContent": "34g",
+    "carbohydrateContent": "32g",
+    "fatContent": "12g"
+  },
+  "ingredients": [
+    "2 lbs ground turkey (93% lean)",
+    "2 large sweet potatoes, cubed",
+    "1 lb green beans, trimmed",
+    "2 tbsp olive oil, divided",
+    "1 tsp smoked paprika",
+    "1 tsp garlic powder",
+    "1 tsp cumin",
+    "Salt and pepper to taste"
+  ],
+  "steps": [
+    { "name": "Roast the sweet potato", "text": "Toss cubed sweet potato with 1 tbsp olive oil, salt, and pepper. Roast at 425°F for 20-25 minutes, flipping halfway, until fork-tender." },
+    { "name": "Cook the turkey", "text": "Heat remaining olive oil in a large skillet over medium-high heat. Add ground turkey, smoked paprika, garlic powder, cumin, salt, and pepper. Cook 8-10 minutes, breaking it up as it browns, until fully cooked through." },
+    { "name": "Steam the green beans", "text": "Steam or blanch green beans for 4-5 minutes until bright green and just tender." },
+    { "name": "Assemble containers", "text": "Divide turkey, sweet potato, and green beans evenly between 5 containers. Cool completely before sealing and refrigerating." }
+  ],
+  "tips": [
+    { "question": "Can I use ground chicken instead of turkey?", "answer": "Yes, ground chicken works as a direct 1:1 swap with the same cook time and seasoning." },
+    { "question": "How long do these bowls keep in the fridge?", "answer": "Up to 5 days when cooled completely before sealing. Reheat only the portion you're eating." },
+    { "question": "Why does my ground turkey turn out dry?", "answer": "Overcooking past fully-browned is the main cause — 93% lean turkey has less fat than beef, so pull it off the heat as soon as no pink remains rather than cooking further for extra browning." },
+    { "question": "Can I swap the sweet potato for regular potato?", "answer": "Yes, though cook time may vary slightly — check for fork-tenderness rather than relying on the exact time listed." }
+  ],
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.png",
+    "pin": "pin.png",
+    "texture": "texture.png"
+  }
+}

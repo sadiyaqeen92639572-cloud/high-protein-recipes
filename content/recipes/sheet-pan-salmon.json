@@ -1,0 +1,53 @@
+{
+  "slug": "sheet-pan-salmon",
+  "title": "High Protein Sheet Pan Salmon",
+  "hubPath": "dinner",
+  "hubLabel": "Dinner",
+  "metaDescription": "Sheet pan salmon with asparagus and cherry tomatoes — 36g of protein per serving, one pan, ready in 25 minutes with almost no cleanup.",
+  "targetKeywords": ["high protein dinner", "high protein chicken recipes", "quick dinner ideas"],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-11",
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "American",
+  "keywords": "sheet pan salmon, salmon and asparagus, high protein dinner",
+  "nutrition": {
+    "calories": "340",
+    "proteinContent": "36g",
+    "carbohydrateContent": "8g",
+    "fatContent": "18g"
+  },
+  "ingredients": [
+    "4 salmon fillets (about 6 oz each)",
+    "1 bunch asparagus, trimmed",
+    "1 cup cherry tomatoes",
+    "2 tbsp olive oil",
+    "2 cloves garlic, minced",
+    "1 lemon, sliced",
+    "Salt and pepper to taste",
+    "Fresh dill or parsley, for serving"
+  ],
+  "steps": [
+    { "name": "Preheat and prep", "text": "Preheat oven to 400°F. Line a sheet pan with parchment paper." },
+    { "name": "Arrange everything", "text": "Place salmon fillets on the sheet pan and surround with asparagus and cherry tomatoes. Drizzle everything with olive oil, minced garlic, salt, and pepper. Tuck lemon slices around the pan." },
+    { "name": "Roast", "text": "Roast for 12-15 minutes, until salmon flakes easily with a fork and reaches an internal temperature of 145°F." },
+    { "name": "Serve", "text": "Top with fresh dill or parsley and serve straight from the pan." }
+  ],
+  "tips": [
+    { "question": "How do I know when the salmon is done?", "answer": "It should flake easily with a fork and reach an internal temperature of 145°F — pull it a minute early if you prefer it slightly more tender in the center, since it keeps cooking briefly off the heat." },
+    { "question": "Can I use frozen salmon?", "answer": "Yes, but thaw it fully in the fridge overnight first — cooking from frozen on a sheet pan leads to uneven results with the vegetables." },
+    { "question": "What other vegetables work on this sheet pan?", "answer": "Broccoli, green beans, or bell peppers all roast well alongside salmon — just cut them to a similar size as the asparagus for even cooking." },
+    { "question": "Why did my asparagus turn out mushy?", "answer": "Overcrowding the pan is the most common cause — the vegetables need room for the oven's heat to circulate and roast rather than steam. Use two pans if needed." }
+  ],
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.png",
+    "pin": "pin.png",
+    "texture": "texture.png"
+  }
+}

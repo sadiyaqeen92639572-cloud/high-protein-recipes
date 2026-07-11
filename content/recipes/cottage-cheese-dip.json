@@ -1,0 +1,51 @@
+{
+  "slug": "cottage-cheese-dip",
+  "title": "High Protein Cottage Cheese Dip",
+  "hubPath": "snacks",
+  "hubLabel": "Snacks",
+  "metaDescription": "Whipped cottage cheese dip with 14g of protein per serving — blended smooth with everything bagel seasoning. Ready in 5 minutes, no cooking required.",
+  "targetKeywords": ["protein snacks", "cottage cheese recipes", "high protein snacks on the go"],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-11",
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Snack",
+  "recipeCuisine": "American",
+  "keywords": "cottage cheese dip, whipped cottage cheese, everything bagel dip",
+  "nutrition": {
+    "calories": "90",
+    "proteinContent": "14g",
+    "carbohydrateContent": "5g",
+    "fatContent": "3g"
+  },
+  "ingredients": [
+    "2 cups cottage cheese",
+    "1 tbsp olive oil",
+    "1 tbsp lemon juice",
+    "1 tsp everything bagel seasoning, plus more for topping",
+    "2 tbsp chopped chives",
+    "Salt to taste",
+    "Sliced cucumber and bell pepper, for serving"
+  ],
+  "steps": [
+    { "name": "Blend until smooth", "text": "Add cottage cheese, olive oil, lemon juice, everything bagel seasoning, and salt to a blender or food processor. Blend for 1-2 minutes until completely smooth and airy, scraping down the sides as needed." },
+    { "name": "Transfer to a bowl", "text": "Spoon the whipped mixture into a serving bowl, swirling the top with the back of a spoon." },
+    { "name": "Top and serve", "text": "Sprinkle with extra everything bagel seasoning and chopped chives. Serve with sliced cucumber and bell pepper for dipping." }
+  ],
+  "tips": [
+    { "question": "Why blend the cottage cheese instead of just stirring it?", "answer": "Blending is what makes this a dip instead of a bowl of cottage cheese with toppings — a full 1-2 minutes in a blender or food processor gives it a whipped, airy texture closer to cream cheese than to curds." },
+    { "question": "How long does this dip keep in the fridge?", "answer": "Up to 4 days in an airtight container. The texture stays smooth; just give it a quick stir before serving." },
+    { "question": "What else can I dip in this besides vegetables?", "answer": "Whole grain crackers, pita chips, or even as a spread on toast all work well." },
+    { "question": "Can I make this dip savory in a different way?", "answer": "Yes — swap the everything bagel seasoning for garlic powder and fresh herbs, or a spoonful of pesto, for a different flavor direction." }
+  ],
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.png",
+    "pin": "pin.png",
+    "texture": "texture.png"
+  }
+}

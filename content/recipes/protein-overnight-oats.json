@@ -1,0 +1,52 @@
+{
+  "slug": "protein-overnight-oats",
+  "title": "Protein Overnight Oats",
+  "hubPath": "breakfast",
+  "metaDescription": "Creamy protein overnight oats with 28g of protein per jar — no protein powder chalkiness, just Greek yogurt and cottage cheese. 5 minutes of prep, ready the next morning.",
+  "targetKeywords": ["protein overnight oats", "high protein overnight oats", "high protein breakfast"],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-11",
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT8H5M",
+  "recipeYield": "1 serving (1 jar)",
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "American",
+  "keywords": "protein overnight oats, high protein oats, meal prep breakfast",
+  "nutrition": {
+    "calories": "380",
+    "proteinContent": "28g",
+    "carbohydrateContent": "42g",
+    "fatContent": "11g"
+  },
+  "ingredients": [
+    "1/2 cup rolled oats",
+    "1/4 cup cottage cheese",
+    "1/2 cup Greek yogurt",
+    "1/2 cup milk (dairy or unsweetened almond milk)",
+    "1 tbsp chia seeds",
+    "1 tbsp honey or maple syrup",
+    "1/2 tsp vanilla extract",
+    "Toppings: sliced banana, peanut butter, walnuts"
+  ],
+  "steps": [
+    { "name": "Blend the creamy base", "text": "Add cottage cheese, Greek yogurt, milk, honey, and vanilla to a blender. Blend until completely smooth, about 20 seconds." },
+    { "name": "Combine with oats", "text": "Pour the blended mixture into a jar with the rolled oats and chia seeds. Stir well to combine." },
+    { "name": "Refrigerate overnight", "text": "Cover and refrigerate for at least 8 hours, or overnight. The oats will absorb the liquid and turn thick and creamy." },
+    { "name": "Top and serve", "text": "In the morning, stir once more and top with sliced banana, a swirl of peanut butter, and walnuts." }
+  ],
+  "tips": [
+    { "question": "Can I use protein powder instead of cottage cheese?", "answer": "You can, but the texture and protein content here come from whole-food ingredients (cottage cheese + Greek yogurt), which most readers find creamier and less chalky than powder-based versions." },
+    { "question": "How long do protein overnight oats keep in the fridge?", "answer": "Up to 3-4 days in a sealed jar. Add fresh toppings just before eating rather than in advance." },
+    { "question": "Can I make this dairy-free?", "answer": "Swap the cottage cheese and Greek yogurt for a dairy-free yogurt alternative and unsweetened almond or oat milk — the protein content will be lower without the dairy base." },
+    { "question": "Why blend the wet ingredients instead of just stirring?", "answer": "Blending breaks down the cottage cheese curds completely, so the oats end up smooth and creamy instead of having pockets of cottage cheese texture." }
+  ],
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.png",
+    "pin": "pin.png",
+    "texture": "texture.png"
+  }
+}

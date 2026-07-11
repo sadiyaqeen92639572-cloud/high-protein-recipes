@@ -1,0 +1,53 @@
+{
+  "slug": "air-fryer-chicken-and-vegetables",
+  "title": "Air Fryer Chicken and Vegetables",
+  "hubPath": "dinner",
+  "hubLabel": "Dinner",
+  "metaDescription": "Air fryer chicken and vegetables with 38g of protein per serving — juicy chicken breast and roasted veggies in one basket, ready in 25 minutes.",
+  "targetKeywords": ["air fryer chicken recipes", "high protein dinner", "air fryer high protein recipes"],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-11",
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Dinner",
+  "recipeCuisine": "American",
+  "keywords": "air fryer chicken, air fryer chicken and vegetables, high protein dinner",
+  "nutrition": {
+    "calories": "310",
+    "proteinContent": "38g",
+    "carbohydrateContent": "12g",
+    "fatContent": "10g"
+  },
+  "ingredients": [
+    "4 boneless chicken breasts",
+    "1 lb broccoli florets",
+    "1 cup baby carrots or bell pepper strips",
+    "2 tbsp olive oil",
+    "1 tsp garlic powder",
+    "1 tsp paprika",
+    "Salt and pepper to taste",
+    "Fresh chopped parsley, for serving"
+  ],
+  "steps": [
+    { "name": "Season everything", "text": "Toss chicken breasts and vegetables separately with olive oil, garlic powder, paprika, salt, and pepper." },
+    { "name": "Arrange in the air fryer", "text": "Place chicken breasts in the air fryer basket in a single layer, with vegetables arranged around or on a separate rack if your air fryer has one." },
+    { "name": "Air fry", "text": "Cook at 380°F for 12-15 minutes, flipping the chicken halfway through, until internal temperature reaches 165°F. Add vegetables partway through if cooking in the same basket to avoid overcooking." },
+    { "name": "Rest and serve", "text": "Let the chicken rest 5 minutes before slicing. Plate with the vegetables and top with fresh parsley." }
+  ],
+  "tips": [
+    { "question": "Why is my air fryer chicken breast dry?", "answer": "Overcooking past 165°F internal temperature is the most common cause — use a meat thermometer instead of relying on time alone, since air fryer wattage varies between models." },
+    { "question": "Can I cook the chicken and vegetables together in one basket?", "answer": "Yes, if your basket is large enough for a single layer of each without overcrowding — overcrowding blocks airflow and leads to steaming instead of crisping." },
+    { "question": "What other vegetables work well in this recipe?", "answer": "Zucchini, asparagus, and cauliflower all air fry well alongside chicken — just cut them to a similar size as the broccoli florets for even cooking." },
+    { "question": "Do I need to preheat the air fryer?", "answer": "A 3-minute preheat at 380°F helps the chicken get a better sear, though most air fryers will still cook it through without preheating — just add 1-2 minutes to the cook time." }
+  ],
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.png",
+    "pin": "pin.png",
+    "texture": "texture.png"
+  }
+}

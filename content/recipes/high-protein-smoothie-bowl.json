@@ -1,0 +1,51 @@
+{
+  "slug": "high-protein-smoothie-bowl",
+  "title": "High Protein Smoothie Bowl",
+  "hubPath": "breakfast",
+  "metaDescription": "Thick, spoonable high protein smoothie bowl with 26g of protein per serving — frozen berries, Greek yogurt, and cottage cheese blended smooth. Ready in 5 minutes.",
+  "targetKeywords": ["high protein smoothie", "high protein breakfast", "protein smoothie bowl"],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-11",
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "recipeYield": "1 serving",
+  "recipeCategory": "Breakfast",
+  "recipeCuisine": "American",
+  "keywords": "protein smoothie bowl, high protein smoothie, breakfast bowl",
+  "nutrition": {
+    "calories": "340",
+    "proteinContent": "26g",
+    "carbohydrateContent": "38g",
+    "fatContent": "8g"
+  },
+  "ingredients": [
+    "1 cup frozen mixed berries",
+    "1/2 cup cottage cheese",
+    "1/2 cup Greek yogurt",
+    "1/4 cup milk (dairy or unsweetened almond milk)",
+    "1 tbsp honey or maple syrup",
+    "1/2 frozen banana",
+    "Toppings: sliced banana, granola, chia seeds, fresh raspberries"
+  ],
+  "steps": [
+    { "name": "Blend the base", "text": "Add frozen berries, cottage cheese, Greek yogurt, milk, honey, and frozen banana to a high-speed blender." },
+    { "name": "Blend until thick", "text": "Blend on high, stopping to scrape down the sides, until completely smooth and thick — it should hold its shape on a spoon, not pour like a drink." },
+    { "name": "Pour into a bowl", "text": "Pour the thick smoothie into a chilled bowl using a spatula to help it along." },
+    { "name": "Top and serve", "text": "Arrange banana slices, granola, chia seeds, and fresh raspberries on top. Serve immediately with a spoon." }
+  ],
+  "tips": [
+    { "question": "Why is my smoothie bowl too thin?", "answer": "Not enough frozen fruit, or the blender ran too long and melted it. Use fully frozen berries and banana, and blend in short pulses rather than continuously." },
+    { "question": "Can I make this without cottage cheese?", "answer": "Yes — swap it for an extra 1/2 cup of Greek yogurt, though the protein content will drop slightly and the texture will be a bit less thick." },
+    { "question": "Can I prep the base ahead of time?", "answer": "Blend and freeze the base (without toppings) in a flat container for up to 1 month. Let it soften 5-10 minutes before topping and serving." },
+    { "question": "What blender works best for thick smoothie bowls?", "answer": "A high-speed blender with a tamper works best since the mixture is much thicker than a drinkable smoothie — a low-power blender may struggle without added liquid, which thins the texture." }
+  ],
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.png",
+    "pin": "pin.png",
+    "texture": "texture.png"
+  }
+}
