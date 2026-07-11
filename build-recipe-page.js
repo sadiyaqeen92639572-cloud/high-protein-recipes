@@ -9,12 +9,23 @@ function loadRecipe(slug) {
   return JSON.parse(fs.readFileSync(file, 'utf8'));
 }
 
+function formatDuration(iso) {
+  const m = iso.match(/PT(?:(\d+)H)?(?:(\d+)M)?/);
+  const h = parseInt(m[1] || '0', 10);
+  const min = parseInt(m[2] || '0', 10);
+  if (h === 0 && min === 0) return '0 min';
+  const parts = [];
+  if (h > 0) parts.push(`${h} hr`);
+  if (min > 0) parts.push(`${min} min`);
+  return parts.join(' ');
+}
+
 function buildJsonLd(r) {
   const graph = [
     {
       '@type': 'Recipe',
       name: r.title,
-      image: [`${SITE_URL}/images/${r.slug}/hero.png`],
+      image: [`${SITE_URL}/images/${r.slug}/hero.jpg`],
       author: { '@type': 'Person', name: r.author },
       datePublished: r.datePublished,
       description: r.metaDescription,
@@ -65,7 +76,7 @@ function buildStepsHtml(r) {
         <li class="recipe-step">
           <strong>${i + 1}. ${s.name}</strong>
           <p>${s.text}</p>
-          ${i === 1 ? `<img src="/images/${r.slug}/texture.png" alt="${r.title} cut open showing fluffy interior texture" loading="lazy" class="step-photo">` : ''}
+          ${i === 1 ? `<img src="/images/${r.slug}/texture.jpg" alt="${r.images.textureAlt}" loading="lazy" class="step-photo">` : ''}
         </li>`).join('\n');
 }
 
@@ -86,12 +97,12 @@ const TEMPLATE = (r, jsonLd) => `<!DOCTYPE html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>${r.title} — High Protein, 15 Minutes | ${SITE_NAME}</title>
+<title>${r.title} — ${r.nutrition.proteinContent} Protein, ${formatDuration(r.totalTime)} | ${SITE_NAME}</title>
 <meta name="description" content="${r.metaDescription}">
 <link rel="canonical" href="${SITE_URL}/${r.hubPath}/${r.slug}/">
 <meta property="og:title" content="${r.title}">
 <meta property="og:description" content="${r.metaDescription}">
-<meta property="og:image" content="${SITE_URL}/images/${r.slug}/hero.png">
+<meta property="og:image" content="${SITE_URL}/images/${r.slug}/hero.jpg">
 <meta property="og:type" content="article">
 <meta name="pinterest-rich-pin" content="true">
 <script type="application/ld+json">${JSON.stringify(jsonLd, null, 2)}</script>
@@ -133,7 +144,7 @@ const TEMPLATE = (r, jsonLd) => `<!DOCTYPE html>
   <h1>${r.title}</h1>
   <p class="meta">By ${r.author} · Published ${r.datePublished} · ${r.nutrition.proteinContent} protein per serving</p>
 
-  <img src="/images/${r.slug}/hero.png" alt="${r.title} stacked on a plate with fresh blueberries, honey and powdered sugar" class="hero" loading="eager">
+  <img src="/images/${r.slug}/hero.jpg" alt="${r.images.heroAlt}" class="hero" loading="eager">
 
   <div class="story">
     <p>Some mornings call for pancakes that actually keep you full past 10am. These cottage cheese pancakes blend straight in the blender — no protein powder, no chalky aftertaste — and pack ${r.nutrition.proteinContent} of protein into a stack of fluffy, golden pancakes.</p>
@@ -147,16 +158,16 @@ const TEMPLATE = (r, jsonLd) => `<!DOCTYPE html>
   </div>
 
   <div class="pin-cta">
-    <img src="/images/${r.slug}/pin.png" alt="Pinterest pin: ${r.title} with syrup pouring over the stack">
+    <img src="/images/${r.slug}/pin.jpg" alt="${r.images.pinAlt}">
     <span>Save this recipe for later — pin it to your breakfast board.</span>
   </div>
 
   <section id="recipe-card">
     <h2>${r.title}</h2>
     <div class="recipe-meta-row">
-      <span>Prep: 5 min</span>
-      <span>Cook: 10 min</span>
-      <span>Total: 15 min</span>
+      <span>Prep: ${formatDuration(r.prepTime)}</span>
+      <span>Cook: ${formatDuration(r.cookTime)}</span>
+      <span>Total: ${formatDuration(r.totalTime)}</span>
       <span>Yield: ${r.recipeYield}</span>
       <span>${r.nutrition.calories} cal · ${r.nutrition.proteinContent} protein</span>
     </div>

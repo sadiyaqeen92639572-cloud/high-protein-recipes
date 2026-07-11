@@ -3,8 +3,12 @@
   "title": "High Protein Meal Prep Chicken & Rice Bowls",
   "hubPath": "meal-prep",
   "hubLabel": "Meal Prep",
-  "metaDescription": "High protein meal prep chicken and rice bowls with 42g of protein per container — grilled chicken breast, broccoli, and rice, ready for 5 days in 40 minutes.",
-  "targetKeywords": ["high protein meal prep", "high protein meal prep recipes", "high protein chicken recipes"],
+  "metaDescription": "High protein meal prep chicken and rice bowls with 42g of protein per container \u2014 grilled chicken breast, broccoli, and rice, ready for 5 days in 40 minutes.",
+  "targetKeywords": [
+    "high protein meal prep",
+    "high protein meal prep recipes",
+    "high protein chicken recipes"
+  ],
   "author": "Recipe Team",
   "datePublished": "2026-07-11",
   "prepTime": "PT15M",
@@ -31,24 +35,54 @@
     "Salt, pepper, sesame seeds to taste"
   ],
   "steps": [
-    { "name": "Cook the rice", "text": "Cook rice according to package instructions while you prep the chicken and broccoli." },
-    { "name": "Marinate the chicken", "text": "Whisk 2 tbsp olive oil, soy sauce, honey, and garlic in a bowl. Add chicken breasts and let sit for 10 minutes." },
-    { "name": "Cook the chicken", "text": "Heat a skillet over medium-high heat. Cook chicken 6-7 minutes per side until internal temperature reaches 165°F. Rest 5 minutes, then slice." },
-    { "name": "Roast the broccoli", "text": "Toss broccoli with remaining olive oil, salt, and pepper. Roast at 425°F for 15 minutes, or sauté in a hot pan for 5-6 minutes." },
-    { "name": "Assemble containers", "text": "Divide rice, chicken, and broccoli evenly between 5 containers. Sprinkle with sesame seeds. Cool completely before sealing and refrigerating." }
+    {
+      "name": "Cook the rice",
+      "text": "Cook rice according to package instructions while you prep the chicken and broccoli."
+    },
+    {
+      "name": "Marinate the chicken",
+      "text": "Whisk 2 tbsp olive oil, soy sauce, honey, and garlic in a bowl. Add chicken breasts and let sit for 10 minutes."
+    },
+    {
+      "name": "Cook the chicken",
+      "text": "Heat a skillet over medium-high heat. Cook chicken 6-7 minutes per side until internal temperature reaches 165\u00b0F. Rest 5 minutes, then slice."
+    },
+    {
+      "name": "Roast the broccoli",
+      "text": "Toss broccoli with remaining olive oil, salt, and pepper. Roast at 425\u00b0F for 15 minutes, or saut\u00e9 in a hot pan for 5-6 minutes."
+    },
+    {
+      "name": "Assemble containers",
+      "text": "Divide rice, chicken, and broccoli evenly between 5 containers. Sprinkle with sesame seeds. Cool completely before sealing and refrigerating."
+    }
   ],
   "tips": [
-    { "question": "How long do these meal prep bowls last in the fridge?", "answer": "Up to 5 days when cooled completely before sealing and stored in an airtight container. Reheat only the portion you're eating." },
-    { "question": "Can I freeze these meal prep bowls?", "answer": "Yes, up to 3 months. Rice and chicken freeze well; broccoli texture softens slightly on reheat but stays edible." },
-    { "question": "Why does my chicken turn out dry when reheated?", "answer": "Slicing the chicken before storing (rather than reheating a whole breast) and reheating covered with a splash of water helps retain moisture — dry reheats are usually from uncovered microwaving on high power." },
-    { "question": "Can I swap the rice for something lower carb?", "answer": "Yes — cauliflower rice or quinoa both work as direct swaps without changing the chicken or broccoli steps." }
+    {
+      "question": "How long do these meal prep bowls last in the fridge?",
+      "answer": "Up to 5 days when cooled completely before sealing and stored in an airtight container. Reheat only the portion you're eating."
+    },
+    {
+      "question": "Can I freeze these meal prep bowls?",
+      "answer": "Yes, up to 3 months. Rice and chicken freeze well; broccoli texture softens slightly on reheat but stays edible."
+    },
+    {
+      "question": "Why does my chicken turn out dry when reheated?",
+      "answer": "Slicing the chicken before storing (rather than reheating a whole breast) and reheating covered with a splash of water helps retain moisture \u2014 dry reheats are usually from uncovered microwaving on high power."
+    },
+    {
+      "question": "Can I swap the rice for something lower carb?",
+      "answer": "Yes \u2014 cauliflower rice or quinoa both work as direct swaps without changing the chicken or broccoli steps."
+    }
   ],
   "reviews": [],
   "reviewCount": 0,
   "avgRating": null,
   "images": {
-    "hero": "hero.png",
-    "pin": "pin.png",
-    "texture": "texture.png"
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Glass meal prep containers with grilled chicken breast, roasted broccoli and rice",
+    "textureAlt": "Fork cutting into a juicy sliced grilled chicken breast",
+    "pinAlt": "Hand closing the lid on a meal prep container filled with chicken, vegetables and rice"
   }
 }

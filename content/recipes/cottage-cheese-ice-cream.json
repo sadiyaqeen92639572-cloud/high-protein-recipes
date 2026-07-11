@@ -2,8 +2,12 @@
   "slug": "cottage-cheese-ice-cream",
   "title": "Cottage Cheese Ice Cream",
   "hubPath": "desserts",
-  "metaDescription": "No-churn cottage cheese ice cream with 18g of protein per serving — just 4 ingredients blended smooth and frozen. No ice cream maker needed.",
-  "targetKeywords": ["cottage cheese recipes", "protein ice cream", "high protein desserts"],
+  "metaDescription": "No-churn cottage cheese ice cream with 18g of protein per serving \u2014 just 4 ingredients blended smooth and frozen. No ice cream maker needed.",
+  "targetKeywords": [
+    "cottage cheese recipes",
+    "protein ice cream",
+    "high protein desserts"
+  ],
   "author": "Recipe Team",
   "datePublished": "2026-07-11",
   "prepTime": "PT10M",
@@ -28,23 +32,50 @@
     "Optional mix-ins: chocolate chips, fresh berries, crushed graham crackers"
   ],
   "steps": [
-    { "name": "Blend until completely smooth", "text": "Add cottage cheese, honey, vanilla, and salt to a blender or food processor. Blend on high for 1-2 minutes, scraping down the sides, until totally smooth with zero curd texture remaining." },
-    { "name": "Fold in mix-ins", "text": "If using, fold in chocolate chips or crushed graham crackers by hand — don't blend them in." },
-    { "name": "Freeze", "text": "Pour into a loaf pan or airtight container. Freeze for at least 4 hours, or until firm." },
-    { "name": "Scoop and serve", "text": "Let sit at room temperature for 5-10 minutes before scooping for the best soft-serve texture." }
+    {
+      "name": "Blend until completely smooth",
+      "text": "Add cottage cheese, honey, vanilla, and salt to a blender or food processor. Blend on high for 1-2 minutes, scraping down the sides, until totally smooth with zero curd texture remaining."
+    },
+    {
+      "name": "Fold in mix-ins",
+      "text": "If using, fold in chocolate chips or crushed graham crackers by hand \u2014 don't blend them in."
+    },
+    {
+      "name": "Freeze",
+      "text": "Pour into a loaf pan or airtight container. Freeze for at least 4 hours, or until firm."
+    },
+    {
+      "name": "Scoop and serve",
+      "text": "Let sit at room temperature for 5-10 minutes before scooping for the best soft-serve texture."
+    }
   ],
   "tips": [
-    { "question": "Why is my cottage cheese ice cream icy instead of creamy?", "answer": "Under-blending is the most common cause — the mixture needs to be 100% smooth with no visible curds before freezing, or you'll get an icy texture instead of creamy. Blend longer than you think you need to." },
-    { "question": "Do I need an ice cream maker?", "answer": "No — this is a no-churn recipe. The honey and full-fat cottage cheese keep it soft enough to scoop straight from the freezer without an ice cream maker." },
-    { "question": "Can I use low-fat cottage cheese?", "answer": "You can, but full-fat gives a noticeably creamier result. Low-fat versions freeze slightly harder and icier." },
-    { "question": "How long does it keep in the freezer?", "answer": "Up to 2 weeks in an airtight container. Texture is best in the first week." }
+    {
+      "question": "Why is my cottage cheese ice cream icy instead of creamy?",
+      "answer": "Under-blending is the most common cause \u2014 the mixture needs to be 100% smooth with no visible curds before freezing, or you'll get an icy texture instead of creamy. Blend longer than you think you need to."
+    },
+    {
+      "question": "Do I need an ice cream maker?",
+      "answer": "No \u2014 this is a no-churn recipe. The honey and full-fat cottage cheese keep it soft enough to scoop straight from the freezer without an ice cream maker."
+    },
+    {
+      "question": "Can I use low-fat cottage cheese?",
+      "answer": "You can, but full-fat gives a noticeably creamier result. Low-fat versions freeze slightly harder and icier."
+    },
+    {
+      "question": "How long does it keep in the freezer?",
+      "answer": "Up to 2 weeks in an airtight container. Texture is best in the first week."
+    }
   ],
   "reviews": [],
   "reviewCount": 0,
   "avgRating": null,
   "images": {
-    "hero": "hero.png",
-    "pin": "pin.png",
-    "texture": "texture.png"
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Bowl of vanilla cottage cheese ice cream scoops with honey drizzle and fresh raspberries",
+    "textureAlt": "Spoon scooping creamy cottage cheese ice cream showing soft-serve texture",
+    "pinAlt": "Ice cream scoop lifting a ball of cottage cheese ice cream with chocolate chips scattered around"
   }
 }

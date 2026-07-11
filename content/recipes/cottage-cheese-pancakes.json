@@ -2,8 +2,12 @@
   "slug": "cottage-cheese-pancakes",
   "title": "Cottage Cheese Pancakes",
   "hubPath": "breakfast",
-  "metaDescription": "Fluffy cottage cheese pancakes with 24g of protein per serving — no protein powder needed. Ready in 15 minutes, kid-approved, freezer-friendly.",
-  "targetKeywords": ["cottage cheese recipes", "high protein breakfast", "protein pancakes"],
+  "metaDescription": "Fluffy cottage cheese pancakes with 24g of protein per serving \u2014 no protein powder needed. Ready in 15 minutes, kid-approved, freezer-friendly.",
+  "targetKeywords": [
+    "cottage cheese recipes",
+    "high protein breakfast",
+    "protein pancakes"
+  ],
   "author": "Recipe Team",
   "datePublished": "2026-07-11",
   "prepTime": "PT5M",
@@ -30,24 +34,54 @@
     "Butter or oil, for the pan"
   ],
   "steps": [
-    { "name": "Blend the batter", "text": "Add cottage cheese, eggs, flour, honey, baking powder, salt, and vanilla to a blender. Blend until completely smooth, about 30 seconds." },
-    { "name": "Rest the batter", "text": "Let the batter sit for 2-3 minutes — this helps the flour hydrate and gives fluffier pancakes." },
-    { "name": "Heat the pan", "text": "Heat a lightly buttered non-stick skillet over medium-low heat." },
-    { "name": "Cook the pancakes", "text": "Pour 1/4 cup of batter per pancake. Cook 2-3 minutes until bubbles form on the surface, then flip and cook 1-2 minutes more until golden." },
-    { "name": "Serve", "text": "Stack and top with fresh berries, a drizzle of honey or maple syrup, and a dusting of powdered sugar if desired." }
+    {
+      "name": "Blend the batter",
+      "text": "Add cottage cheese, eggs, flour, honey, baking powder, salt, and vanilla to a blender. Blend until completely smooth, about 30 seconds."
+    },
+    {
+      "name": "Rest the batter",
+      "text": "Let the batter sit for 2-3 minutes \u2014 this helps the flour hydrate and gives fluffier pancakes."
+    },
+    {
+      "name": "Heat the pan",
+      "text": "Heat a lightly buttered non-stick skillet over medium-low heat."
+    },
+    {
+      "name": "Cook the pancakes",
+      "text": "Pour 1/4 cup of batter per pancake. Cook 2-3 minutes until bubbles form on the surface, then flip and cook 1-2 minutes more until golden."
+    },
+    {
+      "name": "Serve",
+      "text": "Stack and top with fresh berries, a drizzle of honey or maple syrup, and a dusting of powdered sugar if desired."
+    }
   ],
   "tips": [
-    { "question": "Can I make the batter ahead of time?", "answer": "Yes — the batter keeps in the fridge for up to 24 hours. Give it a quick stir before cooking since it thickens slightly as it sits." },
-    { "question": "Can I freeze cottage cheese pancakes?", "answer": "Yes. Cool completely, layer with parchment paper, and freeze in an airtight bag for up to 2 months. Reheat in a toaster or skillet." },
-    { "question": "Why blend the cottage cheese instead of leaving it chunky?", "answer": "Blending breaks down the curds completely, so you get a smooth, fluffy pancake texture instead of pockets of cottage cheese — most readers prefer this, but you can pulse briefly for a few small curds if you like texture." },
-    { "question": "Can I substitute the flour for a gluten-free option?", "answer": "Yes — oat flour or a 1:1 gluten-free blend both work well without changing the ratios." }
+    {
+      "question": "Can I make the batter ahead of time?",
+      "answer": "Yes \u2014 the batter keeps in the fridge for up to 24 hours. Give it a quick stir before cooking since it thickens slightly as it sits."
+    },
+    {
+      "question": "Can I freeze cottage cheese pancakes?",
+      "answer": "Yes. Cool completely, layer with parchment paper, and freeze in an airtight bag for up to 2 months. Reheat in a toaster or skillet."
+    },
+    {
+      "question": "Why blend the cottage cheese instead of leaving it chunky?",
+      "answer": "Blending breaks down the curds completely, so you get a smooth, fluffy pancake texture instead of pockets of cottage cheese \u2014 most readers prefer this, but you can pulse briefly for a few small curds if you like texture."
+    },
+    {
+      "question": "Can I substitute the flour for a gluten-free option?",
+      "answer": "Yes \u2014 oat flour or a 1:1 gluten-free blend both work well without changing the ratios."
+    }
   ],
   "reviews": [],
   "reviewCount": 0,
   "avgRating": null,
   "images": {
-    "hero": "hero.png",
-    "pin": "pin.png",
-    "texture": "texture.png"
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Stack of golden cottage cheese pancakes topped with blueberries, honey and powdered sugar",
+    "textureAlt": "Cottage cheese pancake cut with a fork revealing the fluffy interior",
+    "pinAlt": "Cottage cheese pancakes with syrup pouring down the side and fresh raspberries on the plate"
   }
 }

@@ -2,8 +2,12 @@
   "slug": "protein-energy-balls",
   "title": "No-Bake Protein Energy Balls",
   "hubPath": "snacks",
-  "metaDescription": "No-bake protein energy balls with 8g of protein each — just oats, peanut butter, and honey rolled into a grab-and-go snack. Ready in 15 minutes, no oven required.",
-  "targetKeywords": ["protein snacks", "high protein snack ideas", "high protein snacks on the go"],
+  "metaDescription": "No-bake protein energy balls with 8g of protein each \u2014 just oats, peanut butter, and honey rolled into a grab-and-go snack. Ready in 15 minutes, no oven required.",
+  "targetKeywords": [
+    "protein snacks",
+    "high protein snack ideas",
+    "high protein snacks on the go"
+  ],
   "author": "Recipe Team",
   "datePublished": "2026-07-11",
   "prepTime": "PT15M",
@@ -30,23 +34,50 @@
     "Pinch of salt"
   ],
   "steps": [
-    { "name": "Mix everything", "text": "Combine oats, peanut butter, honey, protein powder, chia seeds, chocolate chips, and salt in a bowl. Stir until fully combined and slightly sticky." },
-    { "name": "Chill the dough", "text": "Refrigerate the mixture for 15-20 minutes — this makes it much easier to roll without sticking to your hands." },
-    { "name": "Roll into balls", "text": "Scoop about 1 tablespoon of mixture and roll into a ball. Repeat with remaining dough, about 12 balls total." },
-    { "name": "Chill to set", "text": "Refrigerate the rolled balls for at least 30 minutes before eating so they firm up." }
+    {
+      "name": "Mix everything",
+      "text": "Combine oats, peanut butter, honey, protein powder, chia seeds, chocolate chips, and salt in a bowl. Stir until fully combined and slightly sticky."
+    },
+    {
+      "name": "Chill the dough",
+      "text": "Refrigerate the mixture for 15-20 minutes \u2014 this makes it much easier to roll without sticking to your hands."
+    },
+    {
+      "name": "Roll into balls",
+      "text": "Scoop about 1 tablespoon of mixture and roll into a ball. Repeat with remaining dough, about 12 balls total."
+    },
+    {
+      "name": "Chill to set",
+      "text": "Refrigerate the rolled balls for at least 30 minutes before eating so they firm up."
+    }
   ],
   "tips": [
-    { "question": "Can I make these without protein powder?", "answer": "Yes — omit it and add 2 extra tablespoons of oats to keep the texture from getting too wet. Protein content will drop to about 4g per ball." },
-    { "question": "How long do protein energy balls keep?", "answer": "Up to 1 week in the fridge in an airtight container, or up to 3 months in the freezer." },
-    { "question": "Why is my mixture too sticky to roll?", "answer": "Chilling the dough before rolling is the fix — skipping that step is the most common reason people struggle. If it's still too sticky after chilling, work in an extra tablespoon of oats." },
-    { "question": "Can I use almond butter instead of peanut butter?", "answer": "Yes, any nut or seed butter works — just make sure it's a drippy, well-stirred consistency, not a dry or separated jar." }
+    {
+      "question": "Can I make these without protein powder?",
+      "answer": "Yes \u2014 omit it and add 2 extra tablespoons of oats to keep the texture from getting too wet. Protein content will drop to about 4g per ball."
+    },
+    {
+      "question": "How long do protein energy balls keep?",
+      "answer": "Up to 1 week in the fridge in an airtight container, or up to 3 months in the freezer."
+    },
+    {
+      "question": "Why is my mixture too sticky to roll?",
+      "answer": "Chilling the dough before rolling is the fix \u2014 skipping that step is the most common reason people struggle. If it's still too sticky after chilling, work in an extra tablespoon of oats."
+    },
+    {
+      "question": "Can I use almond butter instead of peanut butter?",
+      "answer": "Yes, any nut or seed butter works \u2014 just make sure it's a drippy, well-stirred consistency, not a dry or separated jar."
+    }
   ],
   "reviews": [],
   "reviewCount": 0,
   "avgRating": null,
   "images": {
-    "hero": "hero.png",
-    "pin": "pin.png",
-    "texture": "texture.png"
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "No-bake protein energy balls with oat, cocoa and coconut coatings arranged on parchment paper",
+    "textureAlt": "Protein energy ball broken in half showing chunky oat and peanut butter texture",
+    "pinAlt": "Hand picking up a no-bake protein energy ball from a stack on parchment paper"
   }
 }
