@@ -80,5 +80,10 @@
     "heroAlt": "Sliced air fryer chicken breast with roasted broccoli and carrots on a white plate",
     "textureAlt": "Knife slicing through a juicy air fryer chicken breast revealing the moist interior",
     "pinAlt": "Fork lifting a slice of juicy air fryer chicken breast off a plate of roasted vegetables"
-  }
+  },
+  "storyIntro": [
+    "The air fryer earns its keep on nights when a whole oven feels like too much commitment. Chicken breast and vegetables go in the same basket and come out in under 15 minutes of actual cook time.",
+    "38g of protein per serving, minimal cleanup, and none of the guesswork that usually comes with getting chicken breast to stay juicy."
+  ],
+  "storyNote": "A meat thermometer solves the single biggest problem with air fryer chicken: wattage varies enough between models that going by time alone is how you end up overcooking it past 165\u00b0F."
 }

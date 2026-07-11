@@ -80,5 +80,10 @@
     "heroAlt": "Sheet pan with roasted salmon, asparagus spears, cherry tomatoes and lemon slices",
     "textureAlt": "Fork flaking into a roasted salmon fillet revealing the moist, flaky interior",
     "pinAlt": "Fork flaking apart a roasted salmon fillet on a sheet pan with asparagus and tomatoes"
-  }
+  },
+  "storyIntro": [
+    "One pan, one temperature, and almost no cleanup \u2014 sheet pan dinners exist for nights when dishes feel like the real obstacle, not the cooking. Salmon, asparagus, and cherry tomatoes all roast together in the same 15 minutes.",
+    "36g of protein per serving, and the lemon slices tucked around the pan do most of the flavor work without needing a separate sauce."
+  ],
+  "storyNote": "The line between perfectly cooked and overcooked salmon is thin \u2014 pull it a minute early if you like it more tender in the center, since it keeps cooking briefly after it leaves the oven."
 }

@@ -75,5 +75,10 @@
     "heroAlt": "Bowl of whipped cottage cheese dip topped with everything bagel seasoning and chives, surrounded by cucumber and bell pepper slices",
     "textureAlt": "Spoon lifting whipped cottage cheese dip showing its smooth, airy texture",
     "pinAlt": "Cucumber slice being dipped into whipped cottage cheese dip topped with everything bagel seasoning"
-  }
+  },
+  "storyIntro": [
+    "Whipped cottage cheese is one of those ideas that sounds strange until you taste it \u2014 a full blend turns it into something closer to a lighter, tangier cream cheese than anything resembling curds.",
+    "This version leans savory, with everything bagel seasoning and a squeeze of lemon, and comes together in five minutes with zero cooking. 14g of protein per serving, and it disappears fast next to a plate of cut vegetables."
+  ],
+  "storyNote": "Give the blender or food processor the full one to two minutes it needs. Stopping early is the difference between a dip and a slightly-smoother bowl of cottage cheese."
 }

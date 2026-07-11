@@ -2,7 +2,7 @@
   "slug": "high-protein-smoothie-bowl",
   "title": "High Protein Smoothie Bowl",
   "hubPath": "breakfast",
-  "metaDescription": "Thick, spoonable high protein smoothie bowl with 26g of protein per serving \u2014 frozen berries, Greek yogurt, and cottage cheese blended smooth. Ready in 5 minutes.",
+  "metaDescription": "Thick, spoonable protein smoothie bowl with 26g of protein \u2014 frozen berries, Greek yogurt, and cottage cheese blended smooth. Ready in 5 minutes.",
   "targetKeywords": [
     "high protein smoothie",
     "high protein breakfast",
@@ -78,5 +78,10 @@
     "heroAlt": "Bowl of thick berry smoothie topped with banana slices, granola, chia seeds and raspberries",
     "textureAlt": "Spoon scooping a thick berry smoothie bowl revealing dense frozen fruit texture",
     "pinAlt": "Hand lifting a spoonful of berry smoothie bowl topped with granola and strawberries"
-  }
+  },
+  "storyIntro": [
+    "A smoothie bowl should hold its shape on a spoon, not slide off it \u2014 that's the difference between a bowl and a drink in a bowl. This one gets there with frozen berries, cottage cheese, and Greek yogurt blended into something thick enough to build toppings on.",
+    "It comes together in five minutes flat, no cooking, and lands at 26g of protein per bowl \u2014 most of it from the cottage cheese and yogurt hiding underneath the fruit flavor."
+  ],
+  "storyNote": "The number one thing that goes wrong here is a thin, drinkable result \u2014 that almost always means not enough frozen fruit, or a blender that ran too long and started melting everything back down."
 }

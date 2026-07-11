@@ -2,7 +2,7 @@
   "slug": "protein-energy-balls",
   "title": "No-Bake Protein Energy Balls",
   "hubPath": "snacks",
-  "metaDescription": "No-bake protein energy balls with 8g of protein each \u2014 just oats, peanut butter, and honey rolled into a grab-and-go snack. Ready in 15 minutes, no oven required.",
+  "metaDescription": "No-bake protein energy balls with 8g of protein each \u2014 oats, peanut butter, and honey rolled into a grab-and-go snack. Ready in 15 minutes.",
   "targetKeywords": [
     "protein snacks",
     "high protein snack ideas",
@@ -79,5 +79,10 @@
     "heroAlt": "No-bake protein energy balls with oat, cocoa and coconut coatings arranged on parchment paper",
     "textureAlt": "Protein energy ball broken in half showing chunky oat and peanut butter texture",
     "pinAlt": "Hand picking up a no-bake protein energy ball from a stack on parchment paper"
-  }
+  },
+  "storyIntro": [
+    "These are the snack you make on a Sunday and forget about until Wednesday, when you're glad they're still in the fridge. Oats, peanut butter, honey, and a scoop of protein powder roll into bites that don't need the freezer to hold together.",
+    "Each ball comes in around 8g of protein for about 110 calories \u2014 enough to actually curb hunger between meals instead of just delaying it."
+  ],
+  "storyNote": "Don't skip the chill step before rolling. The dough is sticky enough straight out of the bowl that skipping the fridge is the most common reason people give up halfway through rolling."
 }

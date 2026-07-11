@@ -2,7 +2,7 @@
   "slug": "protein-overnight-oats",
   "title": "Protein Overnight Oats",
   "hubPath": "breakfast",
-  "metaDescription": "Creamy protein overnight oats with 28g of protein per jar \u2014 no protein powder chalkiness, just Greek yogurt and cottage cheese. 5 minutes of prep, ready the next morning.",
+  "metaDescription": "Creamy protein overnight oats with 28g of protein per jar \u2014 no chalkiness, just Greek yogurt and cottage cheese. 5 minutes of prep, ready by morning.",
   "targetKeywords": [
     "protein overnight oats",
     "high protein overnight oats",
@@ -79,5 +79,10 @@
     "heroAlt": "Jar of protein overnight oats topped with banana slices, peanut butter and walnuts",
     "textureAlt": "Spoon lifting creamy protein overnight oats showing chia seed and oat texture",
     "pinAlt": "Tall jar of protein overnight oats with honey drizzling down the side and granola on top"
-  }
+  },
+  "storyIntro": [
+    "Overnight oats are the easiest make-ahead breakfast there is, but most versions top out around 10g of protein. This one blends cottage cheese and Greek yogurt into the base before it even touches the oats, pushing it to 28g per jar without a scoop of powder.",
+    "Everything goes into the jar the night before \u2014 five minutes of prep, then the fridge does the work. By morning the oats have absorbed the liquid into something thick and pudding-like, ready for whatever toppings you're in the mood for."
+  ],
+  "storyNote": "One thing worth knowing: the texture keeps improving the longer it sits, so if you can wait the full 8 hours instead of the minimum, it's worth it \u2014 the oats go from softened to genuinely creamy."
 }

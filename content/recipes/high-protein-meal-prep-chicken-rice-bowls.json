@@ -84,5 +84,10 @@
     "heroAlt": "Glass meal prep containers with grilled chicken breast, roasted broccoli and rice",
     "textureAlt": "Fork cutting into a juicy sliced grilled chicken breast",
     "pinAlt": "Hand closing the lid on a meal prep container filled with chicken, vegetables and rice"
-  }
+  },
+  "storyIntro": [
+    "This is the meal prep that actually survives five days in the fridge without turning into dry chicken and mush. Marinated chicken breast, roasted broccoli, and rice split evenly across five containers.",
+    "40 minutes of active cooking gets you an entire work week of 42g-protein lunches \u2014 the kind of math that makes meal prep worth doing in the first place."
+  ],
+  "storyNote": "Slice the chicken before storing rather than reheating it whole. It reheats far more evenly, and it's the single biggest factor in whether your Wednesday lunch tastes as good as your Monday one."
 }

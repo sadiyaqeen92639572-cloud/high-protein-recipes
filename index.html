@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>High Protein Recipes — Real Food, No Protein Powder Chalkiness</title>
-<meta name="description" content="High protein recipes built from whole foods — cottage cheese, eggs, Greek yogurt, chicken. Breakfast, snacks, desserts and meal prep, all 20g+ protein per serving.">
+<meta name="description" content="High protein recipes built from whole foods — cottage cheese, eggs, Greek yogurt, chicken. Breakfast, snacks, desserts, all 20g+ protein per serving.">
 <link rel="canonical" href="https://high-protein-recipes-bh2.pages.dev/">
 <script type="application/ld+json">
 {
@@ -22,10 +22,14 @@
   .wrap{max-width:960px;margin:0 auto;padding:1.5rem;}
   h1{font-family:Inter,sans-serif;font-size:2.2rem;max-width:640px;}
   .intro{color:var(--muted);max-width:640px;}
-  .hub-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem;margin-top:2rem;}
-  .hub-card{background:#fff;border:1px solid var(--border);border-radius:12px;padding:1.2rem;text-decoration:none;color:var(--text);}
+  .hub-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1.2rem;margin-top:2rem;}
+  .hub-card{background:#fff;border:1px solid var(--border);border-radius:12px;overflow:hidden;text-decoration:none;color:var(--text);display:block;transition:transform .15s;}
+  .hub-card:hover{transform:translateY(-3px);}
+  .hub-card img{width:100%;height:150px;object-fit:cover;display:block;}
+  .hub-card-body{padding:1rem 1.2rem;}
   .hub-card h3{font-family:Inter,sans-serif;margin:0 0 0.3rem;}
-  .hub-card span{font-family:Inter,sans-serif;font-size:0.78rem;color:var(--muted);}
+  .hub-card .subtitle{font-family:Inter,sans-serif;font-size:0.78rem;color:var(--accent);font-weight:600;text-transform:uppercase;letter-spacing:0.3px;}
+  .hub-card .summary{font-size:0.9rem;color:var(--muted);margin:0.4rem 0 0;line-height:1.5;}
 </style>
 </head>
 <body>
@@ -34,13 +38,62 @@
   <p class="intro">Every recipe here uses whole-food protein — cottage cheese, eggs, Greek yogurt, chicken — to hit 20g+ protein per serving without a scoop of anything. Organized by meal, so you can find what fits your day.</p>
 
   <div class="hub-grid">
-    <a class="hub-card" href="/breakfast/"><h3>Breakfast</h3><span>Pancakes, oats, smoothies</span></a>
-    <a class="hub-card" href="/cottage-cheese/"><h3>Cottage Cheese Recipes</h3><span>The most versatile protein ingredient</span></a>
-    <a class="hub-card" href="/snacks/"><h3>Snacks</h3><span>On-the-go protein</span></a>
-    <a class="hub-card" href="/desserts/"><h3>Desserts</h3><span>Cookies, ice cream, muffins</span></a>
-    <a class="hub-card" href="/meal-prep/"><h3>Meal Prep</h3><span>Batch-cook the week</span></a>
-    <a class="hub-card" href="/dinner/"><h3>Dinner</h3><span>High protein mains</span></a>
-    <a class="hub-card" href="/diet-plans/"><h3>Diet Plans</h3><span>Recipe inspiration, not medical advice</span></a>
+    <a class="hub-card" href="/breakfast/">
+      <img src="/images/cottage-cheese-pancakes/hero.jpg" alt="Stack of golden cottage cheese pancakes topped with blueberries and honey" loading="lazy">
+      <div class="hub-card-body">
+        <h3>Breakfast</h3>
+        <span class="subtitle">Pancakes, oats, smoothies</span>
+        <p class="summary">3 recipes to start the day — cottage cheese pancakes, overnight oats, smoothie bowl. All 24g+ protein, 15 minutes or less.</p>
+      </div>
+    </a>
+    <a class="hub-card" href="/cottage-cheese/">
+      <img src="/images/cottage-cheese-dip/hero.jpg" alt="Bowl of whipped cottage cheese dip with everything bagel seasoning and vegetables" loading="lazy">
+      <div class="hub-card-body">
+        <h3>Cottage Cheese Recipes</h3>
+        <span class="subtitle">The most versatile protein ingredient</span>
+        <p class="summary">Pancakes, ice cream, and a whipped dip — every recipe blended smooth so there's zero curdy texture.</p>
+      </div>
+    </a>
+    <a class="hub-card" href="/snacks/">
+      <img src="/images/protein-energy-balls/hero.jpg" alt="No-bake protein energy balls with various toppings on parchment paper" loading="lazy">
+      <div class="hub-card-body">
+        <h3>Snacks</h3>
+        <span class="subtitle">On-the-go protein</span>
+        <p class="summary">No-bake energy balls and a whipped cottage cheese dip — both portable and ready in 15 minutes.</p>
+      </div>
+    </a>
+    <a class="hub-card" href="/desserts/">
+      <img src="/images/cottage-cheese-ice-cream/hero.jpg" alt="Bowl of vanilla cottage cheese ice cream scoops with honey and raspberries" loading="lazy">
+      <div class="hub-card-body">
+        <h3>Desserts</h3>
+        <span class="subtitle">Cookies, ice cream, muffins</span>
+        <p class="summary">No-churn cottage cheese ice cream with 18g of protein per scoop — no ice cream maker needed.</p>
+      </div>
+    </a>
+    <a class="hub-card" href="/meal-prep/">
+      <img src="/images/high-protein-meal-prep-chicken-rice-bowls/hero.jpg" alt="Meal prep containers with grilled chicken, broccoli and rice" loading="lazy">
+      <div class="hub-card-body">
+        <h3>Meal Prep</h3>
+        <span class="subtitle">Batch-cook the week</span>
+        <p class="summary">Chicken &amp; rice or turkey &amp; sweet potato bowls — both hold up in the fridge for 5 days.</p>
+      </div>
+    </a>
+    <a class="hub-card" href="/dinner/">
+      <img src="/images/sheet-pan-salmon/hero.jpg" alt="Sheet pan salmon with asparagus, cherry tomatoes and lemon" loading="lazy">
+      <div class="hub-card-body">
+        <h3>Dinner</h3>
+        <span class="subtitle">High protein mains</span>
+        <p class="summary">Air fryer chicken and sheet pan salmon — both 35g+ protein, on the table in 25 minutes.</p>
+      </div>
+    </a>
+    <a class="hub-card" href="/diet-plans/">
+      <img src="/images/air-fryer-chicken-and-vegetables/hero.jpg" alt="Sliced air fryer chicken breast with roasted vegetables on a plate" loading="lazy">
+      <div class="hub-card-body">
+        <h3>Diet Plans</h3>
+        <span class="subtitle">Recipe inspiration, not medical advice</span>
+        <p class="summary">A sample high-protein day built from real recipes — mix and match to build your own.</p>
+      </div>
+    </a>
   </div>
 </div>
 </body>

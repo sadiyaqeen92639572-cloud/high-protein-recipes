@@ -147,19 +147,19 @@ const TEMPLATE = (r, jsonLd) => `<!DOCTYPE html>
   <img src="/images/${r.slug}/hero.jpg" alt="${r.images.heroAlt}" class="hero" loading="eager">
 
   <div class="story">
-    <p>Some mornings call for pancakes that actually keep you full past 10am. These cottage cheese pancakes blend straight in the blender — no protein powder, no chalky aftertaste — and pack ${r.nutrition.proteinContent} of protein into a stack of fluffy, golden pancakes.</p>
-    <p>The trick is blending the cottage cheese completely smooth so it disappears into the batter, leaving behind moisture and protein without any curdy texture. Ready in 15 minutes, and the batter keeps overnight if you want to prep ahead.</p>
+    <p>${r.storyIntro[0]}</p>
+    <p>${r.storyIntro[1]}</p>
   </div>
 
   <a href="#recipe-card" class="jump-btn">Jump to Recipe ↓</a>
 
   <div class="story">
-    <p>A quick note on texture: don't skip the 2-3 minute rest after blending. The flour needs a moment to hydrate, and that's what gives you pancakes that hold together on the flip instead of falling apart.</p>
+    <p>${r.storyNote}</p>
   </div>
 
   <div class="pin-cta">
     <img src="/images/${r.slug}/pin.jpg" alt="${r.images.pinAlt}">
-    <span>Save this recipe for later — pin it to your breakfast board.</span>
+    <span>Save this recipe for later — pin it to your ${(r.hubLabel || r.recipeCategory).toLowerCase()} board.</span>
   </div>
 
   <section id="recipe-card">

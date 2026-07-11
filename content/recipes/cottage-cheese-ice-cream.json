@@ -77,5 +77,10 @@
     "heroAlt": "Bowl of vanilla cottage cheese ice cream scoops with honey drizzle and fresh raspberries",
     "textureAlt": "Spoon scooping creamy cottage cheese ice cream showing soft-serve texture",
     "pinAlt": "Ice cream scoop lifting a ball of cottage cheese ice cream with chocolate chips scattered around"
-  }
+  },
+  "storyIntro": [
+    "This is a no-churn ice cream, which means no ice cream maker, no tempering eggs, no cooking a custard on the stove. Just cottage cheese, honey, and vanilla blended until it disappears into something rich and creamy, then frozen.",
+    "It lands at 18g of protein per serving for about 150 calories \u2014 a fraction of what a scoop of regular ice cream costs you, without tasting like a compromise."
+  ],
+  "storyNote": "The one step that can't be rushed: blend until it's completely smooth, with zero visible curds. Under-blending is the difference between creamy ice cream and an icy, grainy one."
 }

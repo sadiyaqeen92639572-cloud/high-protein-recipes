@@ -80,5 +80,10 @@
     "heroAlt": "Meal prep containers with seasoned ground turkey, roasted sweet potato cubes and green beans",
     "textureAlt": "Seasoned crumbled ground turkey next to a cut roasted sweet potato cube",
     "pinAlt": "Fork lifting seasoned ground turkey and roasted sweet potato cubes from a meal prep container"
-  }
+  },
+  "storyIntro": [
+    "Ground turkey gets a bad reputation for turning dry and bland the moment it's reheated, but that's usually a seasoning and timing problem, not a turkey problem. This version leans on smoked paprika, cumin, and garlic to fix both.",
+    "Sweet potato and green beans round it out into a genuinely balanced bowl \u2014 34g of protein, five containers, ready in 35 minutes of mostly hands-off cooking."
+  ],
+  "storyNote": "Pull the turkey off the heat the moment no pink remains. 93% lean turkey has very little fat to spare, so any extra time on the stove chasing more browning is what dries it out."
 }

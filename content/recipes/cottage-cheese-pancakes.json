@@ -83,5 +83,10 @@
     "heroAlt": "Stack of golden cottage cheese pancakes topped with blueberries, honey and powdered sugar",
     "textureAlt": "Cottage cheese pancake cut with a fork revealing the fluffy interior",
     "pinAlt": "Cottage cheese pancakes with syrup pouring down the side and fresh raspberries on the plate"
-  }
+  },
+  "storyIntro": [
+    "Some mornings call for pancakes that actually keep you full past 10am. These cottage cheese pancakes blend straight in the blender \u2014 no protein powder, no chalky aftertaste \u2014 and pack 24g of protein into a stack of fluffy, golden pancakes.",
+    "The trick is blending the cottage cheese completely smooth so it disappears into the batter, leaving behind moisture and protein without any curdy texture. Ready in 15 minutes, and the batter keeps overnight if you want to prep ahead."
+  ],
+  "storyNote": "A quick note on texture: don't skip the 2-3 minute rest after blending. The flour needs a moment to hydrate, and that's what gives you pancakes that hold together on the flip instead of falling apart."
 }
