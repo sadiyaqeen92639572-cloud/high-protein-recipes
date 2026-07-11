@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const SITE_URL = 'https://high-protein-recipes.pages.dev';
+const SITE_URL = 'https://high-protein-recipes-bh2.pages.dev';
 const SITE_NAME = 'High Protein Recipes';
 
 function loadRecipe(slug) {
@@ -97,6 +97,7 @@ const TEMPLATE = (r, jsonLd) => `<!DOCTYPE html>
 <script type="application/ld+json">${JSON.stringify(jsonLd, null, 2)}</script>
 <style>
   :root{--bg:#fffaf5;--text:#2b2119;--accent:#c96f4a;--muted:#7a6a5c;--border:#eee0d3;}
+  html{font-size:18px;}
   body{font-family:Georgia,'Times New Roman',serif;background:var(--bg);color:var(--text);margin:0;line-height:1.7;}
   .wrap{max-width:760px;margin:0 auto;padding:1.5rem;}
   .hero{width:100%;max-height:65vh;object-fit:cover;border-radius:12px;margin:1rem 0;display:block;}
