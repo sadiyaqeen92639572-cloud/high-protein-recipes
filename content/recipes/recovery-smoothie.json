@@ -1,0 +1,58 @@
+{
+  "slug": "recovery-smoothie",
+  "title": "Post-Workout Recovery Smoothie (Chocolate Cherry)",
+  "hubPath": "snacks",
+  "hubLabel": "Snacks",
+  "metaDescription": "Chocolate cherry recovery smoothie with 24g of protein and tart cherry — a classic post-workout recovery combo. Ready in 5 minutes.",
+  "targetKeywords": ["recovery meal after workout", "post workout snack", "protein shake recipes"],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-12",
+  "prepTime": "PT5M",
+  "cookTime": "PT0M",
+  "totalTime": "PT5M",
+  "recipeYield": "1 serving",
+  "recipeCategory": "Snack",
+  "recipeCuisine": "American",
+  "keywords": "recovery smoothie, post workout recovery drink, chocolate cherry smoothie",
+  "nutrition": {
+    "calories": "310",
+    "proteinContent": "24g",
+    "carbohydrateContent": "36g",
+    "fatContent": "5g"
+  },
+  "ingredients": [
+    "1/2 cup tart cherry juice",
+    "1/2 cup milk (dairy or unsweetened almond milk)",
+    "1/2 cup Greek yogurt",
+    "1 tbsp cocoa powder",
+    "1/2 frozen banana",
+    "1 tsp honey (optional, to taste)"
+  ],
+  "steps": [
+    { "name": "Combine", "text": "Add tart cherry juice, milk, Greek yogurt, cocoa powder, frozen banana, and honey to a blender." },
+    { "name": "Blend", "text": "Blend on high for 30-45 seconds until smooth and creamy." },
+    { "name": "Drink after training", "text": "Pour into a glass and drink after your workout, ideally within the same window you'd normally reach for a recovery shake." }
+  ],
+  "tips": [
+    { "question": "Why tart cherry juice specifically?", "answer": "Tart cherry is a common ingredient in recovery drinks among endurance athletes, largely for its antioxidant content — it's a popular choice rather than a guaranteed fix, and works well flavor-wise with chocolate." },
+    { "question": "Is chocolate milk really used for recovery?", "answer": "Yes — plain chocolate milk's roughly 3:1 carb-to-protein ratio is a widely cited recovery benchmark among athletes, which is the ratio this smoothie is built around using cocoa powder instead of pre-made chocolate milk." },
+    { "question": "Can I make this without dairy?", "answer": "Yes — swap the milk and Greek yogurt for a dairy-free milk and yogurt alternative, though total protein will be lower without the dairy base." },
+    { "question": "Can I use fresh cherries instead of tart cherry juice?", "answer": "Fresh sweet cherries work in a pinch, but tart cherry juice (usually Montmorency variety) is what most recovery-focused recipes specifically call for — sweet cherries have a different flavor and nutrient profile." }
+  ],
+  "storyIntro": [
+    "Chocolate milk has been an unofficial recovery drink among athletes for years, mostly for its carb-to-protein ratio — this leans into that idea, but swaps in tart cherry juice, a fixture in a lot of endurance athletes' post-training routines.",
+    "Cocoa powder and Greek yogurt do the chocolate-milk-adjacent job here, landing at 24g of protein, while the tart cherry adds both flavor and its own reputation in recovery circles."
+  ],
+  "storyNote": "This isn't a substitute for adequate rest or overall nutrition — it's one recovery drink option among many, built around ingredients that show up often in athlete recovery routines, not a guaranteed fix for soreness.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Glass of dark chocolate cherry smoothie topped with fresh cherries",
+    "textureAlt": "Straw lifted from a thick dark chocolate cherry smoothie showing rich creamy texture",
+    "pinAlt": "Pouring a thick dark chocolate cherry smoothie into a glass"
+  }
+}

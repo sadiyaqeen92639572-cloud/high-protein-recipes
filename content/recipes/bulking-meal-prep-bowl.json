@@ -1,0 +1,61 @@
+{
+  "slug": "bulking-meal-prep-bowl",
+  "title": "Bulking Meal Prep Bowl (High Calorie, High Protein)",
+  "hubPath": "meal-prep",
+  "hubLabel": "Meal Prep",
+  "metaDescription": "Bulking meal prep bowl with 45g of protein and 650 calories per serving — ground beef, rice, black beans and avocado. 5 containers, 35 minutes.",
+  "targetKeywords": ["bulking meal prep", "muscle building meals", "lean bulk meal plan"],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-12",
+  "prepTime": "PT10M",
+  "cookTime": "PT25M",
+  "totalTime": "PT35M",
+  "recipeYield": "5 containers",
+  "recipeCategory": "Meal Prep",
+  "recipeCuisine": "American",
+  "keywords": "bulking meal prep, muscle building meal prep, high calorie protein bowl",
+  "nutrition": {
+    "calories": "650",
+    "proteinContent": "45g",
+    "carbohydrateContent": "58g",
+    "fatContent": "24g"
+  },
+  "ingredients": [
+    "2 lbs ground beef (85/15)",
+    "3 cups cooked rice",
+    "2 cans black beans, drained and rinsed",
+    "2 avocados, sliced",
+    "1 cup shredded cheddar cheese",
+    "2 tbsp taco seasoning",
+    "1 tbsp olive oil",
+    "Salt to taste"
+  ],
+  "steps": [
+    { "name": "Cook the beef", "text": "Heat olive oil in a large skillet over medium-high heat. Add ground beef and taco seasoning, breaking it up as it browns, about 8-10 minutes until fully cooked." },
+    { "name": "Warm the beans", "text": "Warm the black beans in a small pot or the microwave, seasoning with a pinch of salt." },
+    { "name": "Assemble containers", "text": "Divide rice, beef, black beans, and cheese evenly between 5 containers." },
+    { "name": "Add avocado fresh", "text": "Store sliced avocado separately and add it just before eating — it doesn't hold up well pre-sliced in the fridge for days." }
+  ],
+  "tips": [
+    { "question": "Why is this recipe higher in calories than the other meal preps on this site?", "answer": "Bulking means eating in a calorie surplus to support muscle growth, so this recipe is intentionally more calorie-dense than a maintenance or weight-loss meal — that's the entire point of the recipe, not an oversight." },
+    { "question": "Can I make this less calorie-dense if I'm not bulking?", "answer": "Yes — swap to 93% lean ground beef, cut the cheese in half, or reduce the rice portion, and you'll land closer to 450-500 calories per serving instead of 650." },
+    { "question": "Why store the avocado separately?", "answer": "Pre-sliced avocado browns and turns mushy within a day or two in the fridge — keeping it whole and slicing fresh right before eating keeps the texture and color much better." },
+    { "question": "How long do these containers keep in the fridge?", "answer": "Up to 4-5 days for the beef, rice, and beans. Add fresh avocado and reheat only the portion you're eating." }
+  ],
+  "storyIntro": [
+    "Bulking meal prep has a specific job that's different from every other meal prep on this site: eating enough, not eating light. Ground beef, rice, black beans, and avocado build a bowl that's calorie-dense on purpose.",
+    "45g of protein and about 650 calories per container, prepped in 35 minutes across 5 containers — the kind of math that actually supports a calorie surplus instead of accidentally undereating through a busy week."
+  ],
+  "storyNote": "Keep the avocado whole and slice it fresh each day rather than portioning it in ahead of time — pre-sliced avocado sitting in a container for days turns brown and mushy fast, and it's the one ingredient here that doesn't meal-prep well in advance.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Meal prep bowl with seasoned ground beef, rice, black beans, sliced avocado and shredded cheese",
+    "textureAlt": "Seasoned ground beef and rice texture with melted cheese and avocado slices",
+    "pinAlt": "Fork lifting seasoned ground beef and rice from a hearty meal prep bowl with avocado"
+  }
+}
