@@ -35,6 +35,10 @@ Déployé sur Cloudflare Pages : https://realproteinkitchen.com
 npx wrangler pages deploy . --project-name=high-protein-recipes
 ```
 
-Domaine perso pas encore connecté — quand un domaine est disponible, le brancher via le dashboard Cloudflare Pages (Custom domains) et mettre à jour `SITE_URL` dans `build-recipe-page.js` + `robots.txt`/`sitemap.xml` (regex `sed` sur `realproteinkitchen.com` → nouveau domaine), puis `node build-recipe-page.js` pour tout regénérer.
+Domaine `realproteinkitchen.com` connecté (Cloudflare Registrar, zone active, cert SSL émis). Google Search Console vérifié.
 
 `aggregateRating` ne doit être ajouté au schema QUE quand `reviewCount > 0` — déjà géré automatiquement par `build-recipe-page.js`.
+
+## Free Companion Tools
+
+- [Daily Protein Intake Calculator](https://sadiyaqeen92639572-cloud.github.io/protein-intake-calculator/) — enter body weight + goal (sedentary/active/muscle building/cutting/endurance) for an instant daily protein gram target, calories, and per-meal split. Powered by realproteinkitchen.com recipes to hit the number.
