@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const SITE_URL = 'https://high-protein-recipes-bh2.pages.dev';
+const SITE_URL = 'https://realproteinkitchen.com';
 const SITE_NAME = 'High Protein Recipes';
 
 function loadRecipe(slug) {

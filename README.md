@@ -29,12 +29,12 @@ build-recipe-page.js           node build-recipe-page.js [slug]  →  génère p
 
 ## Déploiement
 
-Déployé sur Cloudflare Pages : https://high-protein-recipes-bh2.pages.dev
+Déployé sur Cloudflare Pages : https://realproteinkitchen.com
 
 ```bash
 npx wrangler pages deploy . --project-name=high-protein-recipes
 ```
 
-Domaine perso pas encore connecté — quand un domaine est disponible, le brancher via le dashboard Cloudflare Pages (Custom domains) et mettre à jour `SITE_URL` dans `build-recipe-page.js` + `robots.txt`/`sitemap.xml` (regex `sed` sur `high-protein-recipes-bh2.pages.dev` → nouveau domaine), puis `node build-recipe-page.js` pour tout regénérer.
+Domaine perso pas encore connecté — quand un domaine est disponible, le brancher via le dashboard Cloudflare Pages (Custom domains) et mettre à jour `SITE_URL` dans `build-recipe-page.js` + `robots.txt`/`sitemap.xml` (regex `sed` sur `realproteinkitchen.com` → nouveau domaine), puis `node build-recipe-page.js` pour tout regénérer.
 
 `aggregateRating` ne doit être ajouté au schema QUE quand `reviewCount > 0` — déjà géré automatiquement par `build-recipe-page.js`.

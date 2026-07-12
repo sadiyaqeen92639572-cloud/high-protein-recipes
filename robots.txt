@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://high-protein-recipes-bh2.pages.dev/sitemap.xml
+Sitemap: https://realproteinkitchen.com/sitemap.xml
