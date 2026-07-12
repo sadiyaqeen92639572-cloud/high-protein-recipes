@@ -1,10 +1,14 @@
 {
   "slug": "protein-muffins",
-  "title": "Protein Muffins (Cottage Cheese Blender Muffins)",
+  "title": "Protein Muffins with Cottage Cheese",
   "hubPath": "snacks",
   "hubLabel": "Snacks",
-  "metaDescription": "Protein muffins with 12g of protein each — cottage cheese blended right into the batter. Ready in 30 minutes, freezer-friendly.",
-  "targetKeywords": ["protein muffins", "cottage cheese recipes", "high protein snack ideas"],
+  "metaDescription": "Protein muffins with 12g of protein each \u2014 cottage cheese blended right into the batter. Ready in 30 minutes, freezer-friendly.",
+  "targetKeywords": [
+    "protein muffins",
+    "cottage cheese recipes",
+    "high protein snack ideas"
+  ],
   "author": "Recipe Team",
   "datePublished": "2026-07-12",
   "prepTime": "PT10M",
@@ -32,19 +36,43 @@
     "1/2 cup chocolate chips or blueberries (optional)"
   ],
   "steps": [
-    { "name": "Blend the wet ingredients", "text": "Blend cottage cheese, eggs, honey, and vanilla until completely smooth, about 30 seconds." },
-    { "name": "Combine with dry ingredients", "text": "Whisk oat flour, baking powder, baking soda, and salt in a bowl. Pour in the wet mixture and stir until just combined. Fold in chocolate chips or blueberries if using." },
-    { "name": "Fill and bake", "text": "Divide batter between 12 lined muffin cups. Bake at 350°F for 18-20 minutes, until a toothpick comes out clean." },
-    { "name": "Cool", "text": "Let muffins cool in the pan for 5 minutes before transferring to a wire rack." }
+    {
+      "name": "Blend the wet ingredients",
+      "text": "Blend cottage cheese, eggs, honey, and vanilla until completely smooth, about 30 seconds."
+    },
+    {
+      "name": "Combine with dry ingredients",
+      "text": "Whisk oat flour, baking powder, baking soda, and salt in a bowl. Pour in the wet mixture and stir until just combined. Fold in chocolate chips or blueberries if using."
+    },
+    {
+      "name": "Fill and bake",
+      "text": "Divide batter between 12 lined muffin cups. Bake at 350\u00b0F for 18-20 minutes, until a toothpick comes out clean."
+    },
+    {
+      "name": "Cool",
+      "text": "Let muffins cool in the pan for 5 minutes before transferring to a wire rack."
+    }
   ],
   "tips": [
-    { "question": "Can I use all-purpose flour instead of oat flour?", "answer": "Yes, 1:1 by volume — the texture will be slightly lighter and less dense than with oat flour." },
-    { "question": "Why blend the cottage cheese instead of leaving it chunky?", "answer": "A full blend is what gives these muffins a soft, uniform crumb — unblended cottage cheese leaves visible curds throughout the batter." },
-    { "question": "How do I store protein muffins?", "answer": "Up to 4 days at room temperature in an airtight container, or freeze for up to 2 months — thaw at room temperature or microwave for 20 seconds." },
-    { "question": "Why did my muffins turn out dense?", "answer": "Overmixing the batter after adding the dry ingredients is the most common cause — stir just until no dry flour streaks remain, then stop." }
+    {
+      "question": "Can I use all-purpose flour instead of oat flour?",
+      "answer": "Yes, 1:1 by volume \u2014 the texture will be slightly lighter and less dense than with oat flour."
+    },
+    {
+      "question": "Why blend the cottage cheese instead of leaving it chunky?",
+      "answer": "A full blend is what gives these muffins a soft, uniform crumb \u2014 unblended cottage cheese leaves visible curds throughout the batter."
+    },
+    {
+      "question": "How do I store protein muffins?",
+      "answer": "Up to 4 days at room temperature in an airtight container, or freeze for up to 2 months \u2014 thaw at room temperature or microwave for 20 seconds."
+    },
+    {
+      "question": "Why did my muffins turn out dense?",
+      "answer": "Overmixing the batter after adding the dry ingredients is the most common cause \u2014 stir just until no dry flour streaks remain, then stop."
+    }
   ],
   "storyIntro": [
-    "Most muffin recipes get their protein from a scoop of powder stirred in as an afterthought. This one builds it into the batter itself — cottage cheese blended smooth with the eggs before the dry ingredients ever get involved.",
+    "Most muffin recipes get their protein from a scoop of powder stirred in as an afterthought. This one builds it into the batter itself \u2014 cottage cheese blended smooth with the eggs before the dry ingredients ever get involved.",
     "12g of protein per muffin, 30 minutes start to finish, and a texture soft enough that nobody would guess cottage cheese is in there at all."
   ],
   "storyNote": "Stop mixing the moment the dry ingredients disappear into the batter. Every extra stir past that point develops more gluten in the oat flour, which is what makes muffins dense instead of tender.",

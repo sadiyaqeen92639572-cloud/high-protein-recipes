@@ -1,10 +1,14 @@
 {
   "slug": "high-protein-bread",
-  "title": "High Protein Bread (Blender Cottage Cheese Bread)",
+  "title": "Cottage Cheese Bread Recipe (High Protein, No Yeast)",
   "hubPath": "snacks",
   "hubLabel": "Snacks",
-  "metaDescription": "High protein bread with 10g of protein per slice — cottage cheese blended into the batter, no yeast or proofing needed. Ready in under an hour.",
-  "targetKeywords": ["protein bread", "cottage cheese recipes", "high protein recipes"],
+  "metaDescription": "High protein bread with 10g of protein per slice \u2014 cottage cheese blended into the batter, no yeast or proofing needed. Ready in under an hour.",
+  "targetKeywords": [
+    "protein bread",
+    "cottage cheese recipes",
+    "high protein recipes"
+  ],
   "author": "Recipe Team",
   "datePublished": "2026-07-12",
   "prepTime": "PT10M",
@@ -31,22 +35,46 @@
     "Sesame or poppy seeds, for topping (optional)"
   ],
   "steps": [
-    { "name": "Blend the wet ingredients", "text": "Blend cottage cheese, eggs, olive oil, and honey until completely smooth, about 45 seconds." },
-    { "name": "Combine with dry ingredients", "text": "Whisk oat flour, baking powder, and salt in a large bowl. Pour in the blended mixture and stir until just combined — no dry streaks remaining." },
-    { "name": "Bake", "text": "Pour batter into a greased loaf pan. Top with seeds if using. Bake at 350°F for 40-45 minutes, until a toothpick comes out clean and the top is golden." },
-    { "name": "Cool completely", "text": "Let the loaf cool in the pan for 10 minutes, then transfer to a wire rack to cool fully before slicing — slicing warm causes it to crumble." }
+    {
+      "name": "Blend the wet ingredients",
+      "text": "Blend cottage cheese, eggs, olive oil, and honey until completely smooth, about 45 seconds."
+    },
+    {
+      "name": "Combine with dry ingredients",
+      "text": "Whisk oat flour, baking powder, and salt in a large bowl. Pour in the blended mixture and stir until just combined \u2014 no dry streaks remaining."
+    },
+    {
+      "name": "Bake",
+      "text": "Pour batter into a greased loaf pan. Top with seeds if using. Bake at 350\u00b0F for 40-45 minutes, until a toothpick comes out clean and the top is golden."
+    },
+    {
+      "name": "Cool completely",
+      "text": "Let the loaf cool in the pan for 10 minutes, then transfer to a wire rack to cool fully before slicing \u2014 slicing warm causes it to crumble."
+    }
   ],
   "tips": [
-    { "question": "Why is this bread called 'no-yeast'?", "answer": "Baking powder does the lifting here instead of yeast, which is why there's no proofing time — this is closer to a savory quick bread than a traditional loaf." },
-    { "question": "Can I slice and freeze this bread?", "answer": "Yes — slice the fully cooled loaf and freeze individual slices in a bag, then toast straight from frozen." },
-    { "question": "Why did my loaf turn out gummy in the middle?", "answer": "Underbaking is the usual cause — oat flour batters look deceptively done on top before the center sets, so always confirm with a toothpick in the very center." },
-    { "question": "Can I use all-purpose flour instead of oat flour?", "answer": "Yes, though you may need slightly less liquid — oat flour absorbs more moisture than all-purpose, so start checking the batter consistency a bit earlier." }
+    {
+      "question": "Why is this bread called 'no-yeast'?",
+      "answer": "Baking powder does the lifting here instead of yeast, which is why there's no proofing time \u2014 this is closer to a savory quick bread than a traditional loaf."
+    },
+    {
+      "question": "Can I slice and freeze this bread?",
+      "answer": "Yes \u2014 slice the fully cooled loaf and freeze individual slices in a bag, then toast straight from frozen."
+    },
+    {
+      "question": "Why did my loaf turn out gummy in the middle?",
+      "answer": "Underbaking is the usual cause \u2014 oat flour batters look deceptively done on top before the center sets, so always confirm with a toothpick in the very center."
+    },
+    {
+      "question": "Can I use all-purpose flour instead of oat flour?",
+      "answer": "Yes, though you may need slightly less liquid \u2014 oat flour absorbs more moisture than all-purpose, so start checking the batter consistency a bit earlier."
+    }
   ],
   "storyIntro": [
-    "This isn't sandwich bread trying to be healthy — it's a dense, savory quick bread built around cottage cheese instead of the usual butter and milk, with the eggs and oat flour doing the rest of the structural work.",
+    "This isn't sandwich bread trying to be healthy \u2014 it's a dense, savory quick bread built around cottage cheese instead of the usual butter and milk, with the eggs and oat flour doing the rest of the structural work.",
     "No yeast, no proofing, just mix, pour, and bake. Each slice lands at 10g of protein for about 120 calories, which is a very different math than a slice of white bread."
   ],
-  "storyNote": "Let it cool completely before the first slice, even though the smell makes that hard. Oat flour loaves need that resting time to finish setting — cutting in too early is what causes the middle to look gummy or underdone even when it's actually cooked through.",
+  "storyNote": "Let it cool completely before the first slice, even though the smell makes that hard. Oat flour loaves need that resting time to finish setting \u2014 cutting in too early is what causes the middle to look gummy or underdone even when it's actually cooked through.",
   "reviews": [],
   "reviewCount": 0,
   "avgRating": null,
