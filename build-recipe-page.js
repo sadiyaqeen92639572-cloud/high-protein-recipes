@@ -68,6 +68,14 @@ function buildJsonLd(r) {
     });
   }
 
+  graph.push({
+    '@type': 'Organization',
+    name: SITE_NAME,
+    legalName: 'Gesmine-Invest Limited',
+    identifier: { '@type': 'PropertyValue', propertyID: 'UK Company Number', value: '14120136' },
+    address: { '@type': 'PostalAddress', streetAddress: 'Hardy House, 269 Poynders Gardens', addressLocality: 'London', postalCode: 'SW4 8PQ', addressCountry: 'GB' }
+  });
+
   return { '@context': 'https://schema.org', '@graph': graph };
 }
 
@@ -187,6 +195,9 @@ const TEMPLATE = (r, jsonLd) => `<!DOCTYPE html>
     ${buildFaqHtml(r)}
   </section>
 </div>
+<footer style="max-width:720px;margin:0 auto;padding:24px 16px;text-align:center;">
+  <p style="font-size:.72rem;color:#666;">${SITE_NAME} is part of Gesmine-Invest Limited, registered UK company number 14120136, registered office address at Hardy House, 269 Poynders Gardens, London, London, United Kingdom, SW4 8PQ.</p>
+</footer>
 </body>
 </html>
 `;
