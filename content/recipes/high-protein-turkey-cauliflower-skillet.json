@@ -1,0 +1,63 @@
+{
+  "slug": "high-protein-turkey-cauliflower-skillet",
+  "title": "High Protein Turkey Cauliflower Rice Skillet",
+  "hubPath": "low-carb",
+  "hubLabel": "Low Carb",
+  "metaDescription": "One-pan ground turkey and cauliflower rice skillet with 38g protein and under 10g net carbs per serving. Ready in 25 minutes, no rice cooker needed.",
+  "targetKeywords": ["high protein low carb recipes", "high protein ground turkey recipes", "low carb high protein crockpot recipes"],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT10M",
+  "cookTime": "PT15M",
+  "totalTime": "PT25M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "American",
+  "keywords": "high protein low carb, turkey cauliflower rice, ground turkey skillet",
+  "nutrition": {
+    "calories": "340",
+    "proteinContent": "38g",
+    "carbohydrateContent": "9g",
+    "fatContent": "14g"
+  },
+  "ingredients": [
+    "1 lb ground turkey (93% lean)",
+    "1 (12 oz) bag riced cauliflower",
+    "1 small onion, diced",
+    "2 cloves garlic, minced",
+    "1 red bell pepper, diced",
+    "2 tbsp olive oil",
+    "1 tsp smoked paprika",
+    "1/2 cup shredded cheddar",
+    "Salt and pepper, to taste",
+    "Fresh cilantro, for serving"
+  ],
+  "steps": [
+    { "name": "Brown the turkey", "text": "Heat 1 tbsp olive oil in a large skillet over medium-high heat. Add ground turkey, breaking it apart, and cook until no longer pink, about 6-7 minutes. Season with salt, pepper, and smoked paprika." },
+    { "name": "Cook the vegetables", "text": "Push turkey to one side of the skillet. Add remaining oil, onion, garlic, and bell pepper to the other side. Cook 4-5 minutes until softened." },
+    { "name": "Add the cauliflower rice", "text": "Stir everything together and add the riced cauliflower. Cook for 5-6 minutes, stirring occasionally, until the cauliflower is tender but not mushy — it should still have a slight bite." },
+    { "name": "Finish and serve", "text": "Remove from heat, sprinkle cheddar on top, and let it melt for 1-2 minutes covered. Top with fresh cilantro before serving." }
+  ],
+  "tips": [
+    { "question": "Can I use fresh cauliflower instead of frozen riced cauliflower?", "answer": "Yes — pulse a head of cauliflower florets in a food processor until rice-sized. Fresh cauliflower releases more water, so cook it 2-3 minutes longer to evaporate excess moisture." },
+    { "question": "How do I keep the cauliflower rice from getting mushy?", "answer": "Don't cover the skillet while it cooks and avoid overcrowding — cook in a wide skillet so the moisture evaporates instead of steaming the cauliflower." },
+    { "question": "Can I make this dairy-free?", "answer": "Yes, just skip the cheddar or use a dairy-free shredded cheese alternative — the recipe holds together fine without it." },
+    { "question": "What's the best way to store leftovers?", "answer": "Store in an airtight container in the fridge for up to 4 days. Reheat in a skillet rather than the microwave to keep the cauliflower from turning watery." }
+  ],
+  "storyIntro": [
+    "Cauliflower rice gets a bad reputation for turning into a watery, sad pile — usually because it's steamed instead of actually cooked in a hot pan. This skillet fixes that by browning the turkey first, building a base of real flavor before the cauliflower ever hits the pan.",
+    "One pan, 25 minutes, 38g of protein and under 10g net carbs per serving — it's the kind of dinner that doesn't feel like a diet recipe even though it technically is one."
+  ],
+  "storyNote": "The key is cooking the cauliflower rice uncovered in a wide skillet — trapping steam is what turns it mushy, not the cauliflower itself.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Skillet of ground turkey and cauliflower rice with red peppers and melted cheddar cheese",
+    "textureAlt": "Close-up spoonful of turkey cauliflower rice skillet showing texture of rice and turkey crumbles",
+    "pinAlt": "Overhead shot of turkey cauliflower rice skillet with cilantro garnish, steam rising"
+  }
+}

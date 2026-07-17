@@ -1,0 +1,64 @@
+{
+  "slug": "chicken-fajita-bowl",
+  "title": "High Protein Chicken Fajita Bowl",
+  "hubPath": "chicken",
+  "hubLabel": "Chicken",
+  "metaDescription": "Chicken fajita bowl with 42g protein per serving — seared chicken, peppers, onions and cilantro lime rice. Ready in 30 minutes, no tortillas required.",
+  "targetKeywords": ["high protein chicken recipes", "high protein dinner recipes", "high protein low carb recipes"],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Chicken",
+  "recipeCuisine": "Mexican-inspired",
+  "keywords": "chicken fajita bowl, high protein chicken dinner, cilantro lime rice",
+  "nutrition": {
+    "calories": "420",
+    "proteinContent": "42g",
+    "carbohydrateContent": "35g",
+    "fatContent": "12g"
+  },
+  "ingredients": [
+    "1.5 lbs boneless chicken breast, sliced into strips",
+    "2 bell peppers, sliced",
+    "1 red onion, sliced",
+    "2 tbsp olive oil",
+    "2 tsp chili powder",
+    "1 tsp cumin",
+    "1 tsp smoked paprika",
+    "2 cups cooked rice",
+    "1/4 cup fresh cilantro, chopped",
+    "1 lime, juiced",
+    "Salt and pepper, to taste"
+  ],
+  "steps": [
+    { "name": "Season the chicken", "text": "Toss the chicken strips with 1 tbsp olive oil, chili powder, cumin, smoked paprika, salt, and pepper until evenly coated." },
+    { "name": "Sear the chicken", "text": "Heat a large skillet over medium-high heat. Add the seasoned chicken and cook for 6-7 minutes, stirring occasionally, until browned and cooked through. Remove and set aside." },
+    { "name": "Cook the peppers and onions", "text": "Add remaining oil to the same skillet. Add bell peppers and red onion, cooking for 6-8 minutes until softened and slightly charred at the edges." },
+    { "name": "Make the rice and assemble", "text": "Stir cilantro and lime juice into the cooked rice. Divide rice among bowls, top with the seared chicken and peppers, and serve." }
+  ],
+  "tips": [
+    { "question": "Can I use chicken thighs instead of breast?", "answer": "Yes — boneless, skinless thighs work well and stay juicier, though the protein per serving drops slightly since thighs contain more fat than breast meat." },
+    { "question": "How do I get the peppers to char instead of just steam?", "answer": "Don't stir too often and make sure the skillet is genuinely hot before adding the vegetables — crowding the pan or flipping constantly traps steam and prevents browning." },
+    { "question": "Can I swap the rice for something lower carb?", "answer": "Yes — cauliflower rice works as a direct swap and cuts the carbs significantly while keeping the same bowl format." },
+    { "question": "How long do leftovers keep?", "answer": "Up to 4 days in the fridge in an airtight container. The chicken and vegetables reheat well in a skillet; the rice is best refreshed with a splash of water before microwaving." }
+  ],
+  "storyIntro": [
+    "Fajitas usually come wrapped in a tortilla, which is fine, but it also means most of what you're eating is bread rather than the protein and vegetables that make fajitas actually good. This bowl version skips the wrap and just serves everything together over rice.",
+    "At 42g of protein per serving with real seared chicken and charred vegetables, it holds up as a legitimate dinner instead of feeling like a diet compromise."
+  ],
+  "storyNote": "Sear the chicken in batches if the pan feels crowded — overcrowding drops the pan temperature and steams the chicken instead of browning it.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Chicken fajita bowl with seared chicken strips, charred bell peppers, onions and cilantro lime rice",
+    "textureAlt": "Close-up of chicken fajita bowl showing seared chicken strips and charred pepper edges",
+    "pinAlt": "Overhead shot of chicken fajita bowl with lime wedge and cilantro garnish"
+  }
+}

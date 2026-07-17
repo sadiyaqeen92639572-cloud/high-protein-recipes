@@ -1,0 +1,63 @@
+{
+  "slug": "chicken-cauliflower-fried-rice",
+  "title": "High Protein Chicken Cauliflower Fried Rice",
+  "hubPath": "low-carb",
+  "hubLabel": "Low Carb",
+  "metaDescription": "Chicken cauliflower fried rice with 36g protein and 8g net carbs per serving — all the flavor of takeout fried rice, none of the carb load. Ready in 20 minutes.",
+  "targetKeywords": ["high protein low carb recipes", "high protein chicken recipes", "low carb high protein crockpot recipes"],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT10M",
+  "cookTime": "PT10M",
+  "totalTime": "PT20M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Low Carb",
+  "recipeCuisine": "Asian-inspired",
+  "keywords": "cauliflower fried rice, chicken low carb, high protein takeout",
+  "nutrition": {
+    "calories": "310",
+    "proteinContent": "36g",
+    "carbohydrateContent": "8g",
+    "fatContent": "11g"
+  },
+  "ingredients": [
+    "1 lb boneless chicken breast, diced small",
+    "1 (12 oz) bag riced cauliflower",
+    "2 eggs, beaten",
+    "1 cup frozen peas and carrots",
+    "3 green onions, sliced",
+    "3 tbsp low-sodium soy sauce",
+    "1 tbsp sesame oil",
+    "2 tbsp avocado oil",
+    "2 cloves garlic, minced",
+    "1 tsp fresh ginger, grated"
+  ],
+  "steps": [
+    { "name": "Cook the chicken", "text": "Heat 1 tbsp avocado oil in a large wok or skillet over high heat. Add diced chicken and cook until golden and cooked through, about 6 minutes. Remove and set aside." },
+    { "name": "Scramble the eggs", "text": "Push nothing aside — just wipe the pan quickly, add a touch more oil, pour in the beaten eggs, and scramble until just set, about 1 minute. Remove and set aside with the chicken." },
+    { "name": "Cook the aromatics and vegetables", "text": "Add remaining oil, garlic, and ginger to the hot pan. Cook 30 seconds until fragrant, then add peas and carrots. Cook 2-3 minutes." },
+    { "name": "Combine and finish", "text": "Add the riced cauliflower to the pan and cook 4-5 minutes, stirring frequently. Return the chicken and eggs to the pan, add soy sauce and sesame oil, and toss everything together for 1-2 minutes. Top with green onions." }
+  ],
+  "tips": [
+    { "question": "Why cook the chicken and eggs separately from the cauliflower?", "answer": "Cooking them separately first means each ingredient gets properly browned instead of steaming together in a crowded pan — that's what gives this dish real fried-rice flavor instead of a soggy stir-fry." },
+    { "question": "Can I use frozen riced cauliflower straight from the freezer?", "answer": "Yes, no need to thaw first — just add a minute or two of extra cook time and make sure the pan stays hot enough to evaporate the extra moisture." },
+    { "question": "Is this recipe gluten-free?", "answer": "Use tamari or a certified gluten-free soy sauce instead of regular soy sauce, and the rest of the recipe is naturally gluten-free." },
+    { "question": "Can I add shrimp instead of chicken?", "answer": "Yes — swap in 1 lb of peeled shrimp, cooked the same way for about 3-4 minutes until pink, for a lighter protein swap." }
+  ],
+  "storyIntro": [
+    "Takeout fried rice is one of those cravings that's hard to shake, but a single serving from a restaurant can run 50+ grams of carbs before you've even added the extra fried rice everyone orders on the side. This version swaps the rice for cauliflower and doubles down on protein instead.",
+    "It still hits the same savory, garlicky, slightly smoky notes — the wok-hei flavor comes from high heat and not overcrowding the pan, not from the rice itself."
+  ],
+  "storyNote": "Cook everything in batches rather than all at once — a crowded pan steams instead of sears, and searing is where the flavor actually comes from.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Wok of chicken cauliflower fried rice with scrambled eggs, peas, carrots and green onions",
+    "textureAlt": "Close-up of cauliflower fried rice grains with visible chicken pieces and scrambled egg",
+    "pinAlt": "Overhead shot of chicken cauliflower fried rice in a dark bowl with chopsticks"
+  }
+}

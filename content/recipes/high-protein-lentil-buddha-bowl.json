@@ -1,0 +1,64 @@
+{
+  "slug": "high-protein-lentil-buddha-bowl",
+  "title": "High Protein Vegetarian Lentil Buddha Bowl",
+  "hubPath": "vegetarian",
+  "hubLabel": "Vegetarian",
+  "metaDescription": "Vegetarian lentil buddha bowl with 28g protein per serving — red lentils, roasted vegetables, and a tahini dressing. No meat, no protein powder.",
+  "targetKeywords": ["high protein vegetarian recipes", "vegetarian recipes high protein", "high protein low calorie recipes"],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT15M",
+  "cookTime": "PT25M",
+  "totalTime": "PT40M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Vegetarian",
+  "recipeCuisine": "Mediterranean-inspired",
+  "keywords": "vegetarian buddha bowl, lentil bowl high protein, meatless protein bowl",
+  "nutrition": {
+    "calories": "410",
+    "proteinContent": "28g",
+    "carbohydrateContent": "52g",
+    "fatContent": "14g"
+  },
+  "ingredients": [
+    "1 cup dried red lentils, rinsed",
+    "2 cups vegetable broth",
+    "1 sweet potato, cubed",
+    "1 can chickpeas, drained and rinsed",
+    "2 cups baby spinach",
+    "1/4 cup tahini",
+    "2 tbsp lemon juice",
+    "1 tbsp olive oil",
+    "1 tsp cumin",
+    "Salt and pepper, to taste",
+    "Water, to thin dressing"
+  ],
+  "steps": [
+    { "name": "Roast the vegetables", "text": "Preheat oven to 400°F. Toss sweet potato cubes and chickpeas with olive oil, cumin, salt, and pepper. Roast for 22-25 minutes, flipping halfway, until the sweet potato is tender and the chickpeas are slightly crisp." },
+    { "name": "Cook the lentils", "text": "While the vegetables roast, combine red lentils and vegetable broth in a saucepan. Bring to a boil, then reduce heat and simmer uncovered for 15-18 minutes, until the lentils are tender and most liquid is absorbed." },
+    { "name": "Make the dressing", "text": "Whisk tahini, lemon juice, and 2-4 tbsp water together until smooth and pourable. Season with a pinch of salt." },
+    { "name": "Assemble the bowls", "text": "Divide spinach among four bowls. Top with warm lentils, roasted sweet potato, and chickpeas. Drizzle with tahini dressing before serving." }
+  ],
+  "tips": [
+    { "question": "Can I meal prep this bowl in advance?", "answer": "Yes — the lentils and roasted vegetables both keep well in the fridge for up to 4 days. Store the tahini dressing separately and add fresh spinach just before eating so it doesn't wilt." },
+    { "question": "Why red lentils instead of green or brown?", "answer": "Red lentils cook faster and break down softer, which gives this bowl a creamier texture. Green or brown lentils work too, but need about 10 extra minutes of simmering and hold their shape more." },
+    { "question": "How do I add more protein without meat?", "answer": "Stir in 1/2 cup of cooked quinoa or top with a soft-boiled egg if you're not fully plant-based — both add 6-8g of additional protein per serving." },
+    { "question": "Is this recipe vegan?", "answer": "Yes, as written it's fully vegan — just double check your vegetable broth doesn't contain any hidden animal-derived ingredients." }
+  ],
+  "storyIntro": [
+    "Vegetarian protein bowls usually lean on tofu or a scoop of protein powder blended into something, but red lentils quietly do the job just as well without either. A cup of dried lentils turns into a full pot of protein-dense base that tastes like it took way longer than 40 minutes.",
+    "Roasting the chickpeas alongside the sweet potato adds a second protein layer with actual texture — crisp edges instead of another soft, mushy component in the bowl."
+  ],
+  "storyNote": "Simmer the lentils uncovered — covering the pot traps steam and can make them gluey instead of tender and separate.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Buddha bowl with red lentils, roasted sweet potato, chickpeas, spinach and tahini dressing",
+    "textureAlt": "Close-up spoon lifting red lentils showing creamy texture next to roasted sweet potato cubes",
+    "pinAlt": "Overhead shot of vegetarian lentil buddha bowl with tahini dressing drizzled on top"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "slug": "crockpot-turkey-taco-soup",
+  "title": "High Protein Crockpot Turkey Taco Soup",
+  "hubPath": "crockpot",
+  "hubLabel": "Crockpot",
+  "metaDescription": "Crockpot turkey taco soup with 35g protein per serving — ground turkey, black beans, corn and diced tomatoes, all in one slow cooker pot.",
+  "targetKeywords": ["high protein crockpot recipes", "high protein ground turkey recipes", "high protein soup recipes"],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT10M",
+  "cookTime": "PT5H",
+  "totalTime": "PT5H10M",
+  "recipeYield": "6 servings",
+  "recipeCategory": "Crockpot",
+  "recipeCuisine": "Mexican-inspired",
+  "keywords": "crockpot taco soup, ground turkey soup, high protein slow cooker",
+  "nutrition": {
+    "calories": "320",
+    "proteinContent": "35g",
+    "carbohydrateContent": "30g",
+    "fatContent": "8g"
+  },
+  "ingredients": [
+    "1.5 lbs ground turkey",
+    "1 can black beans, drained and rinsed",
+    "1 can corn, drained",
+    "1 can diced tomatoes",
+    "1 packet taco seasoning (or 2 tbsp homemade blend)",
+    "4 cups chicken broth",
+    "1 onion, diced",
+    "1 tbsp olive oil",
+    "Shredded cheese, avocado, and tortilla strips, for serving"
+  ],
+  "steps": [
+    { "name": "Brown the turkey", "text": "Heat olive oil in a skillet over medium-high heat. Brown the ground turkey with the diced onion, breaking it apart, about 6-7 minutes. Drain excess fat if needed." },
+    { "name": "Load the crockpot", "text": "Transfer the browned turkey and onion to the crockpot. Add black beans, corn, diced tomatoes, taco seasoning, and chicken broth. Stir to combine." },
+    { "name": "Slow cook", "text": "Cover and cook on low for 5-6 hours, or on high for 2-3 hours, until the flavors have melded and the soup is hot throughout." },
+    { "name": "Serve with toppings", "text": "Ladle into bowls and top with shredded cheese, sliced avocado, and crunchy tortilla strips." }
+  ],
+  "tips": [
+    { "question": "Do I need to brown the turkey first, or can I add it raw to the crockpot?", "answer": "Browning first isn't strictly necessary for food safety in this recipe since it cooks for hours, but it builds significantly more flavor and prevents the turkey from clumping into large, unappetizing chunks in the finished soup." },
+    { "question": "Can I use ground beef instead of turkey?", "answer": "Yes, ground beef works the same way — just drain more fat after browning since beef typically renders more than turkey." },
+    { "question": "How do I make this soup thicker?", "answer": "Mash about 1/2 cup of the beans before adding them, or stir in a tablespoon of masa harina or cornmeal during the last 30 minutes of cooking." },
+    { "question": "Is this recipe freezer-friendly?", "answer": "Yes — this soup freezes very well for up to 3 months. Cool completely before freezing in individual portions, and thaw overnight in the fridge before reheating." }
+  ],
+  "storyIntro": [
+    "Taco soup is the crockpot recipe that turns pantry staples — a couple of cans, ground turkey, and a packet of seasoning — into something that tastes like it needed way more effort than it did.",
+    "Browning the turkey before it goes in the crockpot is the one step worth not skipping — five extra minutes on the stovetop is the difference between deep, developed flavor and a soup that tastes like it's missing something."
+  ],
+  "storyNote": "Drain the excess fat after browning the turkey — skipping this step leaves a greasy layer floating on top of the finished soup.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Bowl of turkey taco soup with black beans corn and toppings of cheese avocado and tortilla strips",
+    "textureAlt": "Close-up spoon lifting turkey taco soup showing ground turkey black beans and corn",
+    "pinAlt": "Overhead shot of crockpot turkey taco soup with toppings, steam rising"
+  }
+}

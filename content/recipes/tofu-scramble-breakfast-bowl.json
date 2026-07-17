@@ -1,0 +1,63 @@
+{
+  "slug": "tofu-scramble-breakfast-bowl",
+  "title": "High Protein Vegan Tofu Scramble Bowl",
+  "hubPath": "vegan",
+  "hubLabel": "Vegan",
+  "metaDescription": "Vegan tofu scramble breakfast bowl with 24g protein per serving — turmeric-spiced crumbled tofu, black beans and avocado. Ready in 15 minutes.",
+  "targetKeywords": ["high protein vegan recipes", "vegan high protein recipes", "high protein breakfast recipes"],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT10M",
+  "cookTime": "PT10M",
+  "totalTime": "PT15M",
+  "recipeYield": "2 servings",
+  "recipeCategory": "Vegan",
+  "recipeCuisine": "American",
+  "keywords": "tofu scramble, vegan breakfast bowl, plant based protein breakfast",
+  "nutrition": {
+    "calories": "310",
+    "proteinContent": "24g",
+    "carbohydrateContent": "22g",
+    "fatContent": "16g"
+  },
+  "ingredients": [
+    "1 block (14 oz) extra-firm tofu, pressed and crumbled",
+    "1/2 can black beans, drained and rinsed",
+    "1/2 tsp turmeric",
+    "1/2 tsp garlic powder",
+    "1/4 tsp black salt (kala namak), or regular salt",
+    "2 tbsp nutritional yeast",
+    "1 tbsp olive oil",
+    "1 avocado, sliced",
+    "1 cup cherry tomatoes, halved",
+    "Black pepper, to taste"
+  ],
+  "steps": [
+    { "name": "Press and crumble the tofu", "text": "Press the tofu block for at least 10 minutes to remove excess water, then crumble it into bite-sized pieces with your hands or a fork." },
+    { "name": "Season the tofu", "text": "In a bowl, toss the crumbled tofu with turmeric, garlic powder, black salt, and nutritional yeast until evenly coated and yellow." },
+    { "name": "Cook the scramble", "text": "Heat olive oil in a large skillet over medium heat. Add the seasoned tofu and black beans, cooking for 7-8 minutes, stirring occasionally, until slightly golden at the edges." },
+    { "name": "Assemble the bowls", "text": "Divide the tofu scramble between two bowls. Top with sliced avocado, halved cherry tomatoes, and a crack of black pepper." }
+  ],
+  "tips": [
+    { "question": "What does black salt (kala namak) do in this recipe?", "answer": "Black salt has a naturally sulfurous smell and taste that closely mimics eggs — it's the single ingredient that makes tofu scramble actually taste like a scramble instead of just seasoned tofu. Regular salt works too, just without that egg-like flavor." },
+    { "question": "Why press the tofu first?", "answer": "Pressing removes excess water so the tofu can properly absorb the seasoning and get slightly golden and crisp in the pan instead of steaming and staying wet." },
+    { "question": "Can I meal prep this for the week?", "answer": "Yes — the cooked scramble keeps in the fridge for up to 4 days. Add the avocado fresh each time since it browns quickly once cut." },
+    { "question": "Where does the 24g of protein come from without eggs?", "answer": "Tofu and black beans together carry almost all of it — a 14 oz block of extra-firm tofu has around 40g of protein on its own, split across the batch." }
+  ],
+  "storyIntro": [
+    "Tofu scramble gets dismissed as a sad egg substitute, usually because it's under-seasoned. Turmeric for color, black salt for that eggy edge, and nutritional yeast for savory depth turn plain crumbled tofu into something that actually tastes like breakfast.",
+    "Fifteen minutes, one skillet, and 24g of protein per serving — it holds up next to any egg-based breakfast bowl on the site."
+  ],
+  "storyNote": "Don't skip pressing the tofu — skipping this step is the most common reason tofu scramble turns out watery instead of properly golden and crumbly.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Tofu scramble breakfast bowl with black beans, sliced avocado and cherry tomatoes",
+    "textureAlt": "Close-up of golden turmeric-spiced tofu scramble showing crumbly texture",
+    "pinAlt": "Overhead shot of vegan tofu scramble bowl with avocado and tomatoes, bright morning light"
+  }
+}

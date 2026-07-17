@@ -1,0 +1,63 @@
+{
+  "slug": "black-bean-quesadillas",
+  "title": "High Protein Black Bean Quesadillas",
+  "hubPath": "vegetarian",
+  "hubLabel": "Vegetarian",
+  "metaDescription": "Crispy black bean quesadillas with 24g protein per serving — mashed black beans, melted cheese, and a crispy tortilla shell. Ready in 15 minutes.",
+  "targetKeywords": ["high protein vegetarian recipes", "vegan high protein recipes", "high protein snack recipes"],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT5M",
+  "cookTime": "PT10M",
+  "totalTime": "PT15M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Vegetarian",
+  "recipeCuisine": "Mexican-inspired",
+  "keywords": "black bean quesadilla, vegetarian protein snack, high protein lunch",
+  "nutrition": {
+    "calories": "380",
+    "proteinContent": "24g",
+    "carbohydrateContent": "40g",
+    "fatContent": "15g"
+  },
+  "ingredients": [
+    "2 cans black beans, drained and rinsed",
+    "8 small flour tortillas",
+    "2 cups shredded Mexican cheese blend",
+    "1 tsp cumin",
+    "1 tsp garlic powder",
+    "1/2 tsp chili powder",
+    "2 tbsp lime juice",
+    "2 tbsp olive oil, for cooking",
+    "Salt, to taste",
+    "Salsa and Greek yogurt, for serving"
+  ],
+  "steps": [
+    { "name": "Mash the beans", "text": "In a bowl, roughly mash the black beans with a fork, leaving some texture. Stir in cumin, garlic powder, chili powder, lime juice, and a pinch of salt." },
+    { "name": "Assemble the quesadillas", "text": "Lay out 4 tortillas. Spread the mashed bean mixture evenly over each, then sprinkle with shredded cheese. Top each with a second tortilla." },
+    { "name": "Cook until crispy", "text": "Heat a thin layer of olive oil in a large skillet over medium heat. Cook each quesadilla for 2-3 minutes per side, pressing down gently, until golden and crispy and the cheese is fully melted." },
+    { "name": "Slice and serve", "text": "Let cool for 1 minute, then slice into wedges. Serve with salsa and a dollop of Greek yogurt on the side." }
+  ],
+  "tips": [
+    { "question": "Can I make these ahead and reheat them?", "answer": "Yes — cooked quesadillas keep in the fridge for up to 3 days. Reheat in a dry skillet for 2-3 minutes per side to restore the crispy exterior instead of using the microwave, which makes them soggy." },
+    { "question": "How do I boost the protein even more?", "answer": "Add 1/2 cup of cooked, shredded chicken or a handful of extra shredded cheese to push each serving past 30g of protein." },
+    { "question": "Can I use corn tortillas instead of flour?", "answer": "Yes, though corn tortillas are smaller and more prone to cracking — warm them briefly in a dry pan first to make them more pliable before assembling." },
+    { "question": "Why mash instead of leaving the beans whole?", "answer": "Mashing helps the filling hold together when sliced, instead of whole beans spilling out of the quesadilla with every bite." }
+  ],
+  "storyIntro": [
+    "Quesadillas are usually a cheese delivery vehicle with barely any protein backing it up. Mashing a full can of black beans into the filling changes that math completely — the beans hold the filling together and add close to half the protein in the whole recipe.",
+    "It's a 15-minute meal that works as a fast lunch, an appetizer cut into small wedges, or a kid-friendly dinner that happens to have real nutrition behind it."
+  ],
+  "storyNote": "Press down gently while the quesadilla cooks — that light pressure is what gets the cheese fully melted before the tortilla over-browns.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Crispy black bean quesadilla wedges with melted cheese and salsa on the side",
+    "textureAlt": "Close-up of quesadilla wedge showing melted cheese and mashed black bean filling",
+    "pinAlt": "Stack of black bean quesadilla wedges with cheese pull, salsa in background"
+  }
+}

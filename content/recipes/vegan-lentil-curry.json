@@ -1,0 +1,65 @@
+{
+  "slug": "vegan-lentil-curry",
+  "title": "High Protein Vegan Lentil Curry",
+  "hubPath": "vegan",
+  "hubLabel": "Vegan",
+  "metaDescription": "Vegan red lentil curry with 22g protein per serving — coconut milk, tomatoes, and warm spices, all in one pot. Ready in 30 minutes, fully plant-based.",
+  "targetKeywords": ["high protein vegan recipes", "vegan high protein recipes", "high protein soup recipes"],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Vegan",
+  "recipeCuisine": "Indian-inspired",
+  "keywords": "vegan lentil curry, red lentil dahl, plant based protein",
+  "nutrition": {
+    "calories": "340",
+    "proteinContent": "22g",
+    "carbohydrateContent": "42g",
+    "fatContent": "12g"
+  },
+  "ingredients": [
+    "1.5 cups dried red lentils, rinsed",
+    "1 can coconut milk",
+    "1 can diced tomatoes",
+    "2 cups vegetable broth",
+    "1 onion, diced",
+    "3 cloves garlic, minced",
+    "1 tbsp fresh ginger, grated",
+    "2 tsp curry powder",
+    "1 tsp turmeric",
+    "1 tsp cumin",
+    "2 tbsp coconut oil",
+    "Fresh cilantro and lime, for serving"
+  ],
+  "steps": [
+    { "name": "Sauté the aromatics", "text": "Heat coconut oil in a large pot over medium heat. Add onion and cook until softened, about 4 minutes. Add garlic and ginger, cooking for 1 more minute until fragrant." },
+    { "name": "Bloom the spices", "text": "Stir in curry powder, turmeric, and cumin, cooking for 30 seconds until fragrant — this step helps the spices release their full flavor instead of tasting raw." },
+    { "name": "Add lentils and liquid", "text": "Add rinsed red lentils, diced tomatoes, coconut milk, and vegetable broth. Stir well, bring to a boil, then reduce heat and simmer uncovered for 18-20 minutes, stirring occasionally, until the lentils are soft and the curry has thickened." },
+    { "name": "Finish and serve", "text": "Taste and adjust salt. Serve topped with fresh cilantro and a squeeze of lime, with rice or naan on the side if desired." }
+  ],
+  "tips": [
+    { "question": "Why bloom the spices in oil before adding liquid?", "answer": "Many spices are fat-soluble, meaning their flavor compounds release more fully when heated briefly in oil rather than added straight into liquid — skipping this step results in a flatter-tasting curry." },
+    { "question": "Can I use green or brown lentils instead of red?", "answer": "Red lentils break down into a smooth, thick curry, while green or brown lentils hold their shape and need about 10-15 extra minutes of simmering — both work, but the texture will be noticeably different." },
+    { "question": "How do I add more protein to this dish?", "answer": "Stir in a handful of chickpeas or serve over a bed of quinoa instead of rice for an extra 6-8g of protein per serving." },
+    { "question": "Does this curry freeze well?", "answer": "Yes — it freezes very well for up to 3 months. The texture may thicken further once thawed, so add a splash of water or broth when reheating." }
+  ],
+  "storyIntro": [
+    "Red lentils are one of the few plant proteins that don't need marinating, pressing, or any special prep — rinse and simmer, and thirty minutes later there's a pot of thick, warmly spiced curry.",
+    "This version leans on coconut milk for richness instead of cream, keeping it fully vegan while still landing at 22g of protein per serving from the lentils alone."
+  ],
+  "storyNote": "Simmer uncovered — this lets excess liquid evaporate and thickens the curry naturally instead of leaving it thin and soupy.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Bowl of vegan red lentil curry with coconut milk, cilantro and lime, served with rice",
+    "textureAlt": "Close-up spoon lifting thick red lentil curry showing creamy texture",
+    "pinAlt": "Overhead shot of vegan lentil curry in a dark bowl with cilantro and lime garnish"
+  }
+}

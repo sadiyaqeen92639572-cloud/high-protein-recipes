@@ -1,0 +1,63 @@
+{
+  "slug": "baked-chicken-parmesan",
+  "title": "High Protein Baked Chicken Parmesan",
+  "hubPath": "chicken",
+  "hubLabel": "Chicken",
+  "metaDescription": "Baked chicken parmesan with 45g protein per serving — crispy panko crust, marinara, melted mozzarella, no frying required. Ready in 35 minutes.",
+  "targetKeywords": ["high protein chicken recipes", "high protein dinner recipes", "high protein casserole recipes"],
+  "author": "Recipe Team",
+  "datePublished": "2026-07-17",
+  "prepTime": "PT15M",
+  "cookTime": "PT20M",
+  "totalTime": "PT35M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Chicken",
+  "recipeCuisine": "Italian-American",
+  "keywords": "baked chicken parmesan, high protein chicken dinner, crispy chicken",
+  "nutrition": {
+    "calories": "440",
+    "proteinContent": "45g",
+    "carbohydrateContent": "22g",
+    "fatContent": "16g"
+  },
+  "ingredients": [
+    "4 boneless, skinless chicken breasts, pounded to even thickness",
+    "1 cup panko breadcrumbs",
+    "1/2 cup grated parmesan",
+    "2 eggs, beaten",
+    "1/2 cup flour",
+    "1.5 cups marinara sauce",
+    "1.5 cups shredded mozzarella",
+    "1 tsp Italian seasoning",
+    "Olive oil spray",
+    "Fresh basil, for serving"
+  ],
+  "steps": [
+    { "name": "Set up the breading station", "text": "Preheat oven to 425°F. Set up three shallow bowls: flour in one, beaten eggs in the second, and panko mixed with parmesan and Italian seasoning in the third." },
+    { "name": "Bread the chicken", "text": "Dredge each chicken breast in flour, then egg, then press firmly into the panko mixture to coat both sides. Place on a wire rack set over a baking sheet." },
+    { "name": "Bake until crispy", "text": "Spray the breaded chicken lightly with olive oil spray. Bake for 15-18 minutes until golden and the internal temperature reaches 165°F." },
+    { "name": "Add sauce and cheese, then broil", "text": "Top each chicken breast with marinara sauce and shredded mozzarella. Broil for 2-3 minutes until the cheese is melted and bubbly. Top with fresh basil before serving." }
+  ],
+  "tips": [
+    { "question": "Why use a wire rack instead of baking directly on the sheet?", "answer": "The wire rack lets hot air circulate underneath the chicken, which is what crisps the panko crust on both sides without frying — baking directly on the sheet leaves the bottom soggy." },
+    { "question": "Can I make this ahead and reheat it?", "answer": "Bread and bake the chicken ahead, then add sauce, cheese, and broil just before serving to keep the crust from going soft in the fridge." },
+    { "question": "How do I know the chicken is fully cooked?", "answer": "Use a meat thermometer — the thickest part of the breast should read 165°F. Pounding the chicken to an even thickness beforehand helps it cook evenly without drying out the thin ends." },
+    { "question": "Can I use chicken thighs instead of breasts?", "answer": "Yes, boneless thighs work, though they're harder to bread evenly due to their irregular shape — flatten them as much as possible first." }
+  ],
+  "storyIntro": [
+    "Chicken parmesan is usually a frying project — dredge, fry, drain, repeat — which is a lot of standing over hot oil for a Tuesday dinner. Baking on a wire rack gets the same crispy panko crust with a fraction of the effort and none of the oil splatter.",
+    "At 45g of protein per serving, it's one of the highest-protein dinners on the site, and it still tastes like the indulgent version instead of a compromise."
+  ],
+  "storyNote": "Pound the chicken to an even thickness before breading — uneven thickness means the thin parts overcook while the thick parts are still underdone.",
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Baked chicken parmesan with marinara sauce and melted mozzarella cheese, fresh basil on top",
+    "textureAlt": "Close-up of chicken parmesan cut open showing crispy panko crust and juicy interior",
+    "pinAlt": "Overhead shot of baked chicken parmesan with bubbly melted cheese and basil garnish"
+  }
+}
