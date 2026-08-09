@@ -2,7 +2,7 @@
   "slug": "cottage-cheese-pancakes",
   "title": "Cottage Cheese Pancakes",
   "hubPath": "breakfast",
-  "metaDescription": "Fluffy cottage cheese pancakes with 24g of protein per serving \u2014 no protein powder needed. Ready in 15 minutes, kid-approved, freezer-friendly.",
+  "metaDescription": "Cottage cheese recipes rarely deliver like this: a pancake stack blended smooth with zero protein powder, still landing at 24g of protein per serving. Ready in 15 minutes, kid-approved, freezer-friendly.",
   "targetKeywords": [
     "cottage cheese recipes",
     "high protein breakfast",
@@ -92,5 +92,22 @@
     "Some mornings call for pancakes that actually keep you full past 10am. These cottage cheese pancakes blend straight in the blender \u2014 no protein powder, no chalky aftertaste \u2014 and pack 24g of protein into a stack of fluffy, golden pancakes.",
     "The trick is blending the cottage cheese completely smooth so it disappears into the batter, leaving behind moisture and protein without any curdy texture. Ready in 15 minutes, and the batter keeps overnight if you want to prep ahead."
   ],
-  "storyNote": "A quick note on texture: don't skip the 2-3 minute rest after blending. The flour needs a moment to hydrate, and that's what gives you pancakes that hold together on the flip instead of falling apart."
+  "storyNote": "A quick note on texture: don't skip the 2-3 minute rest after blending. The flour needs a moment to hydrate, and that's what gives you pancakes that hold together on the flip instead of falling apart.",
+  "targetKeyword": "cottage cheese recipes",
+  "titlePattern": "pain-solution",
+  "pinOverlay": {
+    "headline": "No Protein Powder? These Pancakes Still Hit 24g",
+    "support": [
+      "Blending breaks down every curd for a smooth, fluffy texture, not pockets of cheese",
+      "Batter keeps in the fridge for 24 hours, just give it a quick stir first",
+      "Freezer-friendly for up to 2 months, reheat in a toaster or skillet"
+    ]
+  },
+  "suggestedTags": [
+    "cottage cheese recipes",
+    "cottage cheese pancakes",
+    "high protein breakfast",
+    "protein pancakes",
+    "no protein powder recipes"
+  ]
 }

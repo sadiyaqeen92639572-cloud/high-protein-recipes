@@ -3,7 +3,7 @@
   "title": "High Protein Cottage Cheese Dip",
   "hubPath": "snacks",
   "hubLabel": "Snacks",
-  "metaDescription": "Whipped cottage cheese dip with 14g of protein per serving \u2014 blended smooth with everything bagel seasoning. Ready in 5 minutes, no cooking required.",
+  "metaDescription": "Cottage cheese recipes don't usually whip up this smooth. Blended for 1-2 minutes into an airy, tangy dip with everything bagel seasoning, 14g of protein per serving, no cooking required.",
   "targetKeywords": [
     "protein snacks",
     "cottage cheese recipes",
@@ -80,5 +80,22 @@
     "Whipped cottage cheese is one of those ideas that sounds strange until you taste it \u2014 a full blend turns it into something closer to a lighter, tangier cream cheese than anything resembling curds.",
     "This version leans savory, with everything bagel seasoning and a squeeze of lemon, and comes together in five minutes with zero cooking. 14g of protein per serving, and it disappears fast next to a plate of cut vegetables."
   ],
-  "storyNote": "Give the blender or food processor the full one to two minutes it needs. Stopping early is the difference between a dip and a slightly-smoother bowl of cottage cheese."
+  "storyNote": "Give the blender or food processor the full one to two minutes it needs. Stopping early is the difference between a dip and a slightly-smoother bowl of cottage cheese.",
+  "targetKeyword": "cottage cheese recipes",
+  "titlePattern": "counter-intuitive",
+  "pinOverlay": {
+    "headline": "Whipped Cottage Cheese Tastes Nothing Like Curds",
+    "support": [
+      "A full 1-2 minute blend gives it a texture closer to cream cheese than curds",
+      "Only 90 calories and 14g of protein per serving, no cooking required",
+      "Keeps smooth in the fridge for up to 4 days in an airtight container"
+    ]
+  },
+  "suggestedTags": [
+    "cottage cheese recipes",
+    "cottage cheese dip",
+    "high protein snacks",
+    "whipped cottage cheese",
+    "protein dip recipe"
+  ]
 }

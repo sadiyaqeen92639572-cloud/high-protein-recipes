@@ -3,8 +3,12 @@
   "title": "High Protein Crockpot Chicken Chili",
   "hubPath": "crockpot",
   "hubLabel": "Crockpot",
-  "metaDescription": "Set-and-forget crockpot chicken chili with 40g protein per serving. Shredded chicken, white beans and green chiles, 6 hours in the slow cooker.",
-  "targetKeywords": ["high protein crockpot recipes", "high protein slow cooker recipes", "high protein chicken recipes"],
+  "metaDescription": "This high protein crockpot recipe is truly set-and-forget: shredded chicken, white beans, and green chiles, 40g of protein per serving, 6 hours in the slow cooker.",
+  "targetKeywords": [
+    "high protein crockpot recipes",
+    "high protein slow cooker recipes",
+    "high protein chicken recipes"
+  ],
   "author": "Recipe Team",
   "datePublished": "2026-07-17",
   "prepTime": "PT15M",
@@ -34,22 +38,46 @@
     "Shredded cheese and cilantro, for serving"
   ],
   "steps": [
-    { "name": "Load the crockpot", "text": "Add chicken breast, white beans, green chiles, chicken broth, onion, garlic, cumin, oregano, and cayenne (if using) to the crockpot. Stir to combine." },
-    { "name": "Slow cook", "text": "Cover and cook on low for 6 hours, or on high for 3-4 hours, until the chicken shreds easily with a fork." },
-    { "name": "Shred the chicken", "text": "Remove the chicken breasts, shred with two forks, and return to the crockpot. Stir to combine with the broth and beans." },
-    { "name": "Finish and serve", "text": "Ladle into bowls and top each with a dollop of Greek yogurt, shredded cheese, and fresh cilantro." }
+    {
+      "name": "Load the crockpot",
+      "text": "Add chicken breast, white beans, green chiles, chicken broth, onion, garlic, cumin, oregano, and cayenne (if using) to the crockpot. Stir to combine."
+    },
+    {
+      "name": "Slow cook",
+      "text": "Cover and cook on low for 6 hours, or on high for 3-4 hours, until the chicken shreds easily with a fork."
+    },
+    {
+      "name": "Shred the chicken",
+      "text": "Remove the chicken breasts, shred with two forks, and return to the crockpot. Stir to combine with the broth and beans."
+    },
+    {
+      "name": "Finish and serve",
+      "text": "Ladle into bowls and top each with a dollop of Greek yogurt, shredded cheese, and fresh cilantro."
+    }
   ],
   "tips": [
-    { "question": "Can I use chicken thighs instead of breast?", "answer": "Yes — boneless, skinless thighs work well and stay slightly more moist, though the protein content per serving will be a touch lower since thighs have more fat." },
-    { "question": "Why add Greek yogurt instead of sour cream?", "answer": "Greek yogurt adds nearly the same creamy tang as sour cream but with significantly more protein per tablespoon — a simple swap that boosts the final protein count." },
-    { "question": "Can I make this on the stovetop instead?", "answer": "Yes — simmer everything in a large pot over low heat for about 45 minutes, covered, until the chicken is fully cooked and shreds easily." },
-    { "question": "How long does this keep in the fridge?", "answer": "Up to 5 days in an airtight container, and it freezes well for up to 3 months — freeze in individual portions for easy grab-and-go lunches." }
+    {
+      "question": "Can I use chicken thighs instead of breast?",
+      "answer": "Yes \u2014 boneless, skinless thighs work well and stay slightly more moist, though the protein content per serving will be a touch lower since thighs have more fat."
+    },
+    {
+      "question": "Why add Greek yogurt instead of sour cream?",
+      "answer": "Greek yogurt adds nearly the same creamy tang as sour cream but with significantly more protein per tablespoon \u2014 a simple swap that boosts the final protein count."
+    },
+    {
+      "question": "Can I make this on the stovetop instead?",
+      "answer": "Yes \u2014 simmer everything in a large pot over low heat for about 45 minutes, covered, until the chicken is fully cooked and shreds easily."
+    },
+    {
+      "question": "How long does this keep in the fridge?",
+      "answer": "Up to 5 days in an airtight container, and it freezes well for up to 3 months \u2014 freeze in individual portions for easy grab-and-go lunches."
+    }
   ],
   "storyIntro": [
-    "White chicken chili is the crockpot recipe that quietly does more work than it looks like — dump everything in before work, and six hours later there's a pot of shredded chicken chili with almost no active cooking time.",
-    "At 40g of protein per serving, it's one of the highest-protein crockpot meals that doesn't rely on a protein powder shortcut — just chicken, beans, and time."
+    "White chicken chili is the crockpot recipe that quietly does more work than it looks like \u2014 dump everything in before work, and six hours later there's a pot of shredded chicken chili with almost no active cooking time.",
+    "At 40g of protein per serving, it's one of the highest-protein crockpot meals that doesn't rely on a protein powder shortcut \u2014 just chicken, beans, and time."
   ],
-  "storyNote": "Shred the chicken directly in the crockpot broth rather than on a separate cutting board — it soaks up more flavor and stays moister that way.",
+  "storyNote": "Shred the chicken directly in the crockpot broth rather than on a separate cutting board \u2014 it soaks up more flavor and stays moister that way.",
   "reviews": [],
   "reviewCount": 0,
   "avgRating": null,
@@ -60,5 +88,22 @@
     "heroAlt": "Bowl of white chicken chili with shredded chicken, white beans, Greek yogurt and cilantro",
     "textureAlt": "Close-up spoon lifting shredded chicken and white beans from chili showing texture",
     "pinAlt": "Overhead shot of crockpot chicken chili with toppings, steam rising, cozy fall styling"
-  }
+  },
+  "targetKeyword": "high protein crockpot recipes",
+  "titlePattern": "numbered-list",
+  "pinOverlay": {
+    "headline": "Dump It In, 40G Protein Waits 6 Hours Later",
+    "support": [
+      "Greek yogurt swaps in for sour cream, same tang with far more protein per spoon",
+      "Keeps 5 days in the fridge, or freezes 3 months in grab-and-go portions",
+      "No stovetop needed, but 45 minutes covered on low works if you're skipping the crockpot"
+    ]
+  },
+  "suggestedTags": [
+    "high protein crockpot recipes",
+    "crockpot chicken chili",
+    "high protein slow cooker",
+    "white chicken chili",
+    "high protein soup recipes"
+  ]
 }

@@ -3,7 +3,7 @@
   "title": "High Protein Sheet Pan Salmon",
   "hubPath": "dinner",
   "hubLabel": "Dinner",
-  "metaDescription": "Sheet pan salmon with asparagus and cherry tomatoes \u2014 36g of protein per serving, one pan, ready in 25 minutes with almost no cleanup.",
+  "metaDescription": "Sheet pan salmon with asparagus and cherry tomatoes: 36g of protein per serving, one pan, ready in 25 minutes with almost no cleanup.",
   "targetKeywords": [
     "high protein dinner",
     "high protein chicken recipes",
@@ -85,5 +85,22 @@
     "One pan, one temperature, and almost no cleanup \u2014 sheet pan dinners exist for nights when dishes feel like the real obstacle, not the cooking. Salmon, asparagus, and cherry tomatoes all roast together in the same 15 minutes.",
     "36g of protein per serving, and the lemon slices tucked around the pan do most of the flavor work without needing a separate sauce."
   ],
-  "storyNote": "The line between perfectly cooked and overcooked salmon is thin \u2014 pull it a minute early if you like it more tender in the center, since it keeps cooking briefly after it leaves the oven."
+  "storyNote": "The line between perfectly cooked and overcooked salmon is thin \u2014 pull it a minute early if you like it more tender in the center, since it keeps cooking briefly after it leaves the oven.",
+  "targetKeyword": "sheet pan salmon",
+  "titlePattern": "pain-solution",
+  "pinOverlay": {
+    "headline": "One Pan, 36G Protein, Almost No Cleanup",
+    "support": [
+      "Salmon, asparagus, and tomatoes all roast together in the same 15 minutes",
+      "Pull it at 145 degrees, it keeps cooking a bit more once it's off the heat",
+      "Overcrowding the pan is the real reason asparagus turns out mushy, not the oven"
+    ]
+  },
+  "suggestedTags": [
+    "sheet pan salmon",
+    "sheet pan dinner",
+    "high protein dinner",
+    "salmon and asparagus",
+    "one pan meal"
+  ]
 }
