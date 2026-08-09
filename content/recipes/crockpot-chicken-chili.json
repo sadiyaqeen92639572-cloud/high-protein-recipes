@@ -3,7 +3,7 @@
   "title": "High Protein Crockpot Chicken Chili",
   "hubPath": "crockpot",
   "hubLabel": "Crockpot",
-  "metaDescription": "This high protein crockpot recipe is truly set-and-forget: shredded chicken, white beans, and green chiles, 40g of protein per serving, 6 hours in the slow cooker.",
+  "metaDescription": "High protein crockpot recipes rarely get this easy: shredded chicken, white beans, and green chiles, 40g of protein per serving, 6 hours in the slow cooker, truly set-and-forget.",
   "targetKeywords": [
     "high protein crockpot recipes",
     "high protein slow cooker recipes",
@@ -105,5 +105,7 @@
     "high protein slow cooker",
     "white chicken chili",
     "high protein soup recipes"
-  ]
+  ],
+  "sourcePhoto": "../../images/crockpot-chicken-chili/hero.jpg",
+  "sourceDetail": "../../images/crockpot-chicken-chili/texture.jpg"
 }

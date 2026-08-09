@@ -95,7 +95,7 @@
     "support": [
       "A wire rack lets hot air circulate under the chicken, crisping both sides without oil",
       "Bake ahead, then broil with sauce and cheese right before serving to keep the crust crisp",
-      "Internal temp should hit 165 degrees, pound the chicken even first so thin edges don't dry out"
+      "Pound the chicken even first, thin edges dry out before the center hits 165 degrees"
     ]
   },
   "suggestedTags": [
@@ -104,5 +104,7 @@
     "high protein chicken recipes",
     "no fry chicken parmesan",
     "high protein casserole"
-  ]
+  ],
+  "sourcePhoto": "../../images/baked-chicken-parmesan/hero.jpg",
+  "sourceDetail": "../../images/baked-chicken-parmesan/texture.jpg"
 }
