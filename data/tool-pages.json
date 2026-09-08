@@ -27,8 +27,12 @@
         "html": "<p>Click <em>Show nutrition label</em> for a standard vertical Nutrition Facts panel based on the per-serving values. It prints cleanly — handy for meal-prep containers, bake sales, or cottage-food labelling.</p>"
       },
       {
+        "h2": "How the numbers are calculated",
+        "html": "<p>Every step is deterministic — the same input always gives the same output, and here is the exact arithmetic:</p><ul><li><strong>Per ingredient:</strong> <code>nutrient = USDA_per_100g &times; grams &divide; 100</code>. Grams come from the amount you typed: weight units directly (1 oz = 28.35 g), volume units from that food's USDA portion table (1 cup of cooked rice = 158 g, 1 cup of chopped broccoli = 91 g), and count units (\"1 clove\", \"2 slices\") from the nearest named portion.</li><li><strong>Whole recipe:</strong> the sum of every matched ingredient, plus any cooking additions.</li><li><strong>Per serving:</strong> <code>whole &divide; servings</code>.</li><li><strong>Per 100 g:</strong> <code>whole &divide; total_recipe_grams &times; 100</code>.</li><li><strong>Net carbs:</strong> <code>carbohydrate &minus; fibre</code> (never below zero).</li><li><strong>Macro split:</strong> <code>protein &times; 4</code>, <code>carbs &times; 4</code>, <code>fat &times; 9</code> kcal, shown as a percentage of those three.</li><li><strong>Added oil / butter:</strong> <code>1 tbsp = 14 g</code>, at 8.84 kcal/g and 1 g fat/g.</li><li><strong>Deep-frying:</strong> absorbed oil = <code>food_weight &times; f</code>, where <code>f</code> = 0.03 for lightly coated, 0.06 breaded, 0.10 battered — the same 8.84 kcal/g.</li><li><strong>Flags:</strong> keto-friendly when net carbs per serving &le; 10 g; high-protein when protein is &ge; 30% of calories or &ge; 25 g per serving.</li></ul>"
+      },
+      {
         "h2": "Where the numbers come from",
-        "html": "<p>Nutrition data is from <a href=\"https://fdc.nal.usda.gov/\" rel=\"noopener\">USDA FoodData Central</a>, SR Legacy release — a fixed dataset, last revised in 2018. The transparency panel under the results shows which USDA entry each ingredient matched and how confident the match is, and lets you change any of them. These are estimates and don't replace advice from a dietitian.</p>"
+        "html": "<p>Nutrition data is from <a href=\"https://fdc.nal.usda.gov/\" rel=\"noopener\">USDA FoodData Central</a>, SR Legacy release — a fixed dataset, last revised in 2018. The transparency panel under the results shows which USDA entry each ingredient matched and how confident the match is, and lets you change any of them. These are estimates and don't replace advice from a dietitian. See the <a href=\"/about/\">about page</a> for who maintains this tool.</p>"
       }
     ],
     "faq": [
@@ -41,6 +45,30 @@
       { "q": "Can I paste a recipe URL?", "a": "Not yet — paste the ingredient list itself for now. URL import is planned." },
       { "q": "Is my recipe data private?", "a": "Yes. The whole calculation runs in your browser. Nothing you paste is uploaded, logged, or shared. Your last recipe is saved only in your own browser's local storage so it's there when you come back." }
     ]
+  },
+  "static": {
+    "about": {
+      "slug": "about",
+      "metaTitle": "About | High Protein Recipes",
+      "metaDescription": "Who is behind High Protein Recipes and the recipe calorie calculator, how the nutrition numbers are produced, and how to get in touch.",
+      "h1": "About High Protein Recipes",
+      "sections": [
+        { "h2": "Who runs this site", "html": "<p>High Protein Recipes is a small independent recipe and nutrition-tools site operated by Gesmine-Invest Limited (UK company number 14120136). Recipes and tools are produced and maintained by the site's editorial team — there is no sponsored content and no paid placement in the calculator results.</p>" },
+        { "h2": "How the nutrition numbers are made", "html": "<p>The <a href=\"/recipe-calorie-calculator/\">recipe calorie calculator</a> and the per-food pages use <a href=\"https://fdc.nal.usda.gov/\" rel=\"noopener\">USDA FoodData Central</a>, SR Legacy release — a fixed reference dataset last revised in 2018. Ingredient amounts are converted to grams using each food's own USDA portion weights. The full arithmetic is published on the calculator page under “How the numbers are calculated”. Every figure on the site is an estimate and is not a substitute for advice from a registered dietitian or doctor.</p>" },
+        { "h2": "Corrections", "html": "<p>If a food match or a portion weight looks wrong, the calculator's transparency panel lets you swap it on the spot. Structural errors can be reported through the site's GitHub repository, linked in the footer.</p>" }
+      ]
+    },
+    "privacy": {
+      "slug": "privacy",
+      "metaTitle": "Privacy | High Protein Recipes",
+      "metaDescription": "What High Protein Recipes does and does not collect. The recipe calorie calculator runs entirely in your browser.",
+      "h1": "Privacy",
+      "sections": [
+        { "h2": "The calculator", "html": "<p>The <a href=\"/recipe-calorie-calculator/\">recipe calorie calculator</a> runs entirely in your browser. Ingredient lists you paste are never uploaded, logged, or sent to any server. Your most recent recipe, servings and cooking settings are stored only in your own browser's local storage so they are there when you return; clearing your browser data removes them.</p>" },
+        { "h2": "Analytics and hosting", "html": "<p>The site is served as static files by Cloudflare Pages, which records standard aggregate request logs (such as country and page requested) for security and performance. No personal profiles are built and no tracking cookies are set by this site.</p>" },
+        { "h2": "Third-party links", "html": "<p>Some pages link to external sites (for example USDA FoodData Central). Their privacy practices are their own.</p>" }
+      ]
+    }
   },
   "pseoTemplate": {
     "metaTitle": "Calories in {TITLE} — Protein, Carbs & Fat per 100 g and per Portion",

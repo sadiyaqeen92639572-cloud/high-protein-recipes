@@ -52,7 +52,7 @@ fdc_id,canonical_name,state,aliases,pseo
 169737,pasta,cooked,pasta|cooked pasta|spaghetti|penne|macaroni|noodles,0
 168874,quinoa,raw,raw quinoa|uncooked quinoa|dry quinoa,0
 168917,quinoa,cooked,quinoa|cooked quinoa,1
-173904,oats,raw,oats|rolled oats|dry oats|porridge oats|raw oats|oatmeal,0
+169705,oats,raw,oats|rolled oats|dry oats|porridge oats|raw oats|oatmeal,0
 173905,oats,cooked,cooked oats|oatmeal|porridge|cooked oatmeal|made oatmeal,1
 169700,couscous,cooked,couscous|cooked couscous,0
 172818,white bread,,white bread|bread|slice of bread|sandwich bread,0
@@ -120,3 +120,7 @@ fdc_id,canonical_name,state,aliases,pseo
 170051,canned tomatoes,,canned tomatoes|diced tomatoes|crushed tomatoes|tinned tomatoes|fire-roasted tomatoes|fire roasted diced tomatoes|canned diced tomatoes,0
 169231,ginger,raw,ginger|fresh ginger|ginger root|grated ginger,0
 172420,lentils,raw,dried lentils|raw lentils|dry lentils|red lentils|split red lentils|lentils raw,0
+171016,sesame oil,,sesame oil|toasted sesame oil|dark sesame oil,0
+168576,jalapeno,raw,jalapeno|jalapenos|jalapeno pepper|green chiles|green chilies|diced green chiles,0
+171505,ground turkey,raw,ground turkey|raw ground turkey|turkey mince,0
+171583,vegetable broth,,vegetable broth|vegetable stock|veg broth|low sodium vegetable broth,0

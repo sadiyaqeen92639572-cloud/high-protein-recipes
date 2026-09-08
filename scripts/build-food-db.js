@@ -39,6 +39,15 @@ const REQUIRED_KEYS = ['kcal', 'protein', 'fat', 'carb']; // build fails if kcal
 // state-carrying food resolved without an explicit cru/cuit token ("assumed raw/dry — correct?").
 const COOKED_BARE = new Set();
 
+// targeted portion fixes where the USDA entry's "cup" is a different physical form
+// (e.g. fdc 169705 "Oats" cup = 156 g = steel-cut; rolled oats are ~81 g/cup) or is absent.
+const PORTION_OVERRIDE = {
+  'oats-raw': [{ label: 'cup', grams: 81 }, { label: 'tbsp', grams: 5 }],
+  'nonfat-greek-yogurt': [{ label: 'cup', grams: 245 }, { label: 'tbsp', grams: 15 }, { label: 'container', grams: 170 }],
+  'plain-yogurt': [{ label: 'cup', grams: 245 }, { label: 'tbsp', grams: 15 }],
+  'chia-seeds': [{ label: 'tbsp', grams: 12 }, { label: 'cup', grams: 168 }],
+};
+
 // ---- minimal CSV parser (quoted fields, commas, CRLF) -----------------------
 function parseCSV(text) {
   const rows = [];
@@ -156,6 +165,10 @@ function main() {
       portions: dedupePortions(portById[a.fdc_id] || []),
       pseo: a.pseo,
     };
+    if (PORTION_OVERRIDE[id]) {
+      const ovr = new Set(PORTION_OVERRIDE[id].map(p => p.label));
+      rec.portions = PORTION_OVERRIDE[id].concat(rec.portions.filter(p => !ovr.has(p.label)));
+    }
     foods.push(rec);
 
     // alias map: state-qualified variants + explicit aliases + plural. NOT the bare canonical

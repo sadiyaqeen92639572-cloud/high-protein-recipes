@@ -45,8 +45,13 @@
   function parseLine(raw) {
     var line = normFrac(String(raw).trim().toLowerCase());
     if (!line) return null;
-    // strip trailing parenthetical and everything after a comma+verb ("chicken breast, diced")
-    line = line.replace(/\([^)]*\)/g, ' ').replace(/\s{2,}/g, ' ').trim();
+    // a parenthetical often carries the real weight: "2 chicken breasts (about 12 oz)" -> 12 oz
+    var paren = null;
+    line = line.replace(/\(([^)]*)\)/g, function (_, inner) {
+      var pm = normFrac(inner).match(/([\d.]+)\s*(g|kg|oz|lb|ml|l|cup|cups|tbsp|tsp|gram|grams|ounces?|pounds?)\b/);
+      if (pm && !paren) paren = pm[1] + ' ' + pm[2];
+      return ' ';
+    }).replace(/\s{2,}/g, ' ').trim();
     var m = line.match(/^([\d.]+)\s*(?:x\s*([\d.]+)\s*)?([a-z]+)?\.?\s*(.*)$/);
     var qty = 1, unit = null, food = line;
     if (m) {
@@ -55,6 +60,14 @@
       var u = m[3] && UNITS[m[3]];
       if (u) { unit = u; food = m[4]; }
       else { unit = null; food = (m[3] ? m[3] + ' ' : '') + m[4]; }
+    }
+    // a parenthetical weight ("2 chicken breasts (about 12 oz)") only wins when the line
+    // itself gave no real unit — never override an explicit "1 lb ..." with "(about 5 cups)".
+    if (paren && !unit) {
+      var pm = paren.match(/^([\d.]+)\s+([a-z]+)$/);
+      if (pm && UNITS[pm[2]] && G_PER[UNITS[pm[2]]] || (pm && ML_PER[UNITS[pm[2]]])) {
+        qty = parseFloat(pm[1]); unit = UNITS[pm[2]];
+      }
     }
     // commas separate prep notes ("rice, cooked", "onion, diced") — flatten, don't truncate,
     // so a trailing state word ("cooked"/"raw") survives into the resolver.
@@ -92,16 +105,27 @@
     var stateTok = (STATE.exec(cleaned) || [])[1] || null;
 
     // 1. exact alias hit (try cleaned, then singularised, then raw text)
+    // normalise the state token to raw|cooked so it can override an alias hit
+    var wantState = stateTok ? (/^(cooked|boiled|steamed|roasted|grilled|baked)$/.test(stateTok) ? 'cooked'
+      : /^(raw|dry|dried|uncooked)$/.test(stateTok) ? 'raw' : null) : null;
+    var applyState = function (f, conf, note) {
+      if (f && wantState && f.state && f.state !== wantState) {
+        var sib = foods.find(function (g) { return g.name === f.name && g.state === wantState; });
+        if (sib) return { food: sib, confidence: conf, note: (note ? note + '; ' : '') + wantState + ' form' };
+      }
+      return { food: f, confidence: conf, note: note };
+    };
+
     var tries = [cleaned, cleaned.replace(/s\b/g, ''), foodText.toLowerCase().trim()];
     for (var i = 0; i < tries.length; i++) {
-      if (aliases[tries[i]]) return { food: byId[aliases[tries[i]]], confidence: 'exact', note: null };
+      if (aliases[tries[i]]) return applyState(byId[aliases[tries[i]]], 'exact', null);
     }
     // 2. alias substring: longest alias fully contained in the cleaned text
     var best = null, bestLen = 0;
     for (var k in aliases) {
       if (k.length > bestLen && cleaned.indexOf(k) !== -1) { best = aliases[k]; bestLen = k.length; }
     }
-    if (best && bestLen >= 3) return { food: byId[best], confidence: 'fuzzy', note: 'partial name match' };
+    if (best && bestLen >= 3) return applyState(byId[best], 'fuzzy', 'partial name match');
 
     // 3. token overlap vs food names + aliases — only content tokens, needs a clear winner
     var qt = tokenize(cleaned).filter(function (w) { return w.length > 2 && !SCORE_STOP[w]; });
@@ -142,11 +166,16 @@
     return DB.densities.default || 1;
   }
   function toGrams(qty, unit, food, DB) {
-    if (!unit) { // bare count -> named portion, else NLEA serving, else default 100 g/unit
-      var p = pickPortion(food, 'each') || pickPortion(food, food.name.split(' ').pop())
-        || (food.portions || []).find(function (x) { return /medium|nlea|serving|unit|each|whole/.test(x.label); })
-        || (food.portions || [])[0];
-      if (p) return { grams: qty * p.grams, method: 'portion: ' + p.label };
+    if (!unit) { // bare count -> a "one item" portion, never a volume/weight portion
+      var ps = food.portions || [];
+      var isVolWt = function (lbl) { return /\b(cup|cups|tbsp|tablespoon|tsp|teaspoon|ml|millilit|liter|litre|fl oz|\boz\b|ounce|lb\b|pound|gram|\bg\b|kg)\b/.test(lbl); };
+      var oneItem = ps.filter(function (x) { return !isVolWt(x.label); });
+      var p = oneItem.find(function (x) { return /\b(large|medium|each|whole|unit|piece|fillet|breast|thigh|slice|clove|link|patty|fruit)\b/.test(x.label); })
+        || oneItem.find(function (x) { return /nlea|serving/.test(x.label); })
+        || oneItem[0]
+        || pickPortion(food, 'each')
+        || ps[0];
+      if (p) return { grams: qty * p.grams, method: 'portion: ' + p.label, low: /nlea|serving/.test(p.label) };
       return { grams: qty * 100, method: 'assumed 100 g/unit', low: true };
     }
     if (G_PER[unit]) return { grams: qty * G_PER[unit], method: unit };
