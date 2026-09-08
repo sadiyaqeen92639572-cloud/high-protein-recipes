@@ -2,7 +2,7 @@
   "slug": "protein-overnight-oats",
   "title": "Protein Overnight Oats",
   "hubPath": "breakfast",
-  "metaDescription": "Creamy protein overnight oats with 28g of protein per jar \u2014 no chalkiness, just Greek yogurt and cottage cheese. 5 minutes of prep, ready by morning.",
+  "metaDescription": "This overnight oats recipe uses Greek yogurt and cottage cheese instead of powder, no chalkiness, 28g of protein per jar. 5 minutes of prep, ready by morning.",
   "targetKeywords": [
     "protein overnight oats",
     "high protein overnight oats",
@@ -54,19 +54,31 @@
   "tips": [
     {
       "question": "Can I use protein powder instead of cottage cheese?",
-      "answer": "You can, but the texture and protein content here come from whole-food ingredients (cottage cheese + Greek yogurt), which most readers find creamier and less chalky than powder-based versions."
+      "answer": "You can, and overnight oats are one of the few breakfasts where powder works cleanly, since the mixture is never heated. Stir one scoop into the blended base and add an extra 2-3 tablespoons of milk to compensate for the liquid it absorbs. That said, the cottage cheese and Greek yogurt version most readers prefer stays creamier and has no aftertaste."
     },
     {
       "question": "How long do protein overnight oats keep in the fridge?",
-      "answer": "Up to 3-4 days in a sealed jar. Add fresh toppings just before eating rather than in advance."
+      "answer": "Up to 3-4 days in a sealed jar, which makes this a real meal-prep breakfast. Blend a triple or quadruple batch of the base at once, portion it into jars with the oats and chia, and add fresh toppings each morning rather than in advance so they don't go soft."
+    },
+    {
+      "question": "How do I push this past 28g of protein?",
+      "answer": "Three levers: use a higher-protein milk like ultra-filtered dairy milk (about 13g per cup versus 8g), bump the Greek yogurt from a half cup to three quarters, or stir in a scoop of unflavored powder. Any one of those adds 8-12g and takes the jar to 35-40g."
+    },
+    {
+      "question": "Can I use steel-cut or quick oats instead of rolled?",
+      "answer": "Rolled oats are the right choice here. Quick oats turn gluey and lose all texture overnight, and steel-cut oats never soften enough without cooking, so they stay unpleasantly chewy. If steel-cut is all you have, simmer them first and chill before assembling."
+    },
+    {
+      "question": "What are some flavor variations?",
+      "answer": "The base is neutral, so it takes almost anything: cocoa powder and a little extra sweetener for chocolate; a spoonful of pumpkin puree with cinnamon and nutmeg; mashed banana blended into the base; or lemon zest with blueberries stirred in. Add dry flavorings to the blender and fold fruit in with the oats."
     },
     {
       "question": "Can I make this dairy-free?",
-      "answer": "Swap the cottage cheese and Greek yogurt for a dairy-free yogurt alternative and unsweetened almond or oat milk \u2014 the protein content will be lower without the dairy base."
+      "answer": "Swap the cottage cheese and Greek yogurt for a thick dairy-free yogurt and use soy milk rather than almond or oat milk, since soy is the only plant milk with comparable protein (about 7g per cup). Expect the finished jar to land closer to 18-20g without the dairy base."
     },
     {
       "question": "Why blend the wet ingredients instead of just stirring?",
-      "answer": "Blending breaks down the cottage cheese curds completely, so the oats end up smooth and creamy instead of having pockets of cottage cheese texture."
+      "answer": "Blending breaks down the cottage cheese curds completely, so the oats end up smooth and creamy instead of having pockets of cottage cheese texture. If a blender isn't handy, use whipped or ricotta-style cottage cheese, which is already smooth."
     }
   ],
   "reviews": [],
@@ -81,8 +93,24 @@
     "pinAlt": "Tall jar of protein overnight oats with honey drizzling down the side and granola on top"
   },
   "storyIntro": [
-    "Overnight oats are the easiest make-ahead breakfast there is, but most versions top out around 10g of protein. This one blends cottage cheese and Greek yogurt into the base before it even touches the oats, pushing it to 28g per jar without a scoop of powder.",
-    "Everything goes into the jar the night before \u2014 five minutes of prep, then the fridge does the work. By morning the oats have absorbed the liquid into something thick and pudding-like, ready for whatever toppings you're in the mood for."
+    "Overnight oats are the easiest make-ahead breakfast there is, but most versions top out around 10g of protein — a half cup of oats and some milk, which is a snack pretending to be a meal. The fix is to treat the liquid as the place the protein lives. Blending cottage cheese and Greek yogurt into the base before it touches the oats pushes this jar to 28g without a scoop of powder, and because it's all whole food there's no chalky finish and nothing settles out overnight.",
+    "Everything goes into the jar the night before: five minutes of prep, then the fridge does the work. By morning the oats have pulled the liquid in and turned thick and pudding-like. It holds for three to four days sealed, so the honest way to make this is four jars at once on a Sunday, then add toppings each morning. Below the recipe there are variations, ways to push it past 28g, and why rolled oats are the only kind that works here."
   ],
-  "storyNote": "One thing worth knowing: the texture keeps improving the longer it sits, so if you can wait the full 8 hours instead of the minimum, it's worth it \u2014 the oats go from softened to genuinely creamy."
+  "storyNote": "The texture keeps improving the longer it sits, so wait the full 8 hours rather than the 4-hour minimum if you can — the oats go from merely softened to genuinely creamy somewhere around hour six. Chia seeds are doing part of that work; they gel and thicken the whole jar, so don't skip them.",
+  "targetKeyword": "overnight oats recipe",
+  "titlePattern": "pain-solution",
+  "pinOverlay": {
+    "headline": "Chalky Protein Powder Ruining Your Overnight Oats?",
+    "support": [
+      "Swap it for cottage cheese, blended smooth so you can't taste it",
+      "28g protein per jar, five minutes of prep the night before"
+    ]
+  },
+  "suggestedTags": [
+    "overnight oats recipe",
+    "protein overnight oats",
+    "high protein breakfast",
+    "cottage cheese oats",
+    "meal prep breakfast"
+  ]
 }

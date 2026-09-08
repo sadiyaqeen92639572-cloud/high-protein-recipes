@@ -3,17 +3,81 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>High Protein Soup Recipes | High Protein Recipes</title>
-<meta name="description" content="High protein soup recipes — chicken soup, black bean, white bean, beef and vegetable, lentil and chicken tortilla, all 20g+ protein per serving and built to be a full meal.">
+<title>High Protein Soup Recipes — 6 Bowls With 21–39g Protein | High Protein Recipes</title>
+<meta name="description" content="High protein soup recipes with 21–39g protein per serving: chicken, white bean, black bean, beef and vegetable, and lentil soups built to be a full meal, not a starter. Plus how to add protein to any soup.">
 <link rel="canonical" href="https://realproteinkitchen.com/soup/">
+<meta property="og:title" content="High Protein Soup Recipes">
+<meta property="og:description" content="Six high protein soup recipes, 21–39g protein per serving, each built to work as a full meal.">
+<meta property="og:type" content="website">
+<meta property="og:image" content="https://realproteinkitchen.com/images/high-protein-chicken-soup/hero.jpg">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "name": "High Protein Soup Recipes",
+      "url": "https://realproteinkitchen.com/soup/",
+      "description": "A collection of high protein soup recipes, each with 21g or more of protein per serving.",
+      "isPartOf": { "@type": "WebSite", "name": "High Protein Recipes", "url": "https://realproteinkitchen.com/" }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "High Protein Recipes", "item": "https://realproteinkitchen.com/" },
+        { "@type": "ListItem", "position": 2, "name": "Soup", "item": "https://realproteinkitchen.com/soup/" }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What soup is highest in protein?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Soups built on a lean animal protein plus beans rank highest. On this page the high protein chicken soup leads at about 39g per serving from shredded chicken breast and cannellini beans, followed by chicken tortilla soup at 38g and beef and vegetable soup at 35g. A broth-only soup usually has 5g or less, so the protein comes almost entirely from what is simmered into it." }
+        },
+        {
+          "@type": "Question",
+          "name": "How do you add protein to soup?",
+          "acceptedAnswer": { "@type": "Answer", "text": "The most effective additions are shredded cooked chicken or turkey, canned beans or lentils, a spoonful of plain Greek yogurt stirred in off the heat, or a scoop of unflavored collagen. Beans and lentils also thicken the broth as a bonus. Adding 1.5 cups of beans and 2 cups of shredded chicken to a standard pot of vegetable soup takes a 6g serving to roughly 30g." }
+        },
+        {
+          "@type": "Question",
+          "name": "What is a good high fiber high protein soup?",
+          "acceptedAnswer": { "@type": "Answer", "text": "The black bean soup on this page hits both targets: about 21g of protein and 16g of fiber per serving from black beans and red lentils, finished with a nonfat Greek yogurt swirl. Blending half the pot keeps the fiber in the bowl and thickens the soup without cream." }
+        },
+        {
+          "@type": "Question",
+          "name": "Can soup be a high protein meal on its own?",
+          "acceptedAnswer": { "@type": "Answer", "text": "Yes, if it carries at least 25–30g of protein and some fiber or fat to stay filling. Every recipe on this page is built to that standard, so a single bowl works as lunch or dinner rather than a first course you eat something else after." }
+        },
+        {
+          "@type": "Question",
+          "name": "Are canned beans or dried beans better for protein soup?",
+          "acceptedAnswer": { "@type": "Answer", "text": "The protein is nearly identical. Canned beans are faster and can go straight in; dried beans are cheaper per serving but must be fully cooked before they meet an acidic broth, since acid stops undercooked beans from ever softening. Use about 1.5 cups cooked to replace one 15 oz can." }
+        }
+      ]
+    },
+    {
+      "@type": "Organization",
+      "name": "High Protein Recipes",
+      "legalName": "Gesmine-Invest Limited",
+      "identifier": { "@type": "PropertyValue", "propertyID": "UK Company Number", "value": "14120136" },
+      "address": { "@type": "PostalAddress", "streetAddress": "Hardy House, 269 Poynders Gardens", "addressLocality": "London", "postalCode": "SW4 8PQ", "addressCountry": "GB" }
+    }
+  ]
+}
+</script>
 <style>
   :root{--bg:#fffaf5;--text:#2b2119;--accent:#c96f4a;--muted:#7a6a5c;--border:#eee0d3;}
   html{font-size:18px;}
   body{font-family:Georgia,'Times New Roman',serif;background:var(--bg);color:var(--text);margin:0;line-height:1.7;}
   .wrap{max-width:960px;margin:0 auto;padding:1.5rem;}
   h1{font-family:Inter,sans-serif;font-size:2rem;max-width:640px;}
-  .intro{color:var(--muted);max-width:640px;}
-  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1.2rem;margin-top:2rem;}
+  h2{font-family:Inter,sans-serif;font-size:1.35rem;margin-top:2.5rem;}
+  .intro{max-width:680px;}
+  .intro p{margin:1rem 0;}
+  .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1.2rem;margin-top:1.5rem;}
   .card{background:#fff;border:1px solid var(--border);border-radius:12px;overflow:hidden;text-decoration:none;color:var(--text);transition:transform .15s;}
   .card:hover{transform:translateY(-3px);}
   .card img{width:100%;height:160px;object-fit:cover;display:block;}
@@ -21,31 +85,40 @@
   .card h3{font-family:Inter,sans-serif;font-size:1rem;margin:0 0 0.3rem;}
   .card .meta{font-size:0.78rem;color:var(--muted);font-family:Inter,sans-serif;}
   .card .summary{font-size:0.85rem;color:var(--muted);margin:0.4rem 0 0;line-height:1.5;}
+  .ranked{padding-left:1.4rem;max-width:680px;}
+  .ranked li{margin:0.9rem 0;}
+  .ranked a{color:var(--accent);text-decoration:none;font-weight:bold;}
+  .ranked a:hover{text-decoration:underline;}
+  .faq-item{max-width:680px;margin:1.4rem 0;}
+  .faq-item h3{font-family:Inter,sans-serif;font-size:1.05rem;margin-bottom:0.3rem;}
+  .faq-item p{margin:0;color:var(--muted);}
+  @media (max-width:600px){.wrap{padding:1rem;}h1{font-size:1.5rem;}}
 </style>
 </head>
 <body>
 <div class="wrap">
   <p class="meta" style="font-family:Inter,sans-serif"><a href="/">High Protein Recipes</a> &rsaquo; Soup</p>
   <h1>High Protein Soup Recipes</h1>
-  <p class="intro">Filling, protein-dense soups — 26g+ protein per serving, built to be a full meal instead of a starter.</p>
 
+  <div class="intro">
+    <p>Most soup is a starter. It is mostly broth, it runs 5 to 10g of protein per bowl, and an hour later you are hungry again. The recipes here are built the other way around: each one carries 21 to 39g of protein per serving and enough fiber or fat to hold you until the next meal, so a single bowl is lunch or dinner rather than the thing you eat before dinner.</p>
+    <p>The protein in a soup comes almost entirely from what you simmer into it, not from the liquid. That means the lever is always the same: a lean animal protein, a legume, or both. Shredded chicken breast, lean ground beef, chicken sausage, black beans, cannellini beans, and lentils do the work across these six recipes. Beans and lentils pull double duty because they also thicken the broth as they break down, which is how several of these soups reach a stew-like body without any cream, roux, or cornstarch.</p>
+    <p>Every recipe is a single pot, finishes in 30 to 40 minutes, and is written to scale up and reheat well. A pot of the chicken soup or the beef and vegetable soup is realistically four to five lunches, and the flavor on the bean-based soups actually improves after a day in the fridge as the spices settle. Where a soup freezes well, the recipe says so and notes which components to add fresh on reheating, usually the leafy greens, which turn to mush after a freeze and thaw.</p>
+    <p>Below, the six soups ranked by protein per serving, then the recipe cards, then answers to the questions that come up most: which soup is highest in protein, how to add protein to a soup you already make, and what a genuinely high fiber high protein soup looks like.</p>
+  </div>
+
+  <h2>The 6 soups, ranked by protein per serving</h2>
+  <ol class="ranked">
+    <li><a href="/soup/high-protein-chicken-soup/">High Protein Chicken Soup</a> — <strong>39g protein</strong>, 340 cal, 30 min. Shredded chicken breast and cannellini beans in a light thyme broth with kale.</li>
+    <li><a href="/soup/chicken-tortilla-soup/">Chicken Tortilla Soup</a> — <strong>38g protein</strong>, 35 min. Shredded chicken, black beans and corn in a smoky tomato broth.</li>
+    <li><a href="/soup/high-protein-beef-vegetable-soup/">High Protein Beef &amp; Vegetable Soup</a> — <strong>35g protein</strong>, 350 cal, 40 min. Lean ground beef and green lentils in a rich tomato broth.</li>
+    <li><a href="/soup/high-protein-white-bean-soup/">High Protein White Bean Soup</a> — <strong>33g protein</strong>, 360 cal, 35 min. Chicken sausage, cannellini beans and kale in a rosemary broth, part of the beans mashed to thicken it.</li>
+    <li><a href="/soup/high-protein-lentil-soup/">High Protein Lentil Soup</a> — <strong>26g protein</strong>, 280 cal, 40 min. Brown lentils, carrots and celery with cumin and smoked paprika. Fully vegetarian.</li>
+    <li><a href="/soup/high-protein-black-bean-soup/">High Protein Black Bean Soup</a> — <strong>21g protein, 16g fiber</strong>, 310 cal, 35 min. Black beans and red lentils with a nonfat Greek yogurt swirl. The high fiber pick.</li>
+  </ol>
+
+  <h2>All soup recipes</h2>
   <div class="grid">
-    <a class="card" href="/soup/chicken-tortilla-soup/">
-      <img src="/images/chicken-tortilla-soup/hero.jpg" alt="Bowl of chicken tortilla soup with shredded chicken, black beans, corn, tortilla strips and avocado" loading="lazy">
-      <div class="card-body">
-        <h3>Chicken Tortilla Soup</h3>
-        <span class="meta">38g protein · 35 min</span>
-        <p class="summary">Shredded chicken, black beans, corn and a smoky broth.</p>
-      </div>
-    </a>
-    <a class="card" href="/soup/high-protein-lentil-soup/">
-      <img src="/images/high-protein-lentil-soup/hero.jpg" alt="Bowl of brown lentil soup with carrots, celery and fresh parsley garnish" loading="lazy">
-      <div class="card-body">
-        <h3>High Protein Lentil Soup</h3>
-        <span class="meta">26g protein · 40 min</span>
-        <p class="summary">Brown lentils, carrots, celery and warm spices — fully vegetarian.</p>
-      </div>
-    </a>
     <a class="card" href="/soup/high-protein-chicken-soup/">
       <img src="/images/high-protein-chicken-soup/hero.jpg" alt="Bowl of high protein chicken soup with shredded chicken, white beans, carrots, celery and kale" loading="lazy">
       <div class="card-body">
@@ -54,20 +127,12 @@
         <p class="summary">Shredded chicken breast and cannellini beans in a light broth — a quick, filling soup.</p>
       </div>
     </a>
-    <a class="card" href="/soup/high-protein-black-bean-soup/">
-      <img src="/images/high-protein-black-bean-soup/hero.jpg" alt="Bowl of high protein black bean soup topped with a swirl of Greek yogurt, cilantro and diced red pepper" loading="lazy">
+    <a class="card" href="/soup/chicken-tortilla-soup/">
+      <img src="/images/chicken-tortilla-soup/hero.jpg" alt="Bowl of chicken tortilla soup with shredded chicken, black beans, corn, tortilla strips and avocado" loading="lazy">
       <div class="card-body">
-        <h3>High Protein Black Bean Soup</h3>
-        <span class="meta">21g protein · 16g fiber · 35 min</span>
-        <p class="summary">Black beans and lentils with a Greek yogurt swirl — high fiber, high protein, meat-free.</p>
-      </div>
-    </a>
-    <a class="card" href="/soup/high-protein-white-bean-soup/">
-      <img src="/images/high-protein-white-bean-soup/hero.jpg" alt="Bowl of high protein white bean soup with chicken sausage, kale and grated Parmesan" loading="lazy">
-      <div class="card-body">
-        <h3>High Protein White Bean Soup</h3>
-        <span class="meta">33g protein · 35 min</span>
-        <p class="summary">Chicken sausage, cannellini beans and kale in a rosemary broth — protein rich and hearty.</p>
+        <h3>Chicken Tortilla Soup</h3>
+        <span class="meta">38g protein · 35 min</span>
+        <p class="summary">Shredded chicken, black beans, corn and a smoky broth.</p>
       </div>
     </a>
     <a class="card" href="/soup/high-protein-beef-vegetable-soup/">
@@ -78,7 +143,56 @@
         <p class="summary">Lean ground beef and green lentils in a rich tomato broth — a protein packed full dinner.</p>
       </div>
     </a>
+    <a class="card" href="/soup/high-protein-white-bean-soup/">
+      <img src="/images/high-protein-white-bean-soup/hero.jpg" alt="Bowl of high protein white bean soup with chicken sausage, kale and grated Parmesan" loading="lazy">
+      <div class="card-body">
+        <h3>High Protein White Bean Soup</h3>
+        <span class="meta">33g protein · 35 min</span>
+        <p class="summary">Chicken sausage, cannellini beans and kale in a rosemary broth — protein rich and hearty.</p>
+      </div>
+    </a>
+    <a class="card" href="/soup/high-protein-lentil-soup/">
+      <img src="/images/high-protein-lentil-soup/hero.jpg" alt="Bowl of brown lentil soup with carrots, celery and fresh parsley garnish" loading="lazy">
+      <div class="card-body">
+        <h3>High Protein Lentil Soup</h3>
+        <span class="meta">26g protein · 40 min</span>
+        <p class="summary">Brown lentils, carrots, celery and warm spices — fully vegetarian.</p>
+      </div>
+    </a>
+    <a class="card" href="/soup/high-protein-black-bean-soup/">
+      <img src="/images/high-protein-black-bean-soup/hero.jpg" alt="Bowl of high protein black bean soup topped with a swirl of Greek yogurt, cilantro and diced red pepper" loading="lazy">
+      <div class="card-body">
+        <h3>High Protein Black Bean Soup</h3>
+        <span class="meta">21g protein · 16g fiber · 35 min</span>
+        <p class="summary">Black beans and lentils with a Greek yogurt swirl — high fiber, high protein, meat-free.</p>
+      </div>
+    </a>
+  </div>
+
+  <h2>High protein soup, answered</h2>
+  <div class="faq-item">
+    <h3>What soup is highest in protein?</h3>
+    <p>Soups built on a lean animal protein plus beans rank highest. Here the high protein chicken soup leads at about 39g per serving from shredded chicken breast and cannellini beans, then chicken tortilla soup at 38g and beef and vegetable soup at 35g. A broth-only soup usually has 5g or less, so the protein comes almost entirely from what is simmered into it.</p>
+  </div>
+  <div class="faq-item">
+    <h3>How do you add protein to soup?</h3>
+    <p>The effective additions are shredded cooked chicken or turkey, canned beans or lentils, a spoonful of plain Greek yogurt stirred in off the heat, or a scoop of unflavored collagen. Beans and lentils also thicken the broth. Adding 1.5 cups of beans and 2 cups of shredded chicken to a standard pot of vegetable soup takes a 6g serving to roughly 30g.</p>
+  </div>
+  <div class="faq-item">
+    <h3>What is a good high fiber high protein soup?</h3>
+    <p>The black bean soup on this page hits both: about 21g of protein and 16g of fiber per serving from black beans and red lentils, finished with a nonfat Greek yogurt swirl. Blending half the pot keeps the fiber in the bowl and thickens the soup without cream.</p>
+  </div>
+  <div class="faq-item">
+    <h3>Can soup be a high protein meal on its own?</h3>
+    <p>Yes, if it carries at least 25 to 30g of protein plus some fiber or fat to stay filling. Every recipe here is built to that standard, so a single bowl works as lunch or dinner rather than a first course.</p>
+  </div>
+  <div class="faq-item">
+    <h3>Are canned beans or dried beans better for protein soup?</h3>
+    <p>The protein is nearly identical. Canned beans are faster and go straight in; dried beans are cheaper per serving but must be fully cooked before meeting an acidic broth, since acid stops undercooked beans from softening. Use about 1.5 cups cooked to replace one 15 oz can.</p>
   </div>
 </div>
+<footer style="max-width:720px;margin:0 auto;padding:24px 16px;text-align:center;">
+  <p style="font-size:.72rem;color:#666;">High Protein Recipes is part of Gesmine-Invest Limited, registered UK company number 14120136, registered office address at Hardy House, 269 Poynders Gardens, London, London, United Kingdom, SW4 8PQ.</p>
+</footer>
 </body>
 </html>

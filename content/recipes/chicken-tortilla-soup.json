@@ -5,9 +5,9 @@
   "hubLabel": "Soup",
   "metaDescription": "Most high protein soup recipes are a starter, not dinner. This chicken tortilla soup is a full meal at 38g of protein per serving, with shredded chicken, black beans, corn, and a smoky broth.",
   "targetKeywords": [
-    "high protein soup recipes",
-    "high protein chicken recipes",
-    "high protein low calorie recipes"
+    "chicken tortilla soup recipe",
+    "high protein chicken tortilla soup",
+    "shredded chicken tortilla soup"
   ],
   "author": "Recipe Team",
   "datePublished": "2026-07-17",
@@ -17,7 +17,7 @@
   "recipeYield": "6 servings",
   "recipeCategory": "Soup",
   "recipeCuisine": "Mexican-inspired",
-  "keywords": "chicken tortilla soup, high protein soup, shredded chicken soup",
+  "keywords": "chicken tortilla soup recipe, high protein chicken tortilla soup, shredded chicken tortilla soup, high protein soup",
   "nutrition": {
     "calories": "310",
     "proteinContent": "38g",
@@ -25,52 +25,65 @@
     "fatContent": "8g"
   },
   "ingredients": [
-    "1.5 lbs boneless chicken breast",
-    "1 can black beans, drained and rinsed",
-    "1 can corn, drained",
-    "1 can diced tomatoes",
-    "6 cups chicken broth",
+    "1.5 lbs boneless skinless chicken breast",
+    "1 can (15 oz) black beans, drained and rinsed",
+    "1 can (15 oz) corn, drained (or 1.5 cups frozen)",
+    "1 can (14.5 oz) fire-roasted diced tomatoes",
+    "6 cups low-sodium chicken broth",
     "1 onion, diced",
+    "1 red bell pepper, diced",
+    "1 jalapeno, seeded and minced (optional)",
     "3 cloves garlic, minced",
     "2 tsp chili powder",
-    "1 tsp cumin",
+    "1 tsp ground cumin",
+    "1 tsp smoked paprika",
+    "1/2 tsp dried oregano",
     "1 tbsp olive oil",
-    "Tortilla strips, avocado, lime and cilantro, for serving"
+    "2 tbsp lime juice",
+    "Tortilla strips, diced avocado, lime wedges and cilantro, for serving"
   ],
   "steps": [
     {
-      "name": "Saut\u00e9 the aromatics",
-      "text": "Heat olive oil in a large pot over medium heat. Add onion and cook until softened, about 4 minutes. Add garlic, chili powder, and cumin, cooking for 1 more minute until fragrant."
+      "name": "Saute the aromatics",
+      "text": "Heat olive oil in a large pot over medium heat. Add onion and bell pepper and cook until softened, about 5 minutes. Add garlic, jalapeno, chili powder, cumin, smoked paprika, and oregano, and cook for 1 more minute until fragrant."
     },
     {
       "name": "Add chicken and simmer",
-      "text": "Add chicken breast, black beans, corn, diced tomatoes, and chicken broth. Bring to a boil, then reduce heat and simmer for 20 minutes, until the chicken is fully cooked through."
+      "text": "Add the whole chicken breasts, black beans, corn, fire-roasted tomatoes, and chicken broth. Bring to a boil, then reduce heat and simmer gently for 18-20 minutes, until the chicken reaches 165F internal temperature."
     },
     {
       "name": "Shred the chicken",
-      "text": "Remove the chicken breasts, shred with two forks, and return to the pot. Simmer for 5 more minutes to let the flavors combine."
+      "text": "Remove the chicken breasts to a cutting board and shred with two forks. Return the shredded chicken to the pot, add the lime juice, and simmer for 5 more minutes to let the flavors combine. Taste and adjust salt."
     },
     {
       "name": "Serve with toppings",
-      "text": "Ladle into bowls and top with crunchy tortilla strips, sliced avocado, a squeeze of lime, and fresh cilantro."
+      "text": "Ladle into bowls and top with crunchy tortilla strips, diced avocado, a squeeze of lime, and fresh cilantro. The toppings are not optional here \u2014 the crunch and the fat are what make it feel finished."
     }
   ],
   "tips": [
     {
+      "question": "How is this chicken tortilla soup high in protein?",
+      "answer": "Poaching a full 1.5 lb of chicken breast directly in the pot, plus a can of black beans, puts each of the six servings at about 38g of protein. Because there is no cream or cheese in the base, the calories stay near 310 per serving despite the protein."
+    },
+    {
       "question": "Can I make this in a slow cooker instead?",
-      "answer": "Yes \u2014 add everything except the toppings to a crockpot and cook on low for 6 hours or high for 3 hours, then shred the chicken directly in the pot before serving."
+      "answer": "Yes. Add everything except the lime juice and toppings to a crockpot and cook on low for 6 hours or high for 3 hours, then shred the chicken directly in the pot, stir in the lime juice, and serve."
     },
     {
       "question": "How do I make the tortilla strips myself?",
-      "answer": "Slice corn tortillas into thin strips, toss with a little oil, and bake at 400\u00b0F for 8-10 minutes until crisp, or lightly fry them for a couple minutes per side."
+      "answer": "Slice corn tortillas into thin strips, toss with a little oil and salt, and bake at 400F for 8-10 minutes until crisp, tossing once. They keep a few days in a sealed container, so it is worth making extra."
     },
     {
       "question": "Can I use rotisserie chicken to save time?",
-      "answer": "Yes \u2014 skip simmering raw chicken and instead stir in about 3 cups of shredded rotisserie chicken during the last 5 minutes, just to heat it through."
+      "answer": "Yes. Skip poaching raw chicken and stir in about 3 cups of shredded rotisserie chicken during the last 5 minutes, just to heat through. You lose a little flavor in the broth but save 15 minutes."
+    },
+    {
+      "question": "What makes it taste smoky without a smoky broth base?",
+      "answer": "Two things: fire-roasted canned tomatoes instead of plain, and smoked paprika alongside the chili powder. Both are pantry swaps that add the charred depth people expect from tortilla soup without any special ingredient."
     },
     {
       "question": "Does this soup freeze well?",
-      "answer": "Yes, though it's best to freeze it without the tortilla strips and avocado \u2014 add those fresh after reheating so they don't turn soggy or brown."
+      "answer": "Yes. Freeze the soup base for up to 3 months without the tortilla strips and avocado, and add those fresh after reheating so they do not turn soggy or brown. It thickens in the freezer, so add a splash of broth when reheating."
     }
   ],
   "storyIntro": [
