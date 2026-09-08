@@ -3,7 +3,7 @@
   "title": "High Protein White Bean Soup",
   "hubPath": "soup",
   "hubLabel": "Soup",
-  "metaDescription": "A protein rich soup with 33g protein per serving: white beans, chicken sausage and kale in a rosemary broth. Hearty and protein packed, ready in 35 minutes.",
+  "metaDescription": "A Tuscan white bean soup with 33g protein per serving: cannellini beans, chicken sausage and kale in a rosemary broth. Hearty and ready in 35 minutes.",
   "targetKeywords": [
     "protein rich soup",
     "protein packed soup",
@@ -90,5 +90,23 @@
     "This is the soup for when a bowl of broth is not going to cut it. Chicken sausage, three cans of white beans, and a handful of Parmesan add up to 33g of protein per serving.",
     "Mashing part of the beans thickens the broth on its own, so it eats like a stew without any cream, and it is done in about 35 minutes."
   ],
-  "storyNote": "Reserve half the browned sausage for the top. Sausage simmered the whole time goes soft; the pieces added at the end keep a crisp edge and make the bowl look like more."
+  "storyNote": "Reserve half the browned sausage for the top. Sausage simmered the whole time goes soft; the pieces added at the end keep a crisp edge and make the bowl look like more.",
+  "targetKeyword": "tuscan white bean soup",
+  "titlePattern": "descriptive",
+  "suggestedTags": [
+    "tuscan white bean soup",
+    "white bean soup",
+    "high protein soup",
+    "chicken sausage soup",
+    "kale soup",
+    "one pot soup"
+  ],
+  "pinOverlay": {
+    "headline": "Tuscan White Bean Soup That Eats Like Dinner",
+    "support": [
+      "33g protein a bowl from chicken sausage and white beans",
+      "Mash a third of the beans to thicken it, no cream",
+      "Reserve half the sausage for the top so it stays crisp"
+    ]
+  }
 }

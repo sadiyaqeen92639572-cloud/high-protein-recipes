@@ -3,7 +3,7 @@
   "title": "High Protein Black Bean Soup",
   "hubPath": "soup",
   "hubLabel": "Soup",
-  "metaDescription": "A high fiber high protein soup: this black bean soup has 21g protein and 16g fiber per serving from black beans, lentils and a Greek yogurt swirl. Vegetarian, ready in 35 minutes.",
+  "metaDescription": "A high fiber, high protein black bean soup recipe with 21g protein and 16g fiber per serving from black beans, red lentils and a Greek yogurt swirl. Vegetarian, ready in 35 minutes.",
   "targetKeywords": [
     "high fiber high protein soup",
     "high protein and fiber soup",
@@ -91,5 +91,23 @@
     "Black bean soup is already fiber-heavy. Adding red lentils and finishing with a Greek yogurt swirl turns it into a bowl with 21g of protein and 16g of fiber, entirely meat-free.",
     "Blending half the pot does the thickening, so there is no cream, no roux, and no straining out the part that makes it filling."
   ],
-  "storyNote": "Blend only half. A fully pureed bean soup reads as baby food; leaving half the beans whole keeps enough texture to make it feel like a meal."
+  "storyNote": "Blend only half. A fully pureed bean soup reads as baby food; leaving half the beans whole keeps enough texture to make it feel like a meal.",
+  "targetKeyword": "black bean soup recipe",
+  "titlePattern": "descriptive",
+  "suggestedTags": [
+    "black bean soup recipe",
+    "black bean soup",
+    "high fiber soup",
+    "vegetarian soup",
+    "meatless soup",
+    "high protein vegetarian"
+  ],
+  "pinOverlay": {
+    "headline": "Black Bean Soup With 21g Protein and 16g Fiber",
+    "support": [
+      "16g of fiber in one bowl, more than half a day for most adults",
+      "A nonfat Greek yogurt swirl replaces the sour cream and adds 5g protein",
+      "Blend half the pot so it thickens itself, no cream"
+    ]
+  }
 }

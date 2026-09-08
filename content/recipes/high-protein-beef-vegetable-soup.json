@@ -3,7 +3,7 @@
   "title": "High Protein Beef and Vegetable Soup",
   "hubPath": "soup",
   "hubLabel": "Soup",
-  "metaDescription": "A protein packed soup with 35g protein per serving: lean ground beef, lentils and vegetables in a tomato broth. A soup high in protein that eats like a full dinner, ready in 40 minutes.",
+  "metaDescription": "A vegetable beef soup with 35g protein per serving: lean ground beef, green lentils and vegetables in a tomato broth. Eats like a full dinner, ready in 40 minutes.",
   "targetKeywords": [
     "protein packed soup",
     "soup high in protein",
@@ -93,5 +93,23 @@
     "Classic beef and vegetable soup is filling but light on protein. A cup of green lentils simmered in with lean ground beef pushes this version to 35g per serving.",
     "It is a single pot in 40 minutes, and the lentils thicken the broth as they cook so it holds up as a real dinner instead of a starter."
   ],
-  "storyNote": "Cook the tomato paste with the aromatics for a full minute until it darkens and sticks to the pot. That step builds the savory backbone the broth is missing if you just stir it into liquid."
+  "storyNote": "Cook the tomato paste with the aromatics for a full minute until it darkens and sticks to the pot. That step builds the savory backbone the broth is missing if you just stir it into liquid.",
+  "targetKeyword": "vegetable beef soup",
+  "titlePattern": "descriptive",
+  "suggestedTags": [
+    "vegetable beef soup",
+    "beef vegetable soup",
+    "high protein soup",
+    "ground beef soup",
+    "lentil soup",
+    "hearty soup"
+  ],
+  "pinOverlay": {
+    "headline": "Old Fashioned Vegetable Beef Soup, 35g Protein",
+    "support": [
+      "Lean ground beef and green lentils get it to 35g protein without pasta",
+      "The lentils thicken the broth as they simmer, no flour",
+      "Brown the tomato paste a full minute before adding the liquid"
+    ]
+  }
 }
