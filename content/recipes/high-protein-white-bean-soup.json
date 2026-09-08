@@ -1,0 +1,94 @@
+{
+  "slug": "high-protein-white-bean-soup",
+  "title": "High Protein White Bean Soup",
+  "hubPath": "soup",
+  "hubLabel": "Soup",
+  "metaDescription": "A protein rich soup with 33g protein per serving: white beans, chicken sausage and kale in a rosemary broth. Hearty and protein packed, ready in 35 minutes.",
+  "targetKeywords": [
+    "protein rich soup",
+    "protein packed soup",
+    "protein heavy soup"
+  ],
+  "author": "Recipe Team",
+  "datePublished": "2026-09-08",
+  "prepTime": "PT10M",
+  "cookTime": "PT25M",
+  "totalTime": "PT35M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Soup",
+  "recipeCuisine": "Italian-inspired",
+  "keywords": "high protein white bean soup, protein rich soup, chicken sausage bean soup, kale soup",
+  "nutrition": {
+    "calories": "360",
+    "proteinContent": "33g",
+    "carbohydrateContent": "34g",
+    "fatContent": "11g"
+  },
+  "ingredients": [
+    "12 oz lean chicken or turkey sausage, sliced or crumbled",
+    "3 cans (15 oz each) cannellini beans, drained and rinsed",
+    "1 onion, diced",
+    "2 carrots, diced",
+    "4 cloves garlic, minced",
+    "1 tbsp fresh rosemary, chopped (or 1 tsp dried)",
+    "1/2 tsp red pepper flakes",
+    "5 cups low-sodium chicken broth",
+    "1 tbsp olive oil",
+    "4 cups chopped kale, stems removed",
+    "2 tbsp grated Parmesan, plus more for serving",
+    "1 tbsp lemon juice",
+    "Salt and pepper to taste"
+  ],
+  "steps": [
+    {
+      "name": "Brown the sausage",
+      "text": "Heat olive oil in a large pot over medium-high heat. Add the sausage and cook for 5-6 minutes until browned. Remove about half with a slotted spoon and set aside for topping."
+    },
+    {
+      "name": "Sauté aromatics",
+      "text": "Lower heat to medium. Add onion and carrots to the pot and cook for 5 minutes. Stir in garlic, rosemary, and red pepper flakes and cook 1 minute."
+    },
+    {
+      "name": "Simmer and mash",
+      "text": "Add the cannellini beans and chicken broth. Bring to a simmer, then mash about a third of the beans against the side of the pot with a spoon to thicken the broth. Simmer 10 minutes."
+    },
+    {
+      "name": "Finish with greens",
+      "text": "Stir in the kale and cook 3-4 minutes until tender. Add Parmesan and lemon juice, season with salt and pepper, and serve topped with the reserved sausage and extra Parmesan."
+    }
+  ],
+  "tips": [
+    {
+      "question": "What makes this soup protein rich?",
+      "answer": "Chicken sausage and three cans of cannellini beans push a serving to about 33g of protein. Choosing a lean chicken or turkey sausage over pork keeps the fat down without cutting the protein."
+    },
+    {
+      "question": "Why mash some of the beans?",
+      "answer": "Mashing a third of the beans releases their starch into the broth, thickening it into something closer to a stew. It is how you get a creamy consistency without adding any cream or flour."
+    },
+    {
+      "question": "Can I use dried beans instead of canned?",
+      "answer": "Yes. Use about 4.5 cups cooked from roughly 1.75 cups dried. Cook them fully before adding, since the acidity in the broth and any tomatoes will keep undercooked beans from ever softening."
+    },
+    {
+      "question": "How long does it keep?",
+      "answer": "It keeps 4 days refrigerated and thickens as it sits, so add a splash of broth when reheating. It freezes for 3 months; add the kale fresh on reheating for the best texture."
+    }
+  ],
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Bowl of high protein white bean soup with chicken sausage, kale and grated Parmesan on top",
+    "textureAlt": "Close-up spoon lifting white beans, sausage slices and kale from a thick broth",
+    "pinAlt": "Overhead shot of white bean and sausage soup in a dark bowl with Parmesan and crusty bread on the side"
+  },
+  "storyIntro": [
+    "This is the soup for when a bowl of broth is not going to cut it. Chicken sausage, three cans of white beans, and a handful of Parmesan add up to 33g of protein per serving.",
+    "Mashing part of the beans thickens the broth on its own, so it eats like a stew without any cream, and it is done in about 35 minutes."
+  ],
+  "storyNote": "Reserve half the browned sausage for the top. Sausage simmered the whole time goes soft; the pieces added at the end keep a crisp edge and make the bowl look like more."
+}

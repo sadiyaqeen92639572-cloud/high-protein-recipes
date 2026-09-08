@@ -1,0 +1,95 @@
+{
+  "slug": "high-protein-black-bean-soup",
+  "title": "High Protein Black Bean Soup",
+  "hubPath": "soup",
+  "hubLabel": "Soup",
+  "metaDescription": "A high fiber high protein soup: this black bean soup has 21g protein and 16g fiber per serving from black beans, lentils and a Greek yogurt swirl. Vegetarian, ready in 35 minutes.",
+  "targetKeywords": [
+    "high fiber high protein soup",
+    "high protein and fiber soup",
+    "protein packed soup"
+  ],
+  "author": "Recipe Team",
+  "datePublished": "2026-09-08",
+  "prepTime": "PT10M",
+  "cookTime": "PT25M",
+  "totalTime": "PT35M",
+  "recipeYield": "5 servings",
+  "recipeCategory": "Soup",
+  "recipeCuisine": "Latin-inspired",
+  "keywords": "high protein black bean soup, high fiber high protein soup, vegetarian bean soup",
+  "nutrition": {
+    "calories": "310",
+    "proteinContent": "21g",
+    "carbohydrateContent": "46g",
+    "fatContent": "5g"
+  },
+  "ingredients": [
+    "3 cans (15 oz each) black beans, drained and rinsed",
+    "1/2 cup dried red lentils, rinsed",
+    "1 onion, diced",
+    "1 red bell pepper, diced",
+    "4 cloves garlic, minced",
+    "1 chipotle pepper in adobo, minced (optional)",
+    "2 tsp ground cumin",
+    "1 tsp smoked paprika",
+    "1 tsp dried oregano",
+    "5 cups low-sodium vegetable broth",
+    "2 tbsp olive oil",
+    "2 tbsp lime juice",
+    "3/4 cup plain nonfat Greek yogurt, for serving",
+    "Fresh cilantro, for serving"
+  ],
+  "steps": [
+    {
+      "name": "Sauté the vegetables",
+      "text": "Heat olive oil in a large pot over medium heat. Add onion and bell pepper and cook for 6 minutes until softened. Stir in garlic, chipotle, cumin, smoked paprika, and oregano and cook 1 minute until fragrant."
+    },
+    {
+      "name": "Simmer",
+      "text": "Add black beans, red lentils, and vegetable broth. Bring to a boil, then reduce to a simmer and cook uncovered for 20 minutes, until the lentils have broken down and thickened the soup."
+    },
+    {
+      "name": "Blend part of the pot",
+      "text": "Use an immersion blender to puree about half the soup directly in the pot, leaving the rest chunky. Alternatively, transfer 3 cups to a blender, puree, and stir it back in."
+    },
+    {
+      "name": "Finish and serve",
+      "text": "Stir in lime juice and season with salt to taste. Ladle into bowls and top each with a spoonful of Greek yogurt and chopped cilantro."
+    }
+  ],
+  "tips": [
+    {
+      "question": "What gives this soup so much fiber?",
+      "answer": "Black beans and red lentils together provide about 16g of fiber per serving. Blending half the pot keeps that fiber in the bowl rather than straining it out, and it thickens the soup without cream."
+    },
+    {
+      "question": "How does a vegetarian soup reach 21g of protein?",
+      "answer": "The beans and lentils supply most of it, and the Greek yogurt swirl adds around 5g more per serving. Using nonfat Greek yogurt instead of sour cream is the single change that pushes it over 20g."
+    },
+    {
+      "question": "Can I make it in a slow cooker?",
+      "answer": "Yes. Add everything except the lime juice and yogurt and cook on low for 6 hours or high for 3. Blend half at the end, then stir in the lime juice and top each bowl with yogurt."
+    },
+    {
+      "question": "Does it freeze well?",
+      "answer": "The soup base freezes for up to 3 months. Freeze it without the yogurt topping and add that fresh after reheating, since dairy can separate when frozen and reheated."
+    }
+  ],
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Bowl of high protein black bean soup topped with a swirl of Greek yogurt, cilantro and diced red pepper",
+    "textureAlt": "Close-up spoon lifting thick black bean soup showing whole beans and a blended base",
+    "pinAlt": "Overhead shot of black bean soup in a rustic bowl with lime wedges, cilantro and a yogurt swirl"
+  },
+  "storyIntro": [
+    "Black bean soup is already fiber-heavy. Adding red lentils and finishing with a Greek yogurt swirl turns it into a bowl with 21g of protein and 16g of fiber, entirely meat-free.",
+    "Blending half the pot does the thickening, so there is no cream, no roux, and no straining out the part that makes it filling."
+  ],
+  "storyNote": "Blend only half. A fully pureed bean soup reads as baby food; leaving half the beans whole keeps enough texture to make it feel like a meal."
+}

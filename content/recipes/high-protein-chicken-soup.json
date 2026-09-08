@@ -1,0 +1,95 @@
+{
+  "slug": "high-protein-chicken-soup",
+  "title": "High Protein Chicken Soup",
+  "hubPath": "soup",
+  "hubLabel": "Soup",
+  "metaDescription": "A high protein chicken soup with 39g protein per serving: shredded chicken breast, white beans and vegetables in a light broth. A quick protein soup that works as a full meal, ready in 30 minutes.",
+  "targetKeywords": [
+    "high protein chicken soup",
+    "quick protein soup",
+    "filling protein soup"
+  ],
+  "author": "Recipe Team",
+  "datePublished": "2026-09-08",
+  "prepTime": "PT10M",
+  "cookTime": "PT20M",
+  "totalTime": "PT30M",
+  "recipeYield": "4 servings",
+  "recipeCategory": "Soup",
+  "recipeCuisine": "American",
+  "keywords": "high protein chicken soup, quick protein soup, chicken white bean soup, filling soup",
+  "nutrition": {
+    "calories": "340",
+    "proteinContent": "39g",
+    "carbohydrateContent": "24g",
+    "fatContent": "8g"
+  },
+  "ingredients": [
+    "1.25 lb boneless skinless chicken breast",
+    "1 can (15 oz) cannellini beans, drained and rinsed",
+    "1 onion, diced",
+    "3 carrots, sliced",
+    "3 celery stalks, sliced",
+    "4 cloves garlic, minced",
+    "6 cups low-sodium chicken broth",
+    "1 tsp dried thyme",
+    "1 tsp smoked paprika",
+    "2 tbsp olive oil",
+    "2 cups chopped kale or spinach",
+    "2 tbsp lemon juice",
+    "Salt and pepper to taste",
+    "Fresh parsley, for serving"
+  ],
+  "steps": [
+    {
+      "name": "Build the base",
+      "text": "Heat olive oil in a large pot over medium heat. Add onion, carrots, and celery and cook for 6-7 minutes until softened. Stir in garlic, thyme, and smoked paprika and cook 1 more minute."
+    },
+    {
+      "name": "Poach the chicken",
+      "text": "Add the chicken breasts and chicken broth. Bring to a gentle simmer, cover, and cook for 15 minutes, until the chicken reaches 165°F internal temperature."
+    },
+    {
+      "name": "Shred and return",
+      "text": "Remove the chicken to a cutting board and shred with two forks. Return it to the pot along with the cannellini beans and simmer for 3-4 minutes."
+    },
+    {
+      "name": "Finish",
+      "text": "Stir in the kale and cook 2 minutes until wilted. Add lemon juice, season with salt and pepper, and serve topped with parsley."
+    }
+  ],
+  "tips": [
+    {
+      "question": "What makes this a high protein soup?",
+      "answer": "A serving delivers about 39g of protein from the combination of chicken breast and cannellini beans. The beans also thicken the broth slightly, so you get more body without adding cream or flour."
+    },
+    {
+      "question": "Can I use rotisserie chicken to make it faster?",
+      "answer": "Yes. Skip the poaching step, use 4 cups of shredded cooked chicken, and simmer it with the broth and beans for 5 minutes. That cuts the total time to about 20 minutes."
+    },
+    {
+      "question": "Why poach the chicken whole instead of cubing it first?",
+      "answer": "Poaching whole breasts in the broth keeps them from overcooking and drying out, and it flavors the broth as they cook. Shredding afterward also gives a better texture in soup than pre-cut cubes."
+    },
+    {
+      "question": "How should I store and reheat it?",
+      "answer": "It keeps 4 days in the fridge and freezes well for 3 months. If freezing, leave the greens out and stir them in fresh when you reheat, since kale and spinach turn mushy after a freeze-thaw."
+    }
+  ],
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Bowl of high protein chicken soup with shredded chicken, white beans, carrots, celery and kale",
+    "textureAlt": "Close-up spoon lifting shredded chicken and cannellini beans from a bowl of broth",
+    "pinAlt": "Overhead shot of chicken and white bean soup in a light bowl with a lemon wedge and parsley on the side"
+  },
+  "storyIntro": [
+    "Most chicken soup is mostly broth. Loading in shredded chicken breast and a can of cannellini beans pushes this one to 39g of protein per serving without changing how light it tastes.",
+    "It is a 30-minute pot start to finish, and it reheats well enough to be four lunches instead of one dinner."
+  ],
+  "storyNote": "Poach the chicken breasts whole in the broth and shred them after. Cubing raw chicken and boiling it is the fastest way to end up with dry, rubbery pieces."
+}

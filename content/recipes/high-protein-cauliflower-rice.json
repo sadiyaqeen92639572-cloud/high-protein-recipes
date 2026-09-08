@@ -1,0 +1,93 @@
+{
+  "slug": "high-protein-cauliflower-rice",
+  "title": "High Protein Cauliflower Rice",
+  "hubPath": "low-carb",
+  "hubLabel": "Low Carb",
+  "metaDescription": "High protein cauliflower rice with chicken, edamame and egg: 34g protein and 9g net carbs per serving. A low carb protein rice swap that eats like a full meal, ready in 20 minutes.",
+  "targetKeywords": [
+    "high protein cauliflower rice",
+    "low carb protein rice",
+    "keto rice protein"
+  ],
+  "author": "Recipe Team",
+  "datePublished": "2026-09-08",
+  "prepTime": "PT10M",
+  "cookTime": "PT10M",
+  "totalTime": "PT20M",
+  "recipeYield": "3 servings",
+  "recipeCategory": "Main",
+  "recipeCuisine": "Asian-inspired",
+  "keywords": "high protein cauliflower rice, low carb protein rice, cauliflower fried rice, keto rice",
+  "nutrition": {
+    "calories": "320",
+    "proteinContent": "34g",
+    "carbohydrateContent": "14g",
+    "fatContent": "14g"
+  },
+  "ingredients": [
+    "1 lb cauliflower rice (fresh or frozen, about 5 cups)",
+    "2 boneless skinless chicken breasts (about 12 oz), cut into small cubes",
+    "1 cup shelled edamame, thawed",
+    "3 large eggs, beaten",
+    "3 green onions, sliced",
+    "3 cloves garlic, minced",
+    "1 tbsp fresh ginger, grated",
+    "2 tbsp low-sodium soy sauce or tamari",
+    "1 tbsp toasted sesame oil",
+    "1 tbsp avocado oil",
+    "1 tsp rice vinegar",
+    "1/2 tsp black pepper"
+  ],
+  "steps": [
+    {
+      "name": "Cook the chicken",
+      "text": "Heat avocado oil in a large nonstick skillet or wok over medium-high heat. Add the cubed chicken and cook for 4-5 minutes, stirring occasionally, until browned and cooked through. Transfer to a plate."
+    },
+    {
+      "name": "Scramble the eggs",
+      "text": "Reduce heat to medium. Pour the beaten eggs into the empty skillet and scramble for about 1 minute until just set. Push them to one side or transfer to the chicken plate."
+    },
+    {
+      "name": "Sauté aromatics and cauliflower",
+      "text": "Add garlic and ginger to the skillet and cook for 30 seconds until fragrant. Add the cauliflower rice and edamame, raise heat to medium-high, and stir-fry for 5-6 minutes until the cauliflower is tender and any released water has cooked off."
+    },
+    {
+      "name": "Combine and season",
+      "text": "Return the chicken and eggs to the skillet. Add soy sauce, sesame oil, rice vinegar, and black pepper. Toss for 1-2 minutes until everything is coated and hot. Stir in the green onions and serve."
+    }
+  ],
+  "tips": [
+    {
+      "question": "How do I keep cauliflower rice from turning soggy?",
+      "answer": "Cook it over medium-high heat in a wide pan so the water it releases evaporates fast instead of steaming the pan. If you use frozen cauliflower rice, do not thaw it first, and do not cover the pan while it cooks."
+    },
+    {
+      "question": "What makes this higher in protein than regular cauliflower rice?",
+      "answer": "The chicken, edamame, and eggs together add about 34g of protein per serving. Plain cauliflower rice has only around 2g per cup, so the protein here comes entirely from what you cook into it."
+    },
+    {
+      "question": "Is this recipe keto-friendly?",
+      "answer": "Yes. At roughly 9g net carbs per serving (14g total carbs minus 5g fiber) it fits most keto and low carb targets. Edamame adds a few carbs but also most of the fiber, so you can cut the amount in half if you want it lower."
+    },
+    {
+      "question": "Can I meal prep this?",
+      "answer": "It keeps 4 days in the fridge in sealed containers. Reheat in a skillet rather than the microwave if you can, to drive off moisture that builds up during storage and keep the texture from going mushy."
+    }
+  ],
+  "reviews": [],
+  "reviewCount": 0,
+  "avgRating": null,
+  "images": {
+    "hero": "hero.jpg",
+    "pin": "pin.jpg",
+    "texture": "texture.jpg",
+    "heroAlt": "Bowl of high protein cauliflower rice with cubed chicken, edamame, scrambled egg and sliced green onions",
+    "textureAlt": "Close-up of a fork lifting cauliflower rice with chicken pieces and edamame showing the stir-fried texture",
+    "pinAlt": "Overhead shot of cauliflower fried rice with chicken and edamame in a dark bowl with chopsticks on the side"
+  },
+  "storyIntro": [
+    "Cauliflower rice on its own is a side dish nobody asks for seconds of. Built up with chicken, edamame, and scrambled egg, it turns into a stir-fry that hits 34g of protein and still lands under 10g net carbs.",
+    "It comes together in one skillet in about 20 minutes, which is roughly how long takeout would take to arrive, minus the carb load and the wait."
+  ],
+  "storyNote": "The single biggest mistake with cauliflower rice is crowding the pan. Use the widest skillet you own and keep the heat high so the moisture cooks off instead of pooling."
+}
