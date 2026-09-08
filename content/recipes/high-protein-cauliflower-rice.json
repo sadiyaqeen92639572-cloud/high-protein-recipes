@@ -3,7 +3,7 @@
   "title": "High Protein Cauliflower Rice",
   "hubPath": "low-carb",
   "hubLabel": "Low Carb",
-  "metaDescription": "High protein cauliflower rice with chicken, edamame and egg: 34g protein and 9g net carbs per serving. A low carb protein rice swap that eats like a full meal, ready in 20 minutes.",
+  "metaDescription": "This high protein cauliflower rice recipe uses chicken, edamame and egg for 34g protein and 9g net carbs per serving. A low carb rice swap that eats like a full meal, ready in 20 minutes.",
   "targetKeywords": [
     "high protein cauliflower rice",
     "low carb protein rice",
@@ -89,5 +89,23 @@
     "Cauliflower rice on its own is a side dish nobody asks for seconds of. Built up with chicken, edamame, and scrambled egg, it turns into a stir-fry that hits 34g of protein and still lands under 10g net carbs.",
     "It comes together in one skillet in about 20 minutes, which is roughly how long takeout would take to arrive, minus the carb load and the wait."
   ],
-  "storyNote": "The single biggest mistake with cauliflower rice is crowding the pan. Use the widest skillet you own and keep the heat high so the moisture cooks off instead of pooling."
+  "storyNote": "The single biggest mistake with cauliflower rice is crowding the pan. Use the widest skillet you own and keep the heat high so the moisture cooks off instead of pooling.",
+  "targetKeyword": "cauliflower rice recipe",
+  "titlePattern": "descriptive",
+  "suggestedTags": [
+    "cauliflower rice recipe",
+    "cauliflower fried rice",
+    "low carb cauliflower rice",
+    "keto cauliflower rice",
+    "high protein cauliflower rice",
+    "cauliflower rice with chicken"
+  ],
+  "pinOverlay": {
+    "headline": "Cauliflower Rice Recipe with Chicken and Edamame, 34g Protein",
+    "support": [
+      "Chicken, edamame and scrambled egg push one bowl to 34g protein",
+      "9g net carbs a serving, a real low carb swap for takeout fried rice",
+      "One pan, 20 minutes, works with fresh or frozen riced cauliflower"
+    ]
+  }
 }
