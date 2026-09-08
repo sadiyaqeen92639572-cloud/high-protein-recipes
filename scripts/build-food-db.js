@@ -4,9 +4,9 @@
  * Zero-dep Node. One-time-ish: run when the allowlist or the USDA dump changes.
  *
  * Prereq: download FoodData_Central_sr_legacy_food_csv_*.zip from
- *   https://fdc.nal.usda.gov/download-datasets  ->  unzip into scripts/usda-src/
+ *   https://fdc.nal.usda.gov/download-datasets  ->  unzip into ../.usda-src-high-protein/ (or set $USDA_SRC)
  *   (needs: food.csv, nutrient.csv, food_nutrient.csv, food_portion.csv)
- * scripts/usda-src/ is gitignored (~large).
+ * that dir lives OUTSIDE the repo (Pages 25 MiB file cap) and is untracked (~large).
  *
  * Reads scripts/food-allowlist.csv  (curated list of foods to keep).
  * Writes  data/foods.json  data/food-aliases.json
@@ -16,7 +16,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const SRC = path.join(__dirname, 'usda-src');
+const SRC = process.env.USDA_SRC || path.join(__dirname, '..', '..', '.usda-src-high-protein');
 const OUT_DIR = path.join(__dirname, '..', 'data');
 const ALLOWLIST = path.join(__dirname, 'food-allowlist.csv');
 
