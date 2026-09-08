@@ -1,0 +1,31 @@
+{
+  "_comment": "g per ml, for ml->g fallback when no portion matches. Keyed by food category token found in the food name/aliases. Default 1.0.",
+  "default": 1.0,
+  "byToken": {
+    "oil": 0.92,
+    "olive oil": 0.92,
+    "vegetable oil": 0.92,
+    "coconut oil": 0.92,
+    "butter": 0.911,
+    "ghee": 0.9,
+    "honey": 1.42,
+    "maple syrup": 1.37,
+    "syrup": 1.37,
+    "molasses": 1.4,
+    "agave": 1.35,
+    "milk": 1.03,
+    "cream": 1.01,
+    "yogurt": 1.03,
+    "water": 1.0,
+    "broth": 1.0,
+    "stock": 1.0,
+    "juice": 1.05,
+    "wine": 0.99,
+    "vinegar": 1.01,
+    "soy sauce": 1.2,
+    "flour": 0.53,
+    "sugar": 0.85,
+    "rice": 0.85,
+    "oats": 0.41
+  }
+}

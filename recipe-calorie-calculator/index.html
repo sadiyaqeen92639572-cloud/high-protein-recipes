@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Recipe Calorie Calculator — Free, No Sign-Up | High Protein Recipes</title>
+<meta name="description" content="Paste your ingredients and get calories, protein, carbs, fat and net carbs for the whole recipe, per serving, and per 100 g. Free, no account, no limits. Nutrition label included.">
+<link rel="canonical" href="https://realproteinkitchen.com/recipe-calorie-calculator/">
+<meta property="og:title" content="Recipe Calorie Calculator — Free, No Sign-Up | High Protein Recipes">
+<meta property="og:description" content="Paste your ingredients and get calories, protein, carbs, fat and net carbs for the whole recipe, per serving, and per 100 g. Free, no account, no limits. Nutrition label included.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://realproteinkitchen.com/recipe-calorie-calculator/">
+<meta property="og:image" content="https://realproteinkitchen.com/images/high-protein-chicken-soup/hero.jpg">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebApplication","name":"Recipe Calorie Calculator","url":"https://realproteinkitchen.com/recipe-calorie-calculator/","applicationCategory":"HealthApplication","operatingSystem":"Web","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"description":"Paste your ingredients and get calories, protein, carbs, fat and net carbs for the whole recipe, per serving, and per 100 g. Free, no account, no limits. Nutrition label included.","isPartOf":{"@type":"WebSite","name":"High Protein Recipes","url":"https://realproteinkitchen.com/"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"High Protein Recipes","item":"https://realproteinkitchen.com/"},{"@type":"ListItem","position":2,"name":"Recipe Calorie Calculator","item":"https://realproteinkitchen.com/recipe-calorie-calculator/"}]},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is the recipe calorie calculator free?","acceptedAnswer":{"@type":"Answer","text":"Yes, completely. No account, no sign-up, no monthly limit, no paywalled features. The nutrition label, per-100-g view and ingredient corrections that other tools charge for are all included."}},{"@type":"Question","name":"How accurate is it?","acceptedAnswer":{"@type":"Answer","text":"For recipes made of whole ingredients it's close, because it uses USDA per-100-g data and food-specific portion weights. The two things that move the number most are cooking oil (use the cooking method controls) and how precisely you enter amounts. It's an estimate, not a lab analysis."}},{"@type":"Question","name":"Does it count calories from cooking oil?","acceptedAnswer":{"@type":"Answer","text":"Only if you tell it. Pick a cooking method and enter how many tablespoons of oil or butter you added; deep-frying also adds an absorption estimate. Both appear as a separate “cooking additions” line so nothing is hidden."}},{"@type":"Question","name":"What's the difference between per serving and per 100 g?","acceptedAnswer":{"@type":"Answer","text":"Per serving divides the whole-recipe total by the number of servings you set. Per 100 g divides by the recipe's total weight and multiplies by 100 — it's the format used on nutrition labels and the fairest way to compare two recipes."}},{"@type":"Question","name":"How is net carbs calculated?","acceptedAnswer":{"@type":"Answer","text":"Net carbs = total carbohydrate minus fibre. The calculator shows it per serving and flags the recipe as keto-friendly when net carbs per serving are 10 g or lower."}},{"@type":"Question","name":"Do I need to enter cooked or raw weights?","acceptedAnswer":{"@type":"Answer","text":"Enter it the way the recipe is written. A recipe ingredient list almost always means the raw or dry form — “1 cup rice” is dry rice you cook in the recipe. If a line is ambiguous the calculator assumes raw/dry and flags it in the transparency panel so you can switch it to the cooked entry."}},{"@type":"Question","name":"Can I paste a recipe URL?","acceptedAnswer":{"@type":"Answer","text":"Not yet — paste the ingredient list itself for now. URL import is planned."}},{"@type":"Question","name":"Is my recipe data private?","acceptedAnswer":{"@type":"Answer","text":"Yes. The whole calculation runs in your browser. Nothing you paste is uploaded, logged, or shared. Your last recipe is saved only in your own browser's local storage so it's there when you come back."}}]},{"@type":"Organization","name":"High Protein Recipes","legalName":"Gesmine-Invest Limited","identifier":{"@type":"PropertyValue","propertyID":"UK Company Number","value":"14120136"},"address":{"@type":"PostalAddress","streetAddress":"Hardy House, 269 Poynders Gardens","addressLocality":"London","postalCode":"SW4 8PQ","addressCountry":"GB"}}]}</script>
+<style>
+:root{--bg:#fffaf5;--text:#2b2119;--accent:#c96f4a;--muted:#7a6a5c;--border:#eee0d3;}
+html{font-size:18px;}
+body{font-family:Georgia,'Times New Roman',serif;background:var(--bg);color:var(--text);margin:0;line-height:1.7;}
+.wrap{max-width:960px;margin:0 auto;padding:1.5rem;}
+h1{font-family:Inter,sans-serif;font-size:2rem;max-width:640px;}
+h2{font-family:Inter,sans-serif;font-size:1.35rem;margin-top:2.5rem;}
+h3{font-family:Inter,sans-serif;font-size:1.05rem;}
+a{color:var(--accent);}
+.meta{font-family:Inter,sans-serif;color:var(--muted);font-size:.85rem;}
+.prose{max-width:680px;}
+.prose p{margin:1rem 0;}
+.faq-item{max-width:680px;margin:1.4rem 0;}
+.faq-item h3{margin-bottom:.3rem;}
+.faq-item p{margin:0;color:var(--muted);}
+table.data{border-collapse:collapse;width:100%;max-width:680px;font-family:Inter,sans-serif;font-size:.9rem;}
+table.data th,table.data td{border:1px solid var(--border);padding:.5rem .7rem;text-align:left;}
+table.data th{background:#fff;}
+@media(max-width:600px){.wrap{padding:1rem;}h1{font-size:1.5rem;}}
+</style>
+<link rel="stylesheet" href="/recipe-calorie-calculator/calc.css">
+<script defer src="/recipe-calorie-calculator/engine.js"></script>
+<script defer src="/recipe-calorie-calculator/foods.js"></script>
+<script defer src="/recipe-calorie-calculator/calc.js"></script>
+</head>
+<body>
+<div class="wrap">
+
+  <p class="meta"><a href="/">High Protein Recipes</a> &rsaquo; Recipe Calorie Calculator</p>
+  <h1>Recipe Calorie Calculator</h1>
+  <div class="prose"><p>Paste a recipe's ingredient list below. This tool matches each line to the USDA food database, converts the amount to grams, and adds up the nutrition — shown three ways at once: the whole recipe, per serving, and per 100 g.</p><p>No account, no sign-up, no monthly limit. Everything runs in your browser and nothing you type is sent anywhere.</p></div>
+
+  <div id="rcc-app">
+    <label for="rcc-input" class="meta">Ingredients — one per line</label>
+    <textarea id="rcc-input" rows="9" spellcheck="false" placeholder="200 g chicken breast&#10;1 cup white rice, cooked&#10;1 tbsp olive oil&#10;2 cups broccoli"></textarea>
+    <div class="rcc-controls">
+      <label>Servings <input id="rcc-servings" type="number" min="1" value="4" inputmode="numeric"></label>
+      <label>Cooking method
+        <select id="rcc-method">
+          <option value="none">raw / not cooked</option>
+          <option value="baked">baked / roasted</option>
+          <option value="pan">pan-fried</option>
+          <option value="deep-fried">deep-fried</option>
+        </select>
+      </label>
+      <label>Added oil / butter (tbsp) <input id="rcc-fat" type="number" min="0" step="0.5" value="0" inputmode="decimal"></label>
+      <button id="rcc-go" type="button">Calculate</button>
+    </div>
+    <p id="rcc-status" class="meta" role="status"></p>
+
+    <div id="rcc-results" hidden>
+      <div class="tbl-scroll"><table class="data" id="rcc-totals"></table></div>
+      <p class="meta" id="rcc-flags"></p>
+      <p class="meta">Estimates calculated from USDA SR Legacy. Not a substitute for advice from a dietitian.</p>
+      <button id="rcc-label-toggle" type="button">Show nutrition label</button>
+      <div id="rcc-label" hidden></div>
+      <h2>What matched</h2>
+      <div class="tbl-scroll"><table class="data" id="rcc-transparency"></table></div>
+      <p class="meta">Data: USDA FoodData Central, SR Legacy — a fixed dataset, last revised 2018.</p>
+      <!-- affiliate slot (inert until an account exists)
+      <div id="rcc-affil"></div> -->
+    </div>
+  </div>
+
+  <div class="prose"><h2>How the recipe calorie calculator works</h2>
+<p>Every line is read as <em>amount + unit + food</em>. “200 g chicken breast”, “1 cup white rice, cooked”, “2 tbsp olive oil” all work. Unit conversions for cups, tablespoons and teaspoons come from the food itself (a cup of cooked rice and a cup of chopped broccoli weigh very different amounts), not a single generic table.</p><p>The result panel shows calories, protein, carbohydrate, fat, fibre, sugar, sodium, saturated fat and cholesterol. Net carbs (carbohydrate minus fibre) and a protein / carb / fat split are calculated for the per-serving column, with a quick <strong>keto</strong> and <strong>high-protein</strong> check.</p>
+<h2>It counts the cooking oil</h2>
+<p>Photo-based calorie apps routinely miss 250–350 kcal per meal because they can't see absorbed oil, butter in a sauce, or a pre-mixed dressing. This calculator asks instead: choose a cooking method and enter how much oil or butter you added, and those calories are added as their own line so you can see exactly what changed.</p>
+<h2>Per serving, per 100 g, or the whole recipe</h2>
+<p>Set the number of servings and the per-serving column updates. The per-100-g column is useful for comparing recipes or filling in a nutrition label. All three columns are always visible — no toggle, no upgrade.</p>
+<h2>Printable nutrition label</h2>
+<p>Click <em>Show nutrition label</em> for a standard vertical Nutrition Facts panel based on the per-serving values. It prints cleanly — handy for meal-prep containers, bake sales, or cottage-food labelling.</p>
+<h2>Where the numbers come from</h2>
+<p>Nutrition data is from <a href="https://fdc.nal.usda.gov/" rel="noopener">USDA FoodData Central</a>, SR Legacy release — a fixed dataset, last revised in 2018. The transparency panel under the results shows which USDA entry each ingredient matched and how confident the match is, and lets you change any of them. These are estimates and don't replace advice from a dietitian.</p></div>
+  <h2>Frequently asked questions</h2>
+  <div class="faq-item"><h3>Is the recipe calorie calculator free?</h3><p>Yes, completely. No account, no sign-up, no monthly limit, no paywalled features. The nutrition label, per-100-g view and ingredient corrections that other tools charge for are all included.</p></div>
+<div class="faq-item"><h3>How accurate is it?</h3><p>For recipes made of whole ingredients it's close, because it uses USDA per-100-g data and food-specific portion weights. The two things that move the number most are cooking oil (use the cooking method controls) and how precisely you enter amounts. It's an estimate, not a lab analysis.</p></div>
+<div class="faq-item"><h3>Does it count calories from cooking oil?</h3><p>Only if you tell it. Pick a cooking method and enter how many tablespoons of oil or butter you added; deep-frying also adds an absorption estimate. Both appear as a separate “cooking additions” line so nothing is hidden.</p></div>
+<div class="faq-item"><h3>What's the difference between per serving and per 100 g?</h3><p>Per serving divides the whole-recipe total by the number of servings you set. Per 100 g divides by the recipe's total weight and multiplies by 100 — it's the format used on nutrition labels and the fairest way to compare two recipes.</p></div>
+<div class="faq-item"><h3>How is net carbs calculated?</h3><p>Net carbs = total carbohydrate minus fibre. The calculator shows it per serving and flags the recipe as keto-friendly when net carbs per serving are 10 g or lower.</p></div>
+<div class="faq-item"><h3>Do I need to enter cooked or raw weights?</h3><p>Enter it the way the recipe is written. A recipe ingredient list almost always means the raw or dry form — “1 cup rice” is dry rice you cook in the recipe. If a line is ambiguous the calculator assumes raw/dry and flags it in the transparency panel so you can switch it to the cooked entry.</p></div>
+<div class="faq-item"><h3>Can I paste a recipe URL?</h3><p>Not yet — paste the ingredient list itself for now. URL import is planned.</p></div>
+<div class="faq-item"><h3>Is my recipe data private?</h3><p>Yes. The whole calculation runs in your browser. Nothing you paste is uploaded, logged, or shared. Your last recipe is saved only in your own browser's local storage so it's there when you come back.</p></div>
+  <p class="meta"><a href="/">More high-protein recipes</a> &middot; <a href="/soup/">Soups</a> &middot; <a href="/meal-prep/">Meal prep</a></p>
+
+</div>
+<footer style="max-width:720px;margin:0 auto;padding:24px 16px;text-align:center;">
+  <p style="font-size:.72rem;color:#666;">High Protein Recipes is part of Gesmine-Invest Limited, registered UK company number 14120136, registered office address at Hardy House, 269 Poynders Gardens, London, London, United Kingdom, SW4 8PQ.</p>
+</footer>
+</body>
+</html>

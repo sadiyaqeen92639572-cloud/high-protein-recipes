@@ -1,0 +1,109 @@
+# key	must-have (comma)	exclude (comma)
+chicken breast raw	chicken, broiler, breast, meat only, raw	skin,ground,canned,fried
+chicken breast cooked	chicken, broiler, breast, meat only, cooked, roasted	skin,stewed,fried
+chicken thigh cooked	chicken, broiler, thigh, meat only, cooked, roasted	skin,stewed,fried
+chicken drumstick cooked	chicken, broiler, drumstick, meat only, cooked, roasted	skin,stewed
+turkey breast cooked	turkey, breast, meat only, roasted	skin,prepackaged,deli
+ground beef raw	beef, ground, 90% lean, raw	patty,crumbles
+ground beef cooked	beef, ground, 90% lean, 10% fat, patty, cooked, pan-broiled	raw
+ground turkey cooked	turkey, ground, cooked	raw,patty
+beef sirloin cooked	beef, top sirloin, steak, separable lean only, cooked, broiled	raw
+pork chop cooked	pork, loin, center rib, boneless, separable lean only, cooked	raw,brined
+bacon cooked	pork, bacon, cooked	canadian,turkey,raw,microwaved
+salmon raw	fish, salmon, atlantic, farmed, raw
+salmon cooked	fish, salmon, atlantic, farmed, cooked, dry heat
+tuna canned	fish, tuna, light, canned in water, drained solids
+shrimp cooked	crustaceans, shrimp, cooked	imitation,breaded,canned
+cod cooked	fish, cod, atlantic, cooked, dry heat
+tilapia cooked	fish, tilapia, cooked, dry heat
+egg raw	egg, whole, raw, fresh	white,yolk,dried
+egg cooked	egg, whole, cooked, hard-boiled	white,yolk
+egg white raw	egg, white, raw, fresh	dried
+tofu firm	tofu, raw, firm, prepared with calcium sulfate	fried,silken
+tempeh	tempeh	cooked
+edamame cooked	soybeans, green, cooked, boiled, drained, without salt
+black beans cooked	beans, black, mature seeds, cooked, boiled, without salt	canned
+kidney beans cooked	beans, kidney, red, mature seeds, cooked, boiled, without salt	canned
+chickpeas cooked	chickpeas, garbanzo beans, mature seeds, cooked, boiled, without salt	canned
+white beans cooked	beans, white, mature seeds, cooked, boiled, without salt	canned
+lentils cooked	lentils, mature seeds, cooked, boiled, without salt
+pinto beans cooked	beans, pinto, mature seeds, cooked, boiled, without salt	canned
+milk 2 percent	milk, reduced fat, fluid, 2% milkfat, with added vitamin a and vitamin d
+milk whole	milk, whole, 3.25% milkfat, with added vitamin d
+milk skim	milk, nonfat, fluid, with added vitamin a and vitamin d
+greek yogurt plain nonfat	yogurt, greek, plain, nonfat
+yogurt plain whole milk	yogurt, plain, whole milk	greek
+cottage cheese lowfat	cheese, cottage, lowfat, 2% milkfat
+cheddar cheese	cheese, cheddar	reduced fat,lowfat
+mozzarella cheese	cheese, mozzarella, whole milk	part skim,low moisture
+parmesan cheese	cheese, parmesan, grated
+feta cheese	cheese, feta
+butter	butter, salted	whipped,light,oil
+cream heavy	cream, fluid, heavy whipping
+sour cream	cream, sour, cultured	reduced fat,light,fat free
+olive oil	oil, olive, salad or cooking
+vegetable oil	oil, canola
+coconut oil	oil, coconut
+white rice raw	rice, white, long-grain, regular, raw, enriched
+white rice cooked	rice, white, long-grain, regular, enriched, cooked	salt,unenriched
+brown rice raw	rice, brown, long-grain, raw
+brown rice cooked	rice, brown, long-grain, cooked	salt
+pasta raw	pasta, dry, enriched	cooked,spinach,whole wheat,gluten
+pasta cooked	pasta, cooked, enriched, without added salt	spinach,whole wheat
+quinoa raw	quinoa, uncooked
+quinoa cooked	quinoa, cooked
+oats raw	oats	cooked,fortified
+rolled oats	cereals, oats, regular and quick, unenriched, cooked with water, without salt
+couscous cooked	couscous, cooked
+bread white	bread, white, commercially prepared	crumbs,toasted,reduced calorie
+bread whole wheat	bread, whole-wheat, commercially prepared	toasted
+tortilla flour	tortillas, ready-to-bake or -fry, flour, refrigerated
+tortilla corn	tortillas, ready-to-bake or -fry, corn
+potato raw	potatoes, flesh and skin, raw	sweet,mashed,canned
+potato baked	potatoes, baked, flesh and skin, without salt	sweet
+sweet potato raw	sweet potato, raw, unprepared
+sweet potato baked	sweet potato, cooked, baked in skin, without salt
+broccoli raw	broccoli, raw
+broccoli cooked	broccoli, cooked, boiled, drained, without salt
+spinach raw	spinach, raw
+spinach cooked	spinach, cooked, boiled, drained, without salt
+kale raw	kale, raw
+carrots raw	carrots, raw
+bell pepper red raw	peppers, sweet, red, raw
+onion raw	onions, raw	spring,green,welsh
+garlic raw	garlic, raw
+tomato raw	tomatoes, red, ripe, raw, year round average
+cucumber raw	cucumber, with peel, raw
+lettuce romaine	lettuce, cos or romaine, raw
+zucchini raw	squash, summer, zucchini, includes skin, raw
+cauliflower raw	cauliflower, raw
+green beans cooked	beans, snap, green, cooked, boiled, drained, without salt	canned
+mushrooms raw	mushrooms, white, raw
+asparagus cooked	asparagus, cooked, boiled, drained
+corn cooked	corn, sweet, yellow, cooked, boiled, drained, without salt	canned,cream
+peas cooked	peas, green, cooked, boiled, drained, without salt	canned,split
+avocado	avocados, raw, all commercial varieties
+banana	bananas, raw
+apple	apples, raw, with skin
+orange	oranges, raw, all commercial varieties
+strawberries	strawberries, raw
+blueberries	blueberries, raw
+grapes	grapes, red or green, raw
+pineapple raw	pineapple, raw, all varieties
+mango raw	mango, raw
+lemon juice	lemon juice, raw
+almonds	nuts, almonds	dry roasted,oil roasted,blanched,honey
+walnuts	nuts, walnuts, english
+cashews raw	nuts, cashew nuts, raw
+peanut butter	peanut butter, smooth style, with salt	reduced fat
+peanuts	peanuts, all types, raw
+chia seeds	seeds, chia seeds, dried
+flaxseed	seeds, flaxseed
+sunflower seeds	seeds, sunflower seed kernels, dried
+pumpkin seeds	seeds, pumpkin and squash seed kernels, dried
+sugar white	sugars, granulated
+brown sugar	sugars, brown
+honey	honey
+maple syrup	syrups, maple
+all purpose flour	wheat flour, white, all-purpose, enriched, bleached	self-rising
+soy sauce	soy sauce made from soy and wheat (shoyu)	low sodium,tamari

@@ -1,0 +1,61 @@
+/* calc.css — recipe calorie calculator UI */
+#rcc-app { max-width: 680px; margin: 1.5rem 0; font-family: Inter, sans-serif; }
+#rcc-input {
+  width: 100%; box-sizing: border-box; font: 15px/1.6 ui-monospace, Menlo, Consolas, monospace;
+  padding: .8rem; border: 1px solid var(--border); border-radius: 8px; background: #fff; resize: vertical;
+}
+.rcc-controls { display: flex; flex-wrap: wrap; gap: .8rem 1.2rem; align-items: flex-end; margin: .9rem 0; }
+.rcc-controls label { font-size: .82rem; color: var(--muted); display: flex; flex-direction: column; gap: .25rem; }
+.rcc-controls input, .rcc-controls select {
+  font: inherit; padding: .45rem .5rem; border: 1px solid var(--border); border-radius: 6px; background: #fff;
+}
+.rcc-controls input[type=number] { width: 5.5rem; }
+#rcc-go {
+  background: var(--accent); color: #fff; border: 0; border-radius: 8px; padding: .6rem 1.4rem;
+  font: 600 15px Inter, sans-serif; cursor: pointer;
+}
+#rcc-go:hover { filter: brightness(.94); }
+#rcc-status { margin: .4rem 0 0; }
+
+#rcc-results { margin-top: 1.5rem; }
+.tbl-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; margin: .6rem 0 1rem; }
+.tbl-scroll table.data { margin: 0; min-width: 340px; }
+#rcc-transparency { min-width: 520px; }
+#rcc-results table.data { margin: .6rem 0 1rem; }
+#rcc-results td.cook, #rcc-results td .hint { color: var(--muted); }
+#rcc-results .hint { font-style: italic; font-size: .8em; }
+#rcc-transparency select { font: inherit; max-width: 12rem; padding: .3rem; border: 1px solid var(--border); border-radius: 6px; }
+
+.badge {
+  display: inline-block; font-size: .72rem; font-weight: 600; padding: .1rem .5rem; border-radius: 20px;
+  background: #eee; color: #555; white-space: nowrap;
+}
+.badge.ok { background: #e3f0e3; color: #2b6b2b; }
+.badge.warn { background: #fdf0e0; color: #8a5a1a; }
+.badge.bad { background: #fbe3e3; color: #9a2b2b; }
+
+#rcc-label-toggle {
+  background: #fff; border: 1px solid var(--border); border-radius: 8px; padding: .5rem 1rem;
+  font: 600 14px Inter, sans-serif; cursor: pointer;
+}
+.fda {
+  max-width: 320px; border: 2px solid #000; padding: .5rem .7rem; background: #fff;
+  font-family: Helvetica, Arial, sans-serif; margin: 1rem 0;
+}
+.fda-t { font-size: 1.8rem; font-weight: 800; border-bottom: 10px solid #000; padding-bottom: .1rem; line-height: 1; }
+.fda-s { font-size: .8rem; padding: .2rem 0; border-bottom: 1px solid #000; }
+.fda-row { display: flex; justify-content: space-between; font-size: .85rem; border-bottom: 1px solid #ccc; padding: .15rem 0; }
+.fda-row.big { font-size: 1.3rem; font-weight: 800; border-bottom: 4px solid #000; }
+.fda-hr { border-bottom: 6px solid #000; margin: .1rem 0; }
+.fda-f { font-size: .68rem; color: #333; padding-top: .3rem; }
+
+@media (max-width: 600px) {
+  .rcc-controls { gap: .6rem; }
+  #rcc-results table.data { font-size: .82rem; }
+  #rcc-transparency select { max-width: 8rem; }
+}
+@media print {
+  body * { visibility: hidden; }
+  #rcc-label, #rcc-label * { visibility: visible; }
+  #rcc-label { position: absolute; left: 0; top: 0; }
+}

@@ -1,0 +1,122 @@
+fdc_id,canonical_name,state,aliases,pseo
+171077,chicken breast,raw,chicken breast|raw chicken breast|chicken breast raw,0
+171477,chicken breast,cooked,cooked chicken breast|grilled chicken breast|roasted chicken breast|chicken breast cooked|chicken breasts,1
+172388,chicken thigh,cooked,cooked chicken thigh|chicken thighs|chicken thigh,1
+172376,chicken drumstick,cooked,chicken drumstick|chicken leg|drumstick,0
+171496,turkey breast,cooked,turkey breast|cooked turkey breast|roast turkey,0
+174030,ground beef,raw,ground beef|raw ground beef|minced beef|beef mince,0
+171793,ground beef,cooked,cooked ground beef|browned ground beef|ground beef cooked|hamburger meat,1
+171506,ground turkey,cooked,ground turkey|cooked ground turkey|turkey mince,0
+168635,sirloin steak,cooked,sirloin|sirloin steak|beef steak|steak,0
+168303,pork chop,cooked,pork chop|pork chops|pork loin,0
+167914,bacon,cooked,bacon|cooked bacon|streaky bacon,0
+175167,salmon,raw,raw salmon|salmon fillet raw|salmon,0
+175168,salmon,cooked,cooked salmon|baked salmon|grilled salmon|salmon fillet|salmon,1
+171986,canned tuna,cooked,canned tuna|tuna|tinned tuna|tuna in water,0
+175180,shrimp,cooked,shrimp|cooked shrimp|prawns|prawn,0
+171956,cod,cooked,cod|cooked cod|cod fillet,0
+175177,tilapia,cooked,tilapia|cooked tilapia,0
+171287,egg,raw,egg|eggs|whole egg|large egg|raw egg,1
+173424,egg,cooked,boiled egg|hard boiled egg|cooked egg|hard-boiled egg,0
+172183,egg white,raw,egg white|egg whites|raw egg white,0
+172475,firm tofu,,tofu|firm tofu|extra firm tofu|bean curd,1
+174272,tempeh,,tempeh,0
+169283,edamame,cooked,edamame|shelled edamame|cooked edamame|green soybeans,0
+173735,black beans,cooked,black beans|cooked black beans|black bean,0
+175194,kidney beans,cooked,kidney beans|red kidney beans|cooked kidney beans,0
+173757,chickpeas,cooked,chickpeas|garbanzo beans|cooked chickpeas|chick peas,1
+175203,white beans,cooked,white beans|cannellini beans|navy beans|cooked white beans,0
+172421,lentils,cooked,lentils|cooked lentils|brown lentils|green lentils|lentil,1
+175200,pinto beans,cooked,pinto beans|cooked pinto beans,0
+171267,2% milk,,milk|2% milk|reduced fat milk|semi skimmed milk|2 percent milk,0
+171265,whole milk,,whole milk|full fat milk|full cream milk,0
+171269,skim milk,,skim milk|nonfat milk|skimmed milk|fat free milk,0
+171312,nonfat greek yogurt,,greek yogurt|nonfat greek yogurt|plain greek yogurt|greek yoghurt|fat free greek yogurt,1
+171284,plain yogurt,,yogurt|plain yogurt|whole milk yogurt|natural yogurt|yoghurt,0
+172182,cottage cheese,,cottage cheese|lowfat cottage cheese|low fat cottage cheese|2% cottage cheese,1
+170899,cheddar cheese,,cheddar|cheddar cheese|grated cheddar|shredded cheddar|shredded cheese|shredded mexican cheese|mexican cheese blend|cheese blend|grated cheese,0
+170845,mozzarella cheese,,mozzarella|mozzarella cheese|shredded mozzarella,0
+171247,parmesan cheese,,parmesan|parmesan cheese|grated parmesan|parmigiano,0
+173420,feta cheese,,feta|feta cheese|crumbled feta,0
+173410,butter,,butter|salted butter|unsalted butter,0
+170859,heavy cream,,heavy cream|heavy whipping cream|double cream|whipping cream,0
+171257,sour cream,,sour cream|soured cream,0
+171413,olive oil,,olive oil|extra virgin olive oil|evoo,1
+172336,vegetable oil,,vegetable oil|canola oil|rapeseed oil|cooking oil|neutral oil,0
+171412,coconut oil,,coconut oil,0
+168877,white rice,raw,raw white rice|uncooked white rice|dry white rice|white rice raw|jasmine rice|basmati rice|long grain rice,0
+168878,white rice,cooked,rice|white rice|cooked white rice|cooked rice|steamed rice|white rice cooked,1
+169703,brown rice,raw,raw brown rice|uncooked brown rice|dry brown rice,0
+169704,brown rice,cooked,brown rice|cooked brown rice,0
+169736,pasta,raw,dry pasta|uncooked pasta|raw pasta|dried pasta,0
+169737,pasta,cooked,pasta|cooked pasta|spaghetti|penne|macaroni|noodles,0
+168874,quinoa,raw,raw quinoa|uncooked quinoa|dry quinoa,0
+168917,quinoa,cooked,quinoa|cooked quinoa,1
+173904,oats,raw,oats|rolled oats|dry oats|porridge oats|raw oats|oatmeal,0
+173905,oats,cooked,cooked oats|oatmeal|porridge|cooked oatmeal|made oatmeal,1
+169700,couscous,cooked,couscous|cooked couscous,0
+172818,white bread,,white bread|bread|slice of bread|sandwich bread,0
+172688,whole wheat bread,,whole wheat bread|wholemeal bread|whole grain bread|brown bread,0
+175037,flour tortilla,,flour tortilla|tortilla|wrap|tortilla wrap,0
+175036,corn tortilla,,corn tortilla|corn tortillas,0
+170026,potato,raw,raw potato|potato|potatoes,0
+170093,potato,cooked,baked potato|cooked potato|potato baked,1
+168482,sweet potato,raw,raw sweet potato|sweet potato uncooked,0
+168483,sweet potato,cooked,sweet potato|baked sweet potato|cooked sweet potato|sweet potatoes,1
+170379,broccoli,raw,broccoli|raw broccoli|broccoli florets|broccoli raw,1
+169967,broccoli,cooked,cooked broccoli|steamed broccoli|boiled broccoli,0
+168462,spinach,raw,spinach|raw spinach|baby spinach|fresh spinach,1
+168463,spinach,cooked,cooked spinach|wilted spinach|sauteed spinach,0
+168421,kale,raw,kale|raw kale|chopped kale,0
+170393,carrot,raw,carrot|carrots|raw carrot|shredded carrot,0
+170108,red bell pepper,raw,bell pepper|red bell pepper|red pepper|capsicum|sweet pepper,0
+170000,onion,raw,onion|onions|yellow onion|white onion|diced onion,0
+169230,garlic,raw,garlic|garlic clove|cloves of garlic|minced garlic,0
+170457,tomato,raw,tomato|tomatoes|fresh tomato|diced tomato,0
+168409,cucumber,raw,cucumber|cucumbers|sliced cucumber,1
+169247,romaine lettuce,raw,lettuce|romaine|romaine lettuce|cos lettuce|salad leaves,0
+169291,zucchini,raw,zucchini|courgette|raw zucchini,0
+169986,cauliflower,raw,cauliflower|raw cauliflower|cauliflower florets|riced cauliflower,0
+169141,green beans,cooked,green beans|cooked green beans|string beans|snap beans,0
+169251,mushrooms,raw,mushroom|mushrooms|white mushrooms|button mushrooms,0
+168390,asparagus,cooked,asparagus|cooked asparagus,0
+169999,sweet corn,cooked,corn|sweet corn|cooked corn|corn kernels,0
+170420,green peas,cooked,peas|green peas|cooked peas|garden peas,0
+171705,avocado,raw,avocado|avocados|half an avocado,1
+173944,banana,raw,banana|bananas|medium banana,1
+168202,apple,raw,apple|apples|medium apple,1
+169097,orange,raw,orange|oranges,0
+167762,strawberries,raw,strawberries|strawberry|sliced strawberries,1
+171711,blueberries,raw,blueberries|blueberry|mixed berries|frozen mixed berries|frozen berries|berries,0
+174683,grapes,raw,grapes|grape,0
+169124,pineapple,raw,pineapple|fresh pineapple,0
+169910,mango,raw,mango|mangoes|mangos,0
+167747,lemon juice,,lemon juice|juice of a lemon|fresh lemon juice,0
+170567,almonds,raw,almonds|almond|raw almonds,1
+170187,walnuts,raw,walnuts|walnut,0
+170162,cashews,raw,cashews|cashew|raw cashews,0
+174266,peanut butter,,peanut butter|pb|smooth peanut butter,1
+172430,peanuts,raw,peanuts|peanut|groundnuts,0
+170554,chia seeds,,chia seeds|chia|chia seed,0
+169414,flaxseed,,flaxseed|flax seeds|ground flaxseed|linseed,0
+170562,sunflower seeds,,sunflower seeds|sunflower seed,0
+170556,pumpkin seeds,,pumpkin seeds|pepitas,0
+169655,white sugar,,sugar|white sugar|granulated sugar|caster sugar,0
+168833,brown sugar,,brown sugar|light brown sugar|dark brown sugar,0
+169640,honey,,honey|raw honey,0
+169661,maple syrup,,maple syrup|pure maple syrup,0
+168894,all-purpose flour,,flour|all purpose flour|plain flour|white flour,0
+174277,soy sauce,,soy sauce|shoyu|light soy sauce,0
+169988,celery,raw,celery|celery stalk|celery stalks|celery rib,0
+170005,green onion,raw,green onion|green onions|scallion|scallions|spring onion|spring onions,0
+168156,lime juice,,lime juice|juice of a lime|fresh lime juice|lime,0
+169997,cilantro,raw,cilantro|coriander leaves|fresh cilantro|fresh coriander,0
+170416,parsley,raw,parsley|fresh parsley|flat leaf parsley|italian parsley,0
+172884,chicken broth,,chicken broth|chicken stock|low sodium chicken broth|low-sodium chicken broth,0
+171538,beef broth,,beef broth|beef stock|beef bouillon,0
+170173,coconut milk,,coconut milk|canned coconut milk|full fat coconut milk|light coconut milk,0
+168604,tahini,,tahini|sesame paste|sesame butter,0
+171723,dried cranberries,,dried cranberries|craisins|sweetened dried cranberries,0
+170051,canned tomatoes,,canned tomatoes|diced tomatoes|crushed tomatoes|tinned tomatoes|fire-roasted tomatoes|fire roasted diced tomatoes|canned diced tomatoes,0
+169231,ginger,raw,ginger|fresh ginger|ginger root|grated ginger,0
+172420,lentils,raw,dried lentils|raw lentils|dry lentils|red lentils|split red lentils|lentils raw,0
